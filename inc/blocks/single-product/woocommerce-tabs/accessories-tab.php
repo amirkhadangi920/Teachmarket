@@ -36,20 +36,20 @@
 							<span class="price">
 								<del>
 									<span class="woocommerce-Price-amount amount">
-									<span class="woocommerce-Price-currencySymbol">$</span>1,239.99</span>
+									<span class="woocommerce-Price-currencySymbol">تومان</span>1,239.99</span>
 								</del> 
 
 								<ins>
 									<span class="woocommerce-Price-amount amount">
-									<span class="woocommerce-Price-currencySymbol">$</span>997.00</span>
+									<span class="woocommerce-Price-currencySymbol">تومان</span>997.00</span>
 								</ins>
 							</span>
-							<h2 class="woocommerce-loop-product__title">60UH6150 60-Inch 4K Ultra HD Smart LED TV</h2> 
+							<h2 class="woocommerce-loop-product__title">60UH6150 60 اینچ 4K فوق العاده HD هوشمند تلویزیون LED</h2> 
 						</a>
 
 						<div class="checkbox accessory-checkbox">
 							<label>
-								<input type="checkbox" data-product-type="simple" data-product-id="185" data-price="997.00" class="product-check" checked=""> Remove
+								<input type="checkbox" data-product-type="simple" data-product-id="185" data-price="997.00" class="product-check" checked=""> برداشتن
 							</label>
 						</div>
 					</div>
@@ -62,14 +62,14 @@
 			<div class="total-price">
 				<span class="total-price-html price">
 					<span class="woocommerce-Price-amount amount">
-						<span class="woocommerce-Price-currencySymbol">$</span>1,666.94
+						<span class="woocommerce-Price-currencySymbol">تومان</span>1,666.94
 					</span>
 				</span><!-- .total-price-html --> 
-				<span>Bundle Price for Selected items</span>
+				<span>بسته بندی قیمت برای موارد انتخاب شده</span>
 			</div><!-- .total-price -->
 
 			<div class="accessories-add-all-to-cart">
-				<button class="button btn btn-primary add-all-to-cart" type="button">Add Bundle to cart</button>
+				<button class="button btn btn-primary add-all-to-cart" type="button">بسته بندی را به سبد خرید اضافه کنید</button>
 			</div><!-- .accessories-add-all-to-cart -->
 		</div><!-- .accessories-product-total-price -->
 	</div><!-- .accessories-wrapper -->
