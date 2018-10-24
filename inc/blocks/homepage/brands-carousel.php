@@ -47,7 +47,7 @@ $carousel_args 	= array(
 ?>
 
 <section class="brands-carousel">
-	<h2 class="sr-only">Brands Carousel</h2>
+	<h2 class="sr-only">مارک های چرخ فلک</h2>
 	<div class="col-full" data-ride="tm-slick-carousel" data-wrap=".brands" data-slick="<?php echo htmlspecialchars( json_encode( $carousel_args ), ENT_QUOTES, 'UTF-8' ); ?>">
 		<div class="brands">
 			<div class="item">
@@ -55,7 +55,7 @@ $carousel_args 	= array(
 					<figure>
 						<figcaption class="text-overlay">
 							<div class="info">
-								<h4>apple</h4>
+								<h4>سیب</h4>
 							</div><!-- /.info -->
 						</figcaption>
 						<img width="145" height="50" class="img-responsive desaturate" alt="apple" src="assets/images/brands/1.png">
@@ -68,7 +68,7 @@ $carousel_args 	= array(
 					<figure>
 						<figcaption class="text-overlay">
 							<div class="info">
-								<h4>bosch</h4>
+								<h4>بوش</h4>
 							</div><!-- /.info -->
 						</figcaption>
 						<img width="145" height="50" class="img-responsive desaturate" alt="bosch" src="assets/images/brands/2.png">
@@ -94,7 +94,7 @@ $carousel_args 	= array(
 					<figure>
 						<figcaption class="text-overlay">
 							<div class="info">
-								<h4>connect</h4>
+								<h4>اتصال</h4>
 							</div><!-- /.info -->
 						</figcaption>
 						<img width="145" height="50" class="img-responsive desaturate" alt="connect" src="assets/images/brands/4.png">
@@ -107,7 +107,7 @@ $carousel_args 	= array(
 					<figure>
 						<figcaption class="text-overlay">
 							<div class="info">
-								<h4>galaxy</h4>
+								<h4>گلکسی</h4>
 							</div><!-- /.info -->
 						</figcaption>
 						<img width="145" height="50" class="img-responsive desaturate" alt="galaxy" src="assets/images/brands/5.png">
@@ -133,7 +133,7 @@ $carousel_args 	= array(
 					<figure>
 						<figcaption class="text-overlay">
 							<div class="info">
-								<h4>handspot</h4>
+								<h4>دستشویی</h4>
 							</div><!-- /.info -->
 						</figcaption>
 						<img width="145" height="50" class="img-responsive desaturate" alt="handspot" src="assets/images/brands/7.png">
@@ -146,7 +146,7 @@ $carousel_args 	= array(
 					<figure>
 						<figcaption class="text-overlay">
 							<div class="info">
-								<h4>kinova</h4>
+								<h4>کینوا</h4>
 							</div><!-- /.info -->
 						</figcaption>
 						<img width="145" height="50" class="img-responsive desaturate" alt="kinova" src="assets/images/brands/8.png">
@@ -159,7 +159,7 @@ $carousel_args 	= array(
 					<figure>
 						<figcaption class="text-overlay">
 							<div class="info">
-								<h4>nespresso</h4>
+								<h4>Nespresso</h4>
 							</div><!-- /.info -->
 						</figcaption>
 						<img width="145" height="50" class="img-responsive desaturate" alt="nespresso" src="assets/images/brands/9.png">
@@ -172,7 +172,7 @@ $carousel_args 	= array(
 					<figure>
 						<figcaption class="text-overlay">
 							<div class="info">
-								<h4>samsung</h4>
+								<h4>سامسونگ</h4>
 							</div><!-- /.info -->
 						</figcaption>
 						<img width="145" height="50" class="img-responsive desaturate" alt="samsung" src="assets/images/brands/10.png">
@@ -185,7 +185,7 @@ $carousel_args 	= array(
 					<figure>
 						<figcaption class="text-overlay">
 							<div class="info">
-								<h4>speedway</h4>
+								<h4>سرعت سنج</h4>
 							</div><!-- /.info -->
 						</figcaption>
 						<img width="145" height="50" class="img-responsive desaturate" alt="speedway" src="assets/images/brands/11.png">
