@@ -1,6 +1,6 @@
 <?php
 
-	$carousel_single_args = array(
+	?????carousel_single_args = array(
 		'infinite'			=> false,
 		'slidesToShow'		=> 1,
 		'slidesToScroll'	=> 1,
@@ -9,7 +9,7 @@
 		'asNavFor'          => '#techmarket-single-product-gallery .techmarket-single-product-gallery-thumbnails__wrapper'
 	);
 	
-	$carousel_gallery_args = array(
+	?????carousel_gallery_args = array(
 		'infinite'			=> false,
 		'slidesToShow'		=> 4,
 		'slidesToScroll'    => 1,
@@ -44,11 +44,11 @@
 
 <div class="product-images-wrapper thumb-count-4"> 
 	<span class="onsale">-<span class="woocommerce-Price-amount amount">
-		<span class="woocommerce-Price-currencySymbol">$</span>242.99</span>
+		<span class="woocommerce-Price-currencySymbol">?????</span>242.99</span>
 	</span><!-- .onsale -->
 
 	<div id="techmarket-single-product-gallery" class="techmarket-single-product-gallery techmarket-single-product-gallery--with-images techmarket-single-product-gallery--columns-4 images" data-columns="4">
-		<div class="techmarket-single-product-gallery-images" data-ride="tm-slick-carousel" data-wrap=".woocommerce-product-gallery__wrapper" data-slick="<?php echo htmlspecialchars( json_encode( $carousel_single_args ), ENT_QUOTES, 'UTF-8' ); ?>">
+		<div class="techmarket-single-product-gallery-images" data-ride="tm-slick-carousel" data-wrap=".woocommerce-product-gallery__wrapper" data-slick="<?php echo htmlspecialchars( json_encode( ?????carousel_single_args ), ENT_QUOTES, 'UTF-8' ); ?>">
 			<div class="woocommerce-product-gallery woocommerce-product-gallery--with-images woocommerce-product-gallery--columns-4 images" data-columns="4">
 				<a href="#" class="woocommerce-product-gallery__trigger">🔍</a> 
 				<figure class="woocommerce-product-gallery__wrapper ">
@@ -86,7 +86,7 @@
 			</div><!-- .woocommerce-product-gallery -->
 		</div><!-- .techmarket-single-product-gallery-images -->
 
-		<div class="techmarket-single-product-gallery-thumbnails" data-ride="tm-slick-carousel" data-wrap=".techmarket-single-product-gallery-thumbnails__wrapper" data-slick="<?php echo htmlspecialchars( json_encode( $carousel_gallery_args ), ENT_QUOTES, 'UTF-8' ); ?>"> 
+		<div class="techmarket-single-product-gallery-thumbnails" data-ride="tm-slick-carousel" data-wrap=".techmarket-single-product-gallery-thumbnails__wrapper" data-slick="<?php echo htmlspecialchars( json_encode( ?????carousel_gallery_args ), ENT_QUOTES, 'UTF-8' ); ?>"> 
 			<figure class="techmarket-single-product-gallery-thumbnails__wrapper">
 			 
 				<figure data-thumb="assets/images/products/sm-card-1.jpg" class="techmarket-wc-product-gallery__image">
