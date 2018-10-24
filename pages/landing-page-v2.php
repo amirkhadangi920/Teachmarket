@@ -6,8 +6,8 @@
 					<?php require_once 'inc/blocks/homepage/slider/landing-v2-slider.php'; ?>
 
 					<div class="landing-v2-page-header">
-						<h2 class="section-title">Find the right TV for you</h2>
-						<div class="description">Nullam dignissim elit ut urna rutrum, a fermentum mi auctor. Mauris efficitur magna orci, et dignissim lacus scelerisque sit amet. Proin malesuada tincidunt nisl ac commodo. Vivamus eleifend porttitor ex sit amet suscipit. Vestibulum at ullamcorper lacus, vel facilisis arcu. Aliquam erat volutpat.</div>
+						<h2 class="section-title">تلویزیون مناسب را برای شما پیدا کنید</h2>
+						<div class="description">لورم ایپسوم متن ساختگی با تولید سادگی نامفهوم از صنعت چاپ و با استفاده از طراحان گرافیک است. چاپگرها و متون بلکه روزنامه و مجله در ستون و سطرآنچنان که لازم است و برای شرایط فعلی تکنولوژی مورد نیاز و کاربردهای متنوع با هدف بهبود ابزارهای کاربردی می باشد. </div>
 					</div><!-- .landing-v2-page-header -->
 
 					<div class="quick-scroll">
