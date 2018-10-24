@@ -13,27 +13,27 @@
 
 			<div class="form-group row">
 				<div class="col-xs-12 col-md-6">
-					<label>First name <abbr title="required" class="required">*</abbr></label><br>
+					<label>نام<abbr title="required" class="required">*</abbr></label><br>
 					<span class="wpcf7-form-control-wrap first-name">
 						<input type="text" aria-invalid="false" aria-required="true" class="wpcf7-form-control wpcf7-text wpcf7-validates-as-required input-text" size="40" value="" name="first-name">
 					</span>
 				</div><!-- .col -->
 
 				<div class="col-xs-12 col-md-6">
-					<label>Last name <abbr title="required" class="required">*</abbr></label><br>
+					<label>نام خانوادگی <abbr title="required" class="required">*</abbr></label><br>
 					<span class="wpcf7-form-control-wrap last-name"><input type="text" aria-invalid="false" aria-required="true" class="wpcf7-form-control wpcf7-text wpcf7-validates-as-required input-text" size="40" value="" name="last-name"></span>
 				</div><!-- .col -->
 			</div><!-- .form-group -->
 
 			<div class="form-group">
-				<label>Subject</label><br>
+				<label>موضوع</label><br>
 				<span class="wpcf7-form-control-wrap subject">
 					<input type="text" aria-invalid="false" class="wpcf7-form-control wpcf7-text input-text" size="40" value="" name="subject">
 				</span>
 			</div><!-- .form-group -->
 
 			<div class="form-group">
-				<label>Your Message</label><br>
+				<label>پیام شما</label><br>
 				<span class="wpcf7-form-control-wrap your-message"><textarea aria-invalid="false" class="wpcf7-form-control wpcf7-textarea" rows="10" cols="40" name="your-message"></textarea></span>
 			</div><!-- .form-group-->
 

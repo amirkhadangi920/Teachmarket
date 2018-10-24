@@ -2,9 +2,9 @@
 	<div class="col-full">
 		<div class="row">
 			<nav class="woocommerce-breadcrumb">
-				<a href="index.php">Home</a>
+				<a href="index.php">خانه</a>
 				<span class="delimiter"><i class="tm tm-breadcrumbs-arrow-right"></i></span>
-				About Us
+				درباره ی ما
 			</nav><!-- .woocommerce-breadcrumb -->
 
 			<div id="primary" class="content-area">
@@ -16,8 +16,8 @@
 							</div><!-- .page-featured-image -->
 
 							<div class="page-header-caption">
-								<h1 class="entry-title">About Us</h1>
-								<p class="entry-subtitle">Passion may be a friendly or eager interest in or admiration for a proposal,<br> cause, discovery, or activity or love to a feeling of unusual excitement. </p>
+								<h1 class="entry-title">درباره ی ما</h1>
+								<p class="entry-subtitle">شور و هیجان ممکن است علاقه ای به دوستانه یا مشتاق برای پیشنهاد یا تحسین باشد,<br>علت، کشف، یا فعالیت یا عشق به احساس هیجان غیرعادی.</p>
 							</div><!-- .page-header-caption -->
 						</header><!-- .entry-header -->
 
@@ -29,8 +29,8 @@
 		        					</div><!-- .single_image -->
 
 		        					<div class="text-block">
-		        						<h2 class="align-top">What we really do?</h2>
-										<p>Donec libero dolor, tincidunt id laoreet vitae,ullamcorper eu tortor. Maecenas pellentesque,dui vitae iaculis mattis, tortor nisi faucibus magna,vitae ultrices lacus purus vitae metus.</p>
+		        						<h2 class="align-top">آنچه ما واقعا انجام می دهیم؟</h2>
+										<p>لورم ایپسوم متن ساختگی با تولید سادگی نامفهوم از صنعت چاپ و با استفاده از طراحان گرافیک است. چاپگرها و متون بلکه روزنامه و مجله در ستون و سطرآنچنان که لازم است و برای شرایط فعلی تکنولوژی مورد نیاز و کاربردهای متنوع با هدف بهبود ابزارهای کاربردی می باشد. </p>
 									</div><!-- .text_block -->
 								</div><!-- .col -->
 							
@@ -41,8 +41,8 @@
 		        					</div><!-- .single_image -->
 
 		        					<div class="text-block">
-		        						<h2 class="align-top">Our Vision</h2>
-										<p>Donec libero dolor, tincidunt id laoreet vitae,ullamcorper eu tortor. Maecenas pellentesque,dui vitae iaculis mattis, tortor nisi faucibus magna,vitae ultrices lacus purus vitae metus.</p>
+		        						<h2 class="align-top">دیدگاه ما</h2>
+										<p>لورم ایپسوم متن ساختگی با تولید سادگی نامفهوم از صنعت چاپ و با استفاده از طراحان گرافیک است. چاپگرها و متون بلکه روزنامه و مجله در ستون و سطرآنچنان که لازم است و برای شرایط فعلی تکنولوژی مورد نیاز و کاربردهای متنوع با هدف بهبود ابزارهای کاربردی می باشد. .</p>
 									</div><!-- .text_block -->
 								</div><!-- .col -->
 
@@ -52,8 +52,8 @@
 		        					</div><!-- .single_image -->
 
 		        					<div class="text-block">
-		        						<h2 class="align-top">History of Beginning</h2>
-										<p>Donec libero dolor, tincidunt id laoreet vitae,ullamcorper eu tortor. Maecenas pellentesque,dui vitae iaculis mattis, tortor nisi faucibus magna,vitae ultrices lacus purus vitae metus.</p>
+		        						<h2 class="align-top">تاریخ شروع</h2>
+										<p>لورم ایپسوم متن ساختگی با تولید سادگی نامفهوم از صنعت چاپ و با استفاده از طراحان گرافیک است. چاپگرها و متون بلکه روزنامه و مجله در ستون و سطرآنچنان که لازم است و برای شرایط فعلی تکنولوژی مورد نیاز و کاربردهای متنوع با هدف بهبود ابزارهای کاربردی می باشد. </p>
 									</div><!-- .text_block -->
 								</div><!-- .col -->
 							</div><!-- .about-features -->
@@ -65,7 +65,7 @@
 											<div class="team-member">
 												<img src="assets/images/team-member/1.jpg" alt="">
 												<div class="profile">
-													<h3>Thomas Snow <small class="description">CEO/Founder</small>
+													<h3>توماس <small class="description">CEO/Founder</small>
 													</h3>
 												</div>
 											</div>
@@ -75,7 +75,7 @@
 											<div class="team-member circle">
 												<img src="assets/images/team-member/2.jpg" alt="">
 												<div class="profile">
-													<h3>Anna Baranov  <small class="description">Client Care</small>
+													<h3>النا  <small class="description">مراقبت از مشتری</small>
 													</h3>
 												</div>
 											</div>
@@ -85,7 +85,7 @@
 											<div class="team-member circle">
 												<img src="assets/images/team-member/3.jpg" alt="">
 												<div class="profile">
-													<h3>Andre Kowalsy  <small class="description">Support Boss</small>
+													<h3>علی<small class="description">پشتیبانی از رئیس</small>
 													</h3>
 												</div>
 											</div>
@@ -95,7 +95,7 @@
 											<div class="team-member circle">
 												<img src="assets/images/team-member/4.jpg" alt="">
 												<div class="profile">
-													<h3>Pamela Doe  <small class="description">Delivery Driver</small>
+													<h3>رضا<small class="description">درایور تحویل</small>
 													</h3>
 												</div>
 											</div>
@@ -105,7 +105,7 @@
 											<div class="team-member circle">
 												<img src="assets/images/team-member/5.jpg" alt="">
 												<div class="profile">
-													<h3>Susan McCain  <small class="description">Packaging Girl</small>
+													<h3>سامان<small class="description">بسته بندی دختر</small>
 													</h3>
 												</div>
 											</div>
@@ -116,7 +116,7 @@
 											<div class="team-member circle">
 												<img src="assets/images/team-member/7.png" alt="">
 												<div class="profile">
-													<h3>See Details  <small class="description"></small>
+													<h3>دیدن جزئیات  <small class="description"></small>
 													</h3>
 												</div>
 											</div>
@@ -130,8 +130,8 @@
 									<div class="row first-row">
 										<div class="col-sm-6">
 											<div class="text-block">
-												<h3 class="highlight">What we really do?</h3>
-												<p>Donec libero dolor, tincidunt id laoreet vitae, ullamcorper eu tortor. Maecenas pellentesque, dui vitae iaculis mattis, tortor nisi faucibus magna, vitae ultrices lacus purus vitae metus. Ut nec odio facilisis, ultricies nunc eget, fringilla orci.</p>
+												<h3 class="highlight">ما واقعا چه کاری انجام می دهیم؟ </h3>
+												<p>لورم ایپسوم متن ساختگی با تولید سادگی نامفهوم از صنعت چاپ و با استفاده از طراحان گرافیک است. چاپگرها و متون بلکه روزنامه و مجله در ستون و سطرآنچنان که لازم است و برای شرایط فعلی تکنولوژی مورد نیاز و کاربردهای متنوع با هدف بهبود ابزارهای کاربردی می باشد. </p>
 
 											</div><!-- .text-block -->
 										</div><!-- .col -->
@@ -139,8 +139,8 @@
 
 										<div class="col-sm-6">
 											<div class="text-block">
-												<h3 class="highlight">Our Vision</h3>
-												<p>Vestibulum velit nibh, egestas vel faucibus vitae, feugiat sollicitudin urna. Praesent iaculis id ipsum sit amet pretium. Aliquam tristique sapien nec enim euismod, scelerisque facilisis arcu consectetur. Vestibulum velit nibh, egestas vel faucibus vitae.</p>
+												<h3 class="highlight">دیدگاه ما</h3>
+												<p>لورم ایپسوم متن ساختگی با تولید سادگی نامفهوم از صنعت چاپ و با استفاده از طراحان گرافیک است. چاپگرها و متون بلکه روزنامه و مجله در ستون و سطرآنچنان که لازم است و برای شرایط فعلی تکنولوژی مورد نیاز و کاربردهای متنوع با هدف بهبود ابزارهای کاربردی می باشد. </p>
 
 											</div><!-- .text-block -->
 										</div><!-- .col -->		
@@ -149,8 +149,8 @@
 									<div class="row">
 										<div class="col-sm-6">
 											<div class="text-block">
-												<h3 class="highlight">What we really do?</h3>
-												<p>Donec libero dolor, tincidunt id laoreet vitae, ullamcorper eu tortor. Maecenas pellentesque, dui vitae iaculis mattis, tortor nisi faucibus magna, vitae ultrices lacus purus vitae metus. Ut nec odio facilisis, ultricies nunc eget, fringilla orci.</p>
+												<h3 class="highlight">ما واقعا چه کاری انجام می دهیم؟ </h3>
+												<p>لورم ایپسوم متن ساختگی با تولید سادگی نامفهوم از صنعت چاپ و با استفاده از طراحان گرافیک است. چاپگرها و متون بلکه روزنامه و مجله در ستون و سطرآنچنان که لازم است و برای شرایط فعلی تکنولوژی مورد نیاز و کاربردهای متنوع با هدف بهبود ابزارهای کاربردی می باشد. </p>
 
 											</div><!-- .text-block -->
 										</div><!-- .col -->
@@ -158,8 +158,8 @@
 
 										<div class="col-sm-6">
 											<div class="text-block">
-												<h3 class="highlight">Our Vision</h3>
-												<p>Vestibulum velit nibh, egestas vel faucibus vitae, feugiat sollicitudin urna. Praesent iaculis id ipsum sit amet pretium. Aliquam tristique sapien nec enim euismod, scelerisque facilisis arcu consectetur. Vestibulum velit nibh, egestas vel faucibus vitae.</p>
+												<h3 class="highlight">دیدگاه ما</h3>
+												<p>لورم ایپسوم متن ساختگی با تولید سادگی نامفهوم از صنعت چاپ و با استفاده از طراحان گرافیک است. چاپگرها و متون بلکه روزنامه و مجله در ستون و سطرآنچنان که لازم است و برای شرایط فعلی تکنولوژی مورد نیاز و کاربردهای متنوع با هدف بهبود ابزارهای کاربردی می باشد. </p>
 
 											</div><!-- .text-block -->
 										</div><!-- .col -->		
