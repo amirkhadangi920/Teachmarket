@@ -81,7 +81,7 @@ $carousel_args 	= array(
 					<figure>
 						<figcaption class="text-overlay">
 							<div class="info">
-								<h4>cannon</h4>
+								<h4>توپ</h4>
 							</div><!-- /.info -->
 						</figcaption>
 						<img width="145" height="50" class="img-responsive desaturate" alt="cannon" src="assets/images/brands/3.png">
@@ -120,7 +120,7 @@ $carousel_args 	= array(
 					<figure>
 						<figcaption class="text-overlay">
 							<div class="info">
-								<h4>gopro</h4>
+								<h4>گوپرو</h4>
 							</div><!-- /.info -->
 						</figcaption>
 						<img width="145" height="50" class="img-responsive desaturate" alt="gopro" src="assets/images/brands/6.png">
@@ -198,7 +198,7 @@ $carousel_args 	= array(
 					<figure>
 						<figcaption class="text-overlay">
 							<div class="info">
-								<h4>yoko</h4>
+								<h4>یوکو</h4>
 							</div><!-- /.info -->
 						</figcaption>
 						<img width="145" height="50" class="img-responsive desaturate" alt="yoko" src="assets/images/brands/12.png">
