@@ -43,7 +43,7 @@
 
 <section class="section-landscape-products-carousel recently-viewed" id="recently-viewed">
 	<header class="section-header">
-		<h2 class="section-title">Recently viewed products</h2>
+		<h2 class="section-title">محصولات اخیرا مشاهده شده</h2>
 		<nav class="custom-slick-nav"></nav>
 	</header>
 

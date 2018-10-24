@@ -27,7 +27,7 @@
 <div class="widget widget_techmarket_products_carousel_widget">
 	<section id="single-sidebar-carousel" class="section-products-carousel">
 		<header class="section-header">
-			<h2 class="section-title">Pressure Washers 2017</h2>
+			<h2 class="section-title">واشر فشار 2017</h2>
 			<nav class="custom-slick-nav"></nav>
 		</header><!-- .section-header -->
 
@@ -48,7 +48,7 @@
 								
 											</span><!-- .price -->
 
-											<h2 class="woocommerce-loop-product__title">S100 Wireless Bluetooth  Speaker – Neon Green</h2>
+											<h2 class="woocommerce-loop-product__title">اسپیکر بلوتوث بی سیم S100 - نئون سبز</h2>
 
 											<div class="techmarket-product-rating">
 												<div title="Rated 0 out of 5" class="star-rating"><span style="width:0%"><strong class="rating">0</strong> out of 5</span>
