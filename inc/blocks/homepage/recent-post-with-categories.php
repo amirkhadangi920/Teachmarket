@@ -11,13 +11,13 @@ $productImage = array(
 
 <section class="section-recent-posts-with-categories">
 	<div class="center-block">
-		<h2 class="section-title">Welcome in Gaming World.</h2>
-		<div class="description">Nullam dignissim elit ut urna rutrum, a fermentum mi auctor. Mauris efficitur magna orci, et dignissim lacus scelerisque sit amet. Proin malesuada tincidunt nisl ac commodo. Vivamus eleifend porttitor ex sit amet suscipit. Vestibulum at ullamcorper lacus, vel facilisis arcu. Aliquam erat volutpat.</div>
+		<h2 class="section-title">به جهان بازی خوش آمدید</h2>
+		<div class="description">لورم ایپسوم متن ساختگی با تولید سادگی نامفهوم از صنعت چاپ و با استفاده از طراحان گرافیک است. چاپگرها و متون بلکه روزنامه و مجله در ستون و سطرآنچنان که لازم است و برای شرایط فعلی تکنولوژی مورد نیاز و کاربردهای متنوع با هدف بهبود ابزارهای کاربردی می باشد. </div>
 		<ul class="nav nav-inline categories">
-			<li class="nav-item"><a href="index.php?page=blog-single" class="nav-link">Accessories</a></li>
-			<li class="nav-item"><a href="index.php?page=blog-single" class="nav-link">Design</a></li>
-			<li class="nav-item"><a href="index.php?page=blog-single" class="nav-link">Desktop PCs</a></li>
-			<li class="nav-item"><a href="index.php?page=blog-single" class="nav-link">Events</a></li>
+			<li class="nav-item"><a href="index.php?page=blog-single" class="nav-link">اکسسوری</a></li>
+			<li class="nav-item"><a href="index.php?page=blog-single" class="nav-link">طراحی</a></li>
+			<li class="nav-item"><a href="index.php?page=blog-single" class="nav-link">کامپیوتر های رو میزی</a></li>
+			<li class="nav-item"><a href="index.php?page=blog-single" class="nav-link">رویداد ها</a></li>
 		</ul><!-- .nav -->
 	</div><!-- .center-block -->
 
@@ -31,8 +31,8 @@ $productImage = array(
 					
 					<div class="post-info">
 						<h3 class="post-title">
-						<a href="index.php?page=blog-single">Tech Terms you should know before your adventure</a></h3><p>A desktop computer is a computer that is designed to stay in a single location. It may be a tower or an all-in-one PC.</p>
-						<a href="index.php?page=blog-single" class="btn-more">Read more</a>
+						<a href="index.php?page=blog-single">شرایط فنی شما باید قبل از ماجراجویی خود را بدانید</a></h3><p>یک رایانه رومیزی رایانه ای است که طراحی شده برای اقامت در یک مکان واحد. ممکن است یک برج یا کامپیوتر همه چیز در یک باشد.</p>
+						<a href="index.php?page=blog-single" class="btn-more">بیشتر</a>
 					</div>
 				</div><!-- .post-item -->
 			<?php } ?>
