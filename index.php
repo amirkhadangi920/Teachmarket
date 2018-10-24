@@ -169,6 +169,9 @@
         <link rel="stylesheet" type="text/css" href="assets/css/animate.min.css" media="all" />
 		<link rel="stylesheet" type="text/css" href="assets/css/style.css" media="all" />
 		<link rel="stylesheet" type="text/css" href="assets/css/colors/<?php echo $color; ?>.css" media="all" />
+		
+		<!-- Adding Persian fonts to Teamplate -->
+		<link rel="stylesheet" type="text/css" href="assets/css/font.css" media="all" />
 
 
 		<link href="https://fonts.googleapis.com/css?family=Rubik:300,400,500,900" rel="stylesheet">

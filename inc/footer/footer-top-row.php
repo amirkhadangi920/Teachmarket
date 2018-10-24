@@ -6,14 +6,14 @@
 				<div class="media-body">
 					<div class="clearfix">
 						<div class="newsletter-header">
-							<h5 class="newsletter-title">Sign up to Newsletter</h5>
-							<span class="newsletter-marketing-text">...and receive <strong>$20 coupon for first shopping</strong></span>
+							<h5 class="newsletter-title">در خبرنامه ثبت نام کنید</h5>
+							<span class="newsletter-marketing-text">... و دریافت کنید <strong>یک کوپن تخفیف</strong></span>
 						</div><!-- .newsletter-header -->
 						
 						<div class="newsletter-body">
 							<form class="newsletter-form"> 
-								<input type="text" placeholder="Enter your email address">
-								<button class="button" type="button">Sign up</button>
+								<input type="text" placeholder="آدرس پست الکترونیک خود را وارد کنید">
+								<button class="button" type="button">ثبت نام</button>
 							</form>
 						</div><!-- .newsletter body -->
 					</div><!-- .clearfix -->
@@ -24,23 +24,23 @@
 		<div class="footer-social-icons">
 			<ul class="social-icons nav">
 				<li class="nav-item">
-					<a class="sm-icon-label-link nav-link" href="#"><i class="fa fa-facebook"></i> Facebook</a>
+					<a class="sm-icon-label-link nav-link" href="#"><i class="fa fa-facebook"></i> فیسبوک</a>
 				</li>
 
 				<li class="nav-item">
-					<a class="sm-icon-label-link nav-link" href="#"><i class="fa fa-twitter"></i> Twitter</a>
+					<a class="sm-icon-label-link nav-link" href="#"><i class="fa fa-twitter"></i> توییتر</a>
 				</li>
 
 				<li class="nav-item">
-					<a class="sm-icon-label-link nav-link" href="#"><i class="fa fa-google-plus"></i> Google+</a>
+					<a class="sm-icon-label-link nav-link" href="#"><i class="fa fa-google-plus"></i> گوگل +</a>
 				</li>
 
 				<li class="nav-item">
-					<a class="sm-icon-label-link nav-link" href="#"><i class="fa fa-vimeo-square"></i> Vimeo</a>
+					<a class="sm-icon-label-link nav-link" href="#"><i class="fa fa-vimeo-square"></i> ویمو</a>
 				</li>
 
 				<li class="nav-item">
-					<a class="sm-icon-label-link nav-link" href="#"><i class="fa fa-rss"></i> RSS</a>
+					<a class="sm-icon-label-link nav-link" href="#"><i class="fa fa-rss"></i> فید خوان</a>
 				</li>
 			</ul>
 		</div><!-- .footer-social-icons -->
