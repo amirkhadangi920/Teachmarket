@@ -35,7 +35,7 @@ if( $page=='single-product-sidebar' || $page=='shop' || $page=='product-category
 <div class="widget widget_techmarket_products_carousel_widget">
 	<section id="single-sidebar-carousel" class="section-products-carousel">
 		<header class="section-header">
-			<h2 class="section-title">Latest Products</h2>
+			<h2 class="section-title">آخرین محصولات</h2>
 			<nav class="custom-slick-nav"></nav>
 		</header><!-- .section-header -->
 
