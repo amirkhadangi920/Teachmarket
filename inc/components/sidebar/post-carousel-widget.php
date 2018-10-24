@@ -17,13 +17,13 @@
 		<?php
 			if($page=='home-v6') {
 				?>
-					<h2 class="section-title">From the Blog</h2>
+					<h2 class="section-title">وبلاگ</h2>
 					<?php
 			}
 
 		    else {
 		    	?>
-				<h2 class="section-title">Recent Posts</h2>
+				<h2 class="section-title">پست های اخیر</h2>
 				<?php
 			}?>
 			
@@ -40,9 +40,9 @@
 					</a><!-- .post-thumbnail -->
 
 					<div class="post-content">
-						<a href="index.php?page=blog-single" class="post-name" tabindex="-1">Why you should choose dedicated Desktop PC Computer</a>
+						<a href="index.php?page=blog-single" class="post-name" tabindex="-1">چرا باید کامپیوتر شخصی دسکتاپ اختصاصی انتخاب کنید</a>
 						<span class="comments-link">
-							<a href="index.php?page=blog-single">Leave a comment</a>
+							<a href="index.php?page=blog-single">پیام بگذارید</a>
 						</span>
 					</div><!-- .post-content -->
 				</div><!-- .post-items -->
@@ -55,9 +55,9 @@
 					</a><!-- .post-thumbnail -->
 
 					<div class="post-content">
-						<a href="index.php?page=blog-single" class="post-name" tabindex="-1">Tech Terms you should know before your adventure</a>
+						<a href="index.php?page=blog-single" class="post-name" tabindex="-1">قبل از شروع باید نیاز های خود را بدانید</a>
 						<span class="comments-link">
-							<a href="index.php?page=blog-single">Leave a comment</a>
+							<a href="index.php?page=blog-single">پیام بگذارید</a>
 						</span>
 					</div><!-- .post-content -->
 				</div><!-- .post-items -->
@@ -70,9 +70,9 @@
 					</a><!-- .post-thumbnail -->
 
 					<div class="post-content">
-						<a href="index.php?page=blog-single" class="post-name" tabindex="-1">How to build your first 4k ready Desktop PC</a>
+						<a href="index.php?page=blog-single" class="post-name" tabindex="-1">چگونه باید یک سیستم قدرتمند خریداری کنیم</a>
 						<span class="comments-link">
-							<a href="index.php?page=blog-single">Leave a comment</a>
+							<a href="index.php?page=blog-single">پیام بگذارید</a>
 						</span>
 					</div><!-- .post-content -->
 				</div><!-- .post-items -->
@@ -85,9 +85,9 @@
 					</a><!-- .post-thumbnail -->
 
 					<div class="post-content">
-						<a href="index.php?page=blog-single" class="post-name" tabindex="-1">Top 10 Best Graphical Games for testing your Hardware</a>
+						<a href="index.php?page=blog-single" class="post-name" tabindex="-1">10 تا از بهترین بازی ها گرافیکی برای تست قدرت سخت افزار شما</a>
 						<span class="comments-link">
-							<a href="index.php?page=blog-single">Leave a comment</a>
+							<a href="index.php?page=blog-single">پیام بگذارید</a>
 						</span>
 					</div><!-- .post-content -->
 				</div><!-- .post-items -->

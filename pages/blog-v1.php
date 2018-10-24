@@ -3,9 +3,9 @@
 		<div class="row">
 
 			<nav class="woocommerce-breadcrumb">
-				<a href="index.php">Home</a>
+				<a href="index.php">صفحه اصلی</a>
 				<span class="delimiter"><i class="fa fa-angle-right"></i></span>
-				Blog
+				وبلاگ
 			</nav><!-- .woocommerce-breadcrumb -->
 
 			<div id="primary" class="content-area">
