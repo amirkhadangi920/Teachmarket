@@ -2,31 +2,31 @@
 	<div class="columns">
 		<aside class="widget widget_nav_menu clearfix">
 			<div class="body">
-				<h4 class="widget-title">Find it Fast</h4>
+				<h4 class="widget-title">منوی سریع</h4>
 				<div class="menu-footer-menu-1-container">
 					<ul id="menu-footer-menu-1" class="menu">
 						<li class="menu-item">
-							<a href="index.php?page=shop">Computers &#038; Laptops</a>
+							<a href="index.php?page=shop">کامپیوتر و لپتاپ</a>
 						</li>
 
 						<li class="menu-item">
-							<a href="index.php?page=shop">Cameras &#038; Photography</a>
+							<a href="index.php?page=shop">دوربین عکاسی</a>
 						</li>
 
 						<li class="menu-item">
-							<a href="index.php?page=shop">Smart Phones &#038; Tablets</a>
+							<a href="index.php?page=shop">تلفن هوشمند و تبلت</a>
 						</li>
 
 						<li class="menu-item">
-							<a href="index.php?page=shop">Video Games &#038; Consoles</a>
+							<a href="index.php?page=shop">کنسول بازی</a>
 						</li>
 
 						<li class="menu-item">
-							<a href="index.php?page=shop">TV</a>
+							<a href="index.php?page=shop">تلوزیون</a>
 						</li>
 
 						<li class="menu-item">
-							<a href="index.php?page=shop">Car Electronic &#038; GPS</a>
+							<a href="index.php?page=shop">سیستم مکان یاب خودرو</a>
 						</li>
 					</ul>
 				</div><!-- .menu-footer-menu-1-container -->
@@ -41,27 +41,27 @@
 				<div class="menu-footer-menu-2-container">
 					<ul id="menu-footer-menu-2" class="menu">
 						<li class="menu-item">
-							<a href="index.php?page=shop">Printers &#038; Ink</a>
+							<a href="index.php?page=shop">پرینتر جوهری</a>
 						</li>
 
 						<li class="menu-item">
-							<a href="index.php?page=shop">Audio &amp; Music</a>
+							<a href="index.php?page=shop">پخش کننده صدا</a>
 						</li>
 
 						<li class="menu-item">
-							<a href="index.php?page=shop">Home Theaters</a>
+							<a href="index.php?page=shop">تئاتر خانگی</a>
 						</li>
 
 						<li class="menu-item">
-							<a href="index.php?page=shop">PC Components</a>
+							<a href="index.php?page=shop">لوازم کامپیوتر</a>
 						</li>
 
 						<li class="menu-item">
-							<a href="index.php?page=shop">Ultrabooks</a>
+							<a href="index.php?page=shop">اولترابوک</a>
 						</li>
 
 						<li class="menu-item">
-							<a href="index.php?page=shop">Smartwatches</a>
+							<a href="index.php?page=shop">ساعت هوشمند</a>
 						</li>
 					</ul>
 				</div><!-- .menu-footer-menu-2-container -->
@@ -72,35 +72,35 @@
 	<div class="columns">
 		<aside class="widget widget_nav_menu clearfix">
 			<div class="body">
-				<h4 class="widget-title">Customer Care</h4>
+				<h4 class="widget-title">خدمات مشتریان</h4>
 				<div class="menu-footer-menu-3-container">
 					<ul id="menu-footer-menu-3" class="menu">
 						<li class="menu-item">
-							<a href="index.php?page=login-and-register">My Account</a>
+							<a href="index.php?page=login-and-register">حساب من</a>
 						</li>
 
 						<li class="menu-item">
-							<a href="index.php?page=track-your-order">Track Order</a>
+							<a href="index.php?page=track-your-order">پیگیری سفارش</a>
 						</li>
 
 						<li class="menu-item">
-							<a href="index.php?page=shop">Shop</a>
+							<a href="index.php?page=shop">فروشگاه</a>
 						</li>
 
 						<li class="menu-item">
-							<a href="index.php?page=wishlist">Wishlist</a>
+							<a href="index.php?page=wishlist">علاقه مندی ها</a>
 						</li>
 
 						<li class="menu-item">
-							<a href="index.php?page=about">About Us</a>
+							<a href="index.php?page=about">درباره ما</a>
 						</li>
 
 						<li class="menu-item">
-							<a href="index.php?page=terms-and-conditions">Returns/Exchange</a>
+							<a href="index.php?page=terms-and-conditions">مرجوع محصول</a>
 						</li>
 
 						<li class="menu-item">
-							<a href="index.php?page=faq">FAQs</a>
+							<a href="index.php?page=faq">پرسش و پاسخ</a>
 						</li>
 					</ul>
 				</div><!-- .menu-footer-menu-3-container -->
