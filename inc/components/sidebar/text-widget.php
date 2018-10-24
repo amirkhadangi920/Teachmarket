@@ -1,6 +1,6 @@
 <div class="widget widget_text" id="text-2">
-	<span class="gamma widget-title">About</span>			
+	<span class="gamma widget-title">درباره</span>			
 	<div class="textwidget">
-		<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed tincidunt, erat in malesuada aliquam, est erat faucibus purus, eget viverra nulla sem vitae neque. Quisque id sodales libero.</p>
+		<p>لورم ایپسوم متن ساختگی با تولید سادگی نامفهوم از صنعت چاپ و با استفاده از طراحان گرافیک است. چاپگرها و متون بلکه روزنامه و مجله در ستون و سطرآنچنان که لازم است و برای شرایط فعلی تکنولوژی مورد نیاز و کاربردهای متنوع با هدف بهبود ابزارهای کاربردی می باشد. </p>
 	</div><!-- .textwidget -->
 </div><!-- .widget_text -->

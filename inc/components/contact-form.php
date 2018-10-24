@@ -38,7 +38,7 @@
 			</div><!-- .form-group-->
 
 			<div class="form-group clearfix">
-				<p><input type="submit" value="Send Message" class="wpcf7-form-control wpcf7-submit" /></p>
+				<p><input type="submit" value="فرستادن پیام" class="wpcf7-form-control wpcf7-submit" /></p>
 			</div><!-- .form-group-->
 			
 			<div class="wpcf7-response-output wpcf7-display-none"></div>

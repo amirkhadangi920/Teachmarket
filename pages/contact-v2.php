@@ -3,9 +3,9 @@
 		<div class="row">
 
 			<nav class="woocommerce-breadcrumb">
-				<a href="index.php">Home</a>
+				<a href="index.php">خانه</a>
 				<span class="delimiter"><i class="tm tm-breadcrumbs-arrow-right"></i></span>
-				Contact v2
+				مخاطبین  ورژن 2
 			</nav><!-- .woocommerce-breadcrumb -->
 
 		
@@ -14,7 +14,7 @@
 					<div class="type-page hentry">
 						<header class="entry-header">
 							<div class="page-header-caption">
-								<h1 class="entry-title">Contact v2</h1>
+								<h1 class="entry-title">مخاطبین ورژن 2</h1>
 							</div>
 						</header><!-- .entry-header -->
 
@@ -22,8 +22,8 @@
 							<div class="row">
 								<div class="col-md-6">
 									<div class="text-block">
-										<h2 class="contact-page-title">Leave us a Message</h2>
-										<p>Aenean massa diam, viverra vitae luctus sed, gravida eget est. Etiam nec ipsum porttitor, consequat libero eu, dignissim eros. Nulla auctor lacinia enim id mollis. Curabitur luctus interdum eleifend. Ut tempor lorem a turpis fermentum,.</p>
+										<h2 class="contact-page-title">فرستادن پیام</h2>
+										<p>لورم ایپسوم متن ساختگی با تولید سادگی نامفهوم از صنعت چاپ و با استفاده از طراحان گرافیک است. </p>
 									</div>
 
 									<?php require_once 'inc/components/contact-form.php'; ?>
@@ -32,16 +32,16 @@
 								<div class="col-md-6 store-info store-info-v2">
 									<?php require_once 'inc/components/contact-v2-map.php'; ?>
 
-									<div class="kc-elm kc-css-773435 kc_text_block"><h2 class="contact-page-title">Our Address</h2>
-										<p>17 Princess Road London, Greater London NW1 8JR, UK<br>
-											Support(+800)856 800 604<br>
-											Email: <a href="mailto:contact@yourstore.com">info@electro.com</a>
+									<div class="kc-elm kc-css-773435 kc_text_block"><h2 class="contact-page-title">آدرس ما</h2>
+										<p>خراسان رضوی ، مشهد ، همین جا<br>
+											پشتیبانی(+98)856 800 604<br>
+											ایمیل: <a href="mailto:contact@yourstore.com">info@electro.com</a>
 										</p>
-										<h3>Opening Hours</h3>
-										<p class="operation-hours">Monday to Friday: 9am-9pm<br>
-										Saturday to Sunday: 9am-11pm</p>
-										<h3>Careers</h3>
-										<p>If you’re interested in employment opportunities at Electro, please email us: <a href="mailto:contact@yourstore.com">contact@yourstore.com</a></p>
+										<h3>ساعات کاری</h3>
+										<p class="operation-hours">شنبه تا چنج شنبه : 9am-9pm<br>
+										جمنعه: 9am-11pm</p>
+										<h3>شغل ها</h3>
+										<p>گر شما علاقه مند به فرصت های شغلی در Techmarket هستید، لطفا به ما ایمیل بزنید: <a href="mailto:contact@yourstore.com">contact@yourstore.com</a></p>
 									</div>
 								</div><!-- .col -->
 							</div><!-- .row -->
