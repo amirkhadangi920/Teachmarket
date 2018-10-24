@@ -1,17 +1,17 @@
-<h2>Description</h2>
-<h1 style="text-align: center;">Exceptional color. Authentic images.</h1>
-<p style="text-align: center;max-width: 1160px;margin: auto auto 60px;">Nullam dignissim elit ut urna rutrum, a fermentum mi auctor. Mauris efficitur magna orci, et dignissim lacus scelerisque sit amet. Proin malesuada tincidunt nisl ac commodo. Vivamus eleifend porttitor ex sit amet suscipit. Vestibulum at ullamcorper lacus, vel facilisis arcu. Aliquam erat volutpat.</p>
+<h2>شرح</h2>
+<h1 style="text-align: center;">رنگ استثنایی تصاویر معتبر</h1>
+<p style="text-align: center;max-width: 1160px;margin: auto auto 60px;">لورم ایپسوم متن ساختگی با تولید سادگی نامفهوم از صنعت چاپ و با استفاده از طراحان گرافیک است. چاپگرها و متون بلکه روزنامه و مجله در ستون و سطرآنچنان که لازم است و برای شرایط فعلی تکنولوژی مورد نیاز و کاربردهای متنوع با هدف بهبود ابزارهای کاربردی می باشد. کتابهای زیادی در شصت و سه درصد گذشته، حال و آینده شناخت فراوان جامعه و متخصصان را می طلبد</p>
 <div style="text-align: center;">
 	<iframe width="854" height="480" allowfullscreen="allowfullscreen" src="https://www.youtube.com/embed/K5OGs8a3vlM?ecver=1"></iframe>
 </div>
 
 <div class="outer-wrap">
 	<div class="content-info">
-		<h1 style="text-align: left;">Dynamic brightness<br>
-		reveals hidden details</h1>
-		<p style="text-align: left;">Nullam dignissim elit ut urna rutrum, a fermentum mi auctor. Mauris efficitur magna orci, et dignissim lacus<br>
-		scelerisque sit amet. Proin malesuada tincidunt nisl ac commodo. Vivamus eleifend porttitor ex sit amet suscipit.<br>
-		Vestibulum at ullamcorper lacus, vel facilisis arcu. Aliquam erat volutpat.</p>
+		<h1 style="text-align: left;">روشنایی پویا<br>
+		جزئیات پنهان را نشان می دهد</h1>
+		<p style="text-align: left;">لورم ایپسوم متن ساختگی با تولید سادگی نامفهوم از صنعت چاپ و با استفاده از طراحان گرافیک است.<br>
+		چاپگرها و متون بلکه روزنامه و مجله در ستون و سطرآنچنان که لازم است و برای شرایط فعلی تکنولوژی مورد نیاز و کاربردهای متنوع با هدف بهبود ابزارهای کاربردی می باشد.<br>
+		لورم ایپسوم متن ساختگی با تولید سادگی نامفهوم از صنعت چاپ</p>
 	</div><!-- .content-info -->
 
 	<div class="image-info">
@@ -25,9 +25,9 @@
 	</div><!-- .image-info -->
 	
 	<div class="content-info">
-		<h1 style="text-align: right;">An incredible view,<br>
-		wherever you sit</h1>
-		<p style="text-align: right;">Nullam dignissim elit ut urna rutrum, a fermentum mi auctor. Mauris efficitur magna orci, et dignissim lacus<br>
-		scelerisque sit amet. Proin malesuada tincidunt nisl ac commodo. Vivamus eleifend porttitor ex sit amet suscipit. Vestibulum at ullamcorper lacus, vel facilisis arcu. Aliquam erat volutpat.</p>
+		<h1 style="text-align: right;">یک دیدگاه باور نکردنی<br>
+		هر کجا که نشسته اید</h1>
+		<p style="text-align: right;">لورم ایپسوم متن ساختگی با تولید سادگی نامفهوم از صنعت چاپ و با استفاده از طراحان گرافیک است.<br>
+		چاپگرها و متون بلکه روزنامه و مجله در ستون و سطرآنچنان که لازم است و برای شرایط فعلی تکنولوژی مورد نیاز و کاربردهای متنوع با هدف بهبود ابزارهای کاربردی می باشد.</p>
 	</div><!-- .content-info -->
 </div><!-- .outer-wrap -->
