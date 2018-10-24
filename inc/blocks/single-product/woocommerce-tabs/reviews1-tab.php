@@ -1,7 +1,7 @@
 <div class="techmarket-advanced-reviews" id="reviews">
 	<div class="advanced-review row">
 		<div class="advanced-review-rating">
-			<h2 class="based-title">Review (1)</h2>
+			<h2 class="based-title">مرور (1)</h2>
 			<div class="avg-rating">
 				<span class="avg-rating-number">5.0</span>
 				<div title="Rated 5.0 out of 5" class="star-rating">
@@ -66,26 +66,26 @@
 			<div id="review_form_wrapper">
 				<div id="review_form">
 					<div class="comment-respond" id="respond">
-						<h3 class="comment-reply-title" id="reply-title">Add a review</h3>
+						<h3 class="comment-reply-title" id="reply-title">یک بررسی اضافه کنید</h3>
 						<form novalidate="" class="comment-form" id="commentform" method="post" action="#">
 							<div class="comment-form-rating">
-								<label>Your Rating</label>
+								<label>امتیاز شما</label>
 								<p class="stars"><span><a href="#" class="star-1">1</a><a href="#" class="star-2">2</a><a href="#" class="star-3">3</a><a href="#" class="star-4">4</a><a href="#" class="star-5">5</a></span></p>
 							</div>
 							
 
 							<p class="comment-form-comment">
-								<label for="comment">Your Review</label>
+								<label for="comment">نقد شما</label>
 								<textarea aria-required="true" rows="8" cols="45" name="comment" id="comment"></textarea>
 							</p>
 
 							<p class="comment-form-author">
-								<label for="author">Name <span class="required">*</span></label> 
+								<label for="author">نام <span class="required">*</span></label> 
 								<input type="text" aria-required="true" size="30" value="" name="author" id="author">
 							</p>
 
 							<p class="comment-form-email">
-								<label for="email">Email <span class="required">*</span></label> 
+								<label for="email">پست الکترونیکی <span class="required">*</span></label> 
 								<input type="text" aria-required="true" size="30" value="" name="email" id="email">
 							</p>
 
@@ -108,17 +108,17 @@
 					
 					<div class="comment-text">
 						<div class="star-rating">
-							<span style="width:100%">Rated <strong class="rating">5</strong> out of 5</span>
+							<span style="width:100%">دارای رتبه <strong class="rating">5</strong> از 5</span>
 						</div>
 
 						<p class="meta">
-							<strong itemprop="author" class="woocommerce-review__author">first last</strong> 
+							<strong itemprop="author" class="woocommerce-review__author">اول آخر</strong> 
 							<span class="woocommerce-review__dash">&ndash;</span> 
-							<time datetime="2017-06-21T08:05:40+00:00" itemprop="datePublished" class="woocommerce-review__published-date">June 21, 2017</time>
+							<time datetime="2017-06-21T08:05:40+00:00" itemprop="datePublished" class="woocommerce-review__published-date">21 ژوئن 2017</time>
 						</p>
 
 						<div class="description">
-							<p>Wow great product</p>
+							<p>وای عالی!</p>
 						</div><!-- /.description -->
 					</div><!-- /.comment-text -->
 				</div><!-- /.comment_container -->
