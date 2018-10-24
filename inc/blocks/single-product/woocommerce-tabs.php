@@ -1,16 +1,16 @@
 <div class="woocommerce-tabs wc-tabs-wrapper">
 	<ul role="tablist" class="nav tabs wc-tabs">
 		<li class="nav-item accessories_tab">
-			<a class="nav-link active" data-toggle="tab" role="tab" aria-controls="tab-accessories" href="#tab-accessories">Accessories</a>
+			<a class="nav-link active" data-toggle="tab" role="tab" aria-controls="tab-accessories" href="#tab-accessories">اکسسوری</a>
 		</li>
 		<li class="nav-item description_tab">
-			<a class="nav-link" data-toggle="tab" role="tab" aria-controls="tab-description" href="#tab-description">Description</a>
+			<a class="nav-link" data-toggle="tab" role="tab" aria-controls="tab-description" href="#tab-description">شرح</a>
 		</li>
 		<li class="nav-item specification_tab">
-			<a class="nav-link" data-toggle="tab" role="tab" aria-controls="tab-specification" href="#tab-specification">Specification</a>
+			<a class="nav-link" data-toggle="tab" role="tab" aria-controls="tab-specification" href="#tab-specification">مشخصات</a>
 		</li>
 		<li class="nav-item reviews_tab">
-			<a class="nav-link" data-toggle="tab" role="tab" aria-controls="tab-reviews" href="#tab-reviews">Reviews (1)</a>
+			<a class="nav-link" data-toggle="tab" role="tab" aria-controls="tab-reviews" href="#tab-reviews">نظرات (1)</a>
 		</li>
 	</ul><!-- /.ec-tabs -->
 	
