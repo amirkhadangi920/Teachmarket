@@ -56,18 +56,18 @@
 
 				<div class="entry-meta">
 					<span class="cat-links">
-						<a href="index.php?page=blog-single" rel="category tag">Laptops</a>				
+						<a href="index.php?page=blog-single" rel="category tag">لپتاب ها</a>				
 					</span>
 
 					<span class="posted-on">
 						<a href="index.php?page=blog-single" rel="bookmark">
-							<time datetime="2017-03-23T08:06:09+00:00" class="entry-date published">March 23, 2017</time> 
-							<time datetime="2017-06-22T10:40:23+00:00" class="updated">June 22, 2017</time>
+							<time datetime="2017-03-23T08:06:09+00:00" class="entry-date published">26/8/1376</time> 
+							<time datetime="2017-06-22T10:40:23+00:00" class="updated">26/8/1376</time>
 						</a>
 					</span>
 
 					<span class="author">
-						<a title="Posts by Jane Smith" href="#" rel="author" >Jane Smith</a>				
+						<a title="Posts by Jane Smith" href="#" rel="author" >هادی ضرابی</a>				
 					</span>
 
 
@@ -76,16 +76,16 @@
 
 			<div class="entry-content">
 
-				<p>A desktop computer is a computer that is designed to stay in a single location. It may be a tower or an all-in-one PC.</p>
+				<p>لورم ایپسوم متن ساختگی با تولید سادگی نامفهوم از صنعت چاپ و با استفاده از طراحان گرافیک است. </p>
 
 			</div><!-- .post-excerpt -->
 
 			<div class="post-readmore">
-				<a class="btn btn-primary" href="index.php?page=blog-single">Read More</a>
+				<a class="btn btn-primary" href="index.php?page=blog-single">بیشتر</a>
 			</div><!-- .post-readmore -->
 
 			<span class="comments-link">
-				<a href="index.php?page=blog-single#comments">Leave a comment</a>
+				<a href="index.php?page=blog-single#comments">ارسال پیام</a>
 
 			</span><!-- .comments-link -->
 		</div>
@@ -113,22 +113,22 @@
 	<div class="content-body">
 		<header class="entry-header">
 			<h1 class="entry-title">
-				<a rel="bookmark" href="index.php?page=blog-single">Robot Wars – Now Closed – Post with Audio</a>
+				<a rel="bookmark" href="index.php?page=blog-single">جنگ های ربات - اکنون بسته شده است - ارسال با صدا</a>
 			</h1><!-- .entry-title -->		
 			<div class="entry-meta">
 				<span class="cat-links">
-					<a rel="category tag" href="index.php?page=blog-single">Design</a>,
-					<a rel="category tag" href="index.php?page=blog-single">News</a>				
+					<a rel="category tag" href="index.php?page=blog-single">طراحی</a>,
+					<a rel="category tag" href="index.php?page=blog-single">اخبار</a>				
 				</span>
 
 				<span class="posted-on">
 					<a rel="bookmark" href="index.php?page=blog-single">
-						<time datetime="2017-03-23T08:06:09+00:00" class="entry-date published">March 23, 2017</time> 
+						<time datetime="2017-03-23T08:06:09+00:00" class="entry-date published">26/8/1376</time> 
 					</a>
 				</span>
 
 				<span class="author">
-					<a rel="author" title="Posts by Jane Smith" href="#">Jane Smith</a>				
+					<a rel="author" title="Posts by Jane Smith" href="#">هادی ضرابی</a>				
 				</span>
 
 
@@ -137,16 +137,16 @@
 
 		<div class="entry-content">
 
-			<p>A desktop computer is a computer that is designed to stay in a single location. It may be a tower or an all-in-one PC.</p>
+			<p>لورم ایپسوم متن ساختگی با تولید سادگی نامفهوم از صنعت چاپ و با استفاده از طراحان گرافیک است. </p>
 
 		</div><!-- .post-excerpt -->
 
 		<div class="post-readmore">
-			<a class="btn btn-primary" href="index.php?page=blog-single">Read More</a>
+			<a class="btn btn-primary" href="index.php?page=blog-single">بیشتر</a>
 		</div><!-- .post-readmore -->
 
 		<span class="comments-link">
-			<a href="index.php?page=blog-single#comments">Leave a comment</a>
+			<a href="index.php?page=blog-single#comments">ارسال پیام</a>
 
 		</span><!-- .comments-link -->
 	</div>
@@ -159,8 +159,8 @@
 	<div class="entry-content">
 
 		<blockquote>
-			<p>Quisque a commodo lectus. Nunc vel dolor sed libero venenatis egestas. Cras non volutpat enim. Cras molestie purus id lorem sodales, in facilisis erat tristique. Aliquam luctus orci aliquet augue eleifend.</p>
-			<cite> Steve Kowalsky</cite>
+			<p>لورم ایپسوم متن ساختگی با تولید سادگی نامفهوم از صنعت چاپ و با استفاده از طراحان گرافیک است. چاپگرها و متون مورد استفاده قرار گیرد. </p>
+			<cite> هادی ضرابی</cite>
 		</blockquote>
 
 	</div><!-- .entry-content -->
@@ -170,7 +170,7 @@
 <article class="post format-link hentry">
 
 	<div class="entry-content">
-		<p>If you are looking for a developer on ThemeForest &ndash; check out the link</p>
+		<p>لورم ایپسوم متن ساختگی با تولید سادگی نامفهوم از صنعت چاپ و با استفاده از طراحان گرافیک است. </p>
 			<p>
 				<a target="_blank" href="http://wwww.transvelo.com">
 					<span>http://wwww.transvelo.com</span>

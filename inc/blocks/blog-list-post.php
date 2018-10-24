@@ -40,32 +40,32 @@
 
 				<div class="entry-meta">
 					<span class="cat-links">
-						<a rel="category tag" href="index.php?page=blog-single">Laptops</a>				
+						<a rel="category tag" href="index.php?page=blog-single">لپتاب ها</a>				
 					</span><!-- .cat-links -->
 
 					<span class="posted-on">
 						<a rel="bookmark" href="index.php?page=blog-single">
-							<time datetime="2017-03-23T08:06:09+00:00" class="entry-date published">March 23, 2017</time> 
+							<time datetime="2017-03-23T08:06:09+00:00" class="entry-date published">26/8/1376</time> 
 						</a>
 					</span><!-- .posted-on -->
 
 					<span class="author">
-						<a rel="author" title="Posts by Jane Smith" href="#">Jane Smith</a>				
+						<a rel="author" title="Posts by Jane Smith" href="#">هادی ضرابی</a>				
 					</span><!-- .author -->
 				</div><!-- .entry-meta -->
 
 			</header><!-- .entry-header -->
 
 			<div class="entry-content">
-				<p>A desktop computer is a computer that is designed to stay in a single location. It may be a tower or an all-in-one PC.</p>
+				<p>لورم ایپسوم متن ساختگی با تولید سادگی نامفهوم از صنعت چاپ و با استفاده از طراحان گرافیک است</p>
 			</div><!-- .entry-content -->
 
 			<div class="post-readmore">
-				<a class="btn btn-primary" href="index.php?page=blog-single">Read More</a>
+				<a class="btn btn-primary" href="index.php?page=blog-single">بیشتر</a>
 			</div><!-- .post-readmore -->
 
 			<span class="comments-link">
-				<a href="index.php?page=blog-single#comments">Leave a comment</a>
+				<a href="index.php?page=blog-single#comments">ارسال پیام</a>
 			</span><!-- .comments-link -->
 		</div><!-- .content-body -->
 	</article><!-- .post -->
@@ -76,15 +76,15 @@
 <article class="post format-quote">
 	<div class="entry-content">
 		<blockquote>
-			<p>Quisque a commodo lectus. Nunc vel dolor sed libero venenatis egestas. Cras non volutpat enim. Cras molestie purus id lorem sodales, in facilisis erat tristique. Aliquam luctus orci aliquet augue eleifend.</p>
-			<cite> Steve Kowalsky</cite>
+			<p>لورم ایپسوم متن ساختگی با توللی تکنولوژی مورد نیاز و کاربردهای متنوع با هدف بهبود ابزارهای کاربردی می باشد. کتابهای زیادی در شصت و سه درصد گذشته، حال و آینده شناخت فراوان جامعه و متخصصان را می طلبد تا با نرم افزارها شناخت بیشتری را برای طراحان رایانه ای علی الخصوص طراحان خلاقی و فرهنگ پیشرو در زبان فارسی ایجاد کرد. در این صورت </p>
+			<cite> هادی ضرابی</cite>
 		</blockquote>
 	</div><!-- .entry-content -->
 </article><!-- .post -->
 
 <article class="post format-link">
 	<div class="entry-content">
-		<p>If you are looking for a developer on ThemeForest &ndash; check out the link</p><p>
+		<p>اگر دنبال یک طراح وب هستید به لینک زیر مراجعه کنید</p><p>
 			<a target="_blank" href="http://wwww.transvelo.com">
 				<span>http://wwww.transvelo.com</span>
 			</a>
