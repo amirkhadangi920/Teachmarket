@@ -18,7 +18,7 @@
                         	<div class="sub-form-row">
 	                            <div class="widget woocommerce widget_product_search">
 	                                <form class="search-form"> 
-										<input type="text" placeholder="Search products...">
+										<input type="text" placeholder="جستجوی محصولات ...">
 										<button class="button" type="button">جستجو</button>
 									</form>
 	                            </div>

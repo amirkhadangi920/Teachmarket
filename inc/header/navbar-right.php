@@ -21,7 +21,7 @@
 		<a class="cart-contents" href="index.php?page=cart" data-toggle="dropdown" title="View your shopping cart">
 			<i class="tm tm-shopping-bag"></i>
 			<span class="count">2</span>
-			<span class="amount"><span class="price-label">Your Cart</span>&#036;136.99</span>
+			<span class="amount"><span class="price-label">صورت حساب</span>150 تومان</span>
 		</a>
 		
 		<ul class="dropdown-menu dropdown-menu-mini-cart">
@@ -32,25 +32,25 @@
 							<li class="woocommerce-mini-cart-item mini_cart_item">
 								<a href="#" class="remove" aria-label="Remove this item" data-product_id="65" data-product_sku="">×</a>													
 								<a href="index.php?page=single-product-sidebar">
-									<img src="assets/images/products/mini-cart1.jpg" class="attachment-shop_thumbnail size-shop_thumbnail wp-post-image" alt="" >XONE Wireless Controller&nbsp;
+									<img src="assets/images/products/mini-cart1.jpg" class="attachment-shop_thumbnail size-shop_thumbnail wp-post-image" alt="" >سیستم پخش صدا&nbsp;
 								</a>
-								<span class="quantity">1 × <span class="woocommerce-Price-amount amount"><span class="woocommerce-Price-currencySymbol">$</span>64.99</span></span>					
+								<span class="quantity">1 × <span class="woocommerce-Price-amount amount"><span class="woocommerce-Price-currencySymbol"></span>64.99</span>تومان</span>					
 							</li>
 							<li class="woocommerce-mini-cart-item mini_cart_item">
 								<a href="#" class="remove" aria-label="Remove this item" data-product_id="27" data-product_sku="">×</a>
 								<a href="index.php?page=single-product-sidebar">
-									<img src="assets/images/products/mini-cart2.jpg" class="attachment-shop_thumbnail size-shop_thumbnail wp-post-image" alt="" >Gear Virtual Reality 3D with Bluetooth Glasses&nbsp;							
+									<img src="assets/images/products/mini-cart2.jpg" class="attachment-shop_thumbnail size-shop_thumbnail wp-post-image" alt="" >عینک هوشمند&nbsp;							
 								</a>											
-								<span class="quantity">1 × <span class="woocommerce-Price-amount amount"><span class="woocommerce-Price-currencySymbol">$</span>72.00</span></span>					
+								<span class="quantity">1 × <span class="woocommerce-Price-amount amount"><span class="woocommerce-Price-currencySymbol"></span>72.00</span> تومان</span>					
 							</li>
 						</ul><!-- .cart_list -->
 						<p class="woocommerce-mini-cart__total total">
-							<strong>Subtotal:</strong>
-							<span class="woocommerce-Price-amount amount"><span class="woocommerce-Price-currencySymbol">$</span>136.99</span>
+							<strong>جمع فاکتور :</strong>
+							<span class="woocommerce-Price-amount amount"><span class="woocommerce-Price-currencySymbol"></span>136.99</span> تومان
 						</p>
 						<p class="woocommerce-mini-cart__buttons buttons">
-							<a href="index.php?page=cart" class="button wc-forward">View cart</a>
-							<a href="index.php?page=checkout" class="button checkout wc-forward">Checkout</a>
+							<a href="index.php?page=cart" class="button wc-forward">مشاهده سبد</a>
+							<a href="index.php?page=checkout" class="button checkout wc-forward">ثبت سفارش</a>
 						</p>
 					</div><!-- .widget_shopping_cart_content -->
 				</div><!-- .widget_shopping_cart -->
