@@ -171,10 +171,10 @@
 	<header class="section-header">
 		<h2 class="section-title"><?php echo $section_title; ?></h2>
 		<ul role="tablist" class="nav justify-content-center">
-			<li class="nav-item"><a class="nav-link active" href="#top-20-1" data-toggle="tab">Top 20</a></li>
-			<li class="nav-item"><a class="nav-link" href="#digital-cameras" data-toggle="tab">Digital Cameras</a></li>
-			<li class="nav-item"><a class="nav-link" href="#action-cameras" data-toggle="tab">Action Cameras</a></li>
-			<li class="nav-item"><a class="nav-link" href="#compacts" data-toggle="tab">Compacts</a></li>
+			<li class="nav-item"><a class="nav-link active" href="#top-20-1" data-toggle="tab">20 برتر </a></li>
+			<li class="nav-item"><a class="nav-link" href="#digital-cameras" data-toggle="tab">دوربین دیجیتال</a></li>
+			<li class="nav-item"><a class="nav-link" href="#action-cameras" data-toggle="tab">دوربین های عمل</a></li>
+			<li class="nav-item"><a class="nav-link" href="#compacts" data-toggle="tab">جام جم</a></li>
 		</ul>
 	</header>
 
@@ -198,16 +198,16 @@
 								<a class="woocommerce-LoopProduct-link" href="index.php?page=single-product-fullwidth">
 									<img width="600" height="600" alt="" class="attachment-shop_single size-shop_single wp-post-image" src="assets/images/products/featured.jpg">
 									<span class="price">
-										<ins><span class="woocommerce-Price-amount amount"><span class="woocommerce-Price-currencySymbol">$</span>179.99</span></ins>
-										<del><span class="woocommerce-Price-amount amount"><span class="woocommerce-Price-currencySymbol">$</span>239.99</span></del>
+										<ins><span class="woocommerce-Price-amount amount"><span class="woocommerce-Price-currencySymbol">هزار تومان</span>179</span></ins>
+										<del><span class="woocommerce-Price-amount amount"><span class="woocommerce-Price-currencySymbol">هزار تومان</span>239</span></del>
 									</span>
-									<h2 class="woocommerce-loop-product__title">Snap White Instant Digital Camera in White</h2>
+									<h2 class="woocommerce-loop-product__title">ضربه محکم و ناگهانی دوربین دیجیتال فوری سفید در سفید</h2>
 								</a>
 								<div class="techmarket-product-rating">
-									<div title="Rated 0 out of 5" class="star-rating"><span style="width:0%"><strong class="rating">0</strong> out of 5</span></div>
+									<div title="Rated 0 out of 5" class="star-rating"><span style="width:0%"><strong class="rating">0</strong> از5</span></div>
 									<span class="review-count">(0)</span>
 								</div>
-								<a class="button add_to_cart_button" href="index.php?page=cart">Add to cart</a>
+								<a class="button add_to_cart_button" href="index.php?page=cart">اضافه به سبد خرید</a>
 							</div>
 						</div>
 					</div>
@@ -237,13 +237,13 @@
 										<ins><span class="woocommerce-Price-amount amount"><span class="woocommerce-Price-currencySymbol">$</span>179.99</span></ins>
 										<del><span class="woocommerce-Price-amount amount"><span class="woocommerce-Price-currencySymbol">$</span>239.99</span></del>
 									</span>
-									<h2 class="woocommerce-loop-product__title">Snap White Instant Digital Camera in White</h2>
+									<h2 class="woocommerce-loop-product__title">ضربه محکم و ناگهانی دوربین دیجیتال فوری سفید در سفید</h2>
 								</a>
 								<div class="techmarket-product-rating">
 									<div title="Rated 0 out of 5" class="star-rating"><span style="width:0%"><strong class="rating">0</strong> out of 5</span></div>
 									<span class="review-count">(0)</span>
 								</div>
-								<a class="button add_to_cart_button" href="index.php?page=cart">Add to cart</a>
+								<a class="button add_to_cart_button" href="index.php?page=cart">اضافه به سبد خرید</a>
 							</div>
 						</div>
 					</div>
@@ -273,13 +273,13 @@
 										<ins><span class="woocommerce-Price-amount amount"><span class="woocommerce-Price-currencySymbol">$</span>179.99</span></ins>
 										<del><span class="woocommerce-Price-amount amount"><span class="woocommerce-Price-currencySymbol">$</span>239.99</span></del>
 									</span>
-									<h2 class="woocommerce-loop-product__title">Snap White Instant Digital Camera in White</h2>
+									<h2 class="woocommerce-loop-product__title">ضربه محکم و ناگهانی دوربین دیجیتال فوری سفید در سفید</h2>
 								</a>
 								<div class="techmarket-product-rating">
 									<div title="Rated 0 out of 5" class="star-rating"><span style="width:0%"><strong class="rating">0</strong> out of 5</span></div>
 									<span class="review-count">(0)</span>
 								</div>
-								<a class="button add_to_cart_button" href="index.php?page=cart">Add to cart</a>
+								<a class="button add_to_cart_button" href="index.php?page=cart">اضافه به سبد خرید</a>
 							</div>
 						</div>
 					</div>
@@ -309,13 +309,13 @@
 										<ins><span class="woocommerce-Price-amount amount"><span class="woocommerce-Price-currencySymbol">$</span>179.99</span></ins>
 										<del><span class="woocommerce-Price-amount amount"><span class="woocommerce-Price-currencySymbol">$</span>239.99</span></del>
 									</span>
-									<h2 class="woocommerce-loop-product__title">Snap White Instant Digital Camera in White</h2>
+									<h2 class="woocommerce-loop-product__title">ضربه محکم و ناگهانی دوربین دیجیتال فوری سفید در سفید</h2>
 								</a>
 								<div class="techmarket-product-rating">
 									<div title="Rated 0 out of 5" class="star-rating"><span style="width:0%"><strong class="rating">0</strong> out of 5</span></div>
 									<span class="review-count">(0)</span>
 								</div>
-								<a class="button add_to_cart_button" href="index.php?page=cart">Add to cart</a>
+								<a class="button add_to_cart_button" href="index.php?page=cart">اضافه سبد خرید</a>
 							</div>
 						</div>
 					</div>
