@@ -149,10 +149,10 @@
 					<div class="coupon">
 						<label for="coupon_code">کوپن:</label> 
 						<input type="text" placeholder="Coupon code" value="" id="coupon_code" class="input-text" name="coupon_code"> 
-						<input type="submit" value="Apply coupon" name="apply_coupon" class="button">
+						<input type="submit" value="کوپن را اعمال کنید" name="apply_coupon" class="button">
 					</div>
 
-					<input type="submit" value="Update cart" name="update_cart" class="button">
+					<input type="submit" value="به روز رسانی سبد خرید" name="update_cart" class="button">
 				</td>
 			</tr>
 
