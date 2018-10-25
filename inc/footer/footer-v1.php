@@ -1,4 +1,4 @@
-<footer class="site-footer footer-v1">
+<footer class="site-footer footer-v1" dir="rtl">
 	<div class="col-full">
 		
 		<?php require_once 'inc/footer/footer-top-row.php'; ?>

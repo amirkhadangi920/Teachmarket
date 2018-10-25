@@ -43,7 +43,7 @@
 
 <section class="categorie_carousel_2 section-categories-carousel" id="categories-carousel-3">
 	<header class="section-header">
-		<h2 class="section-title">Computers & Laptops Categories</h2>
+		<h2 class="section-title">کامپیوترها و لپ تاپ ها دسته بندی ها</h2>
 		<nav class="custom-slick-nav"></nav><!-- .custom-slick-nav -->
 	</header><!-- .section-header -->
 
@@ -53,61 +53,61 @@
 				<div class="product-category product">
 					<a href="index.php?page=product-category">
 						<img width="224" height="197" alt="" src="assets/images/category/sm-1.png"> 
-						<h2 class="woocommerce-loop-category__title">All in One PC </h2>
+						<h2 class="woocommerce-loop-category__title">همه در یک کامپیوتر </h2>
 					</a>
 				</div>
 				<div class="product-category product">
 					<a href="index.php?page=product-category">
 						<img width="224" height="197" alt="" src="assets/images/category/sm-2.png"> 
-						<h2 class="woocommerce-loop-category__title">Audio &amp; Music </h2>
+						<h2 class="woocommerce-loop-category__title">صوتی و آمپر؛ موسیقی</h2>
 					</a>
 				</div>
 				<div class="product-category product">
 					<a href="index.php?page=product-category">
 						<img width="224" height="197" alt="" src="assets/images/category/sm-3.png"> 
-						<h2 class="woocommerce-loop-category__title">Cells &amp; Tablets </h2>
+						<h2 class="woocommerce-loop-category__title">سلول ها و & ؛ قرص</h2>
 					</a>
 				</div>
 				<div class="product-category product">
 					<a href="index.php?page=product-category">
 						<img width="224" height="197" alt="" src="assets/images/category/sm-4.png"> 
-						<h2 class="woocommerce-loop-category__title">Computers &amp; Laptops </h2>
+						<h2 class="woocommerce-loop-category__title">کامپیوترها & لپ تاپ ها </h2>
 					</a>
 				</div>
 				<div class="product-category product">
 					<a href="index.php?page=product-category">
 						<img width="224" height="197" alt="" src="assets/images/category/sm-5.png"> 
-						<h2 class="woocommerce-loop-category__title">Desktop PCs </h2>
+						<h2 class="woocommerce-loop-category__title">رایانه های رومیزی</h2>
 					</a>
 				</div>
 				<div class="product-category product">
 					<a href="index.php?page=product-category">
 						<img width="224" height="197" alt="" src="assets/images/category/sm-6.png"> 
-						<h2 class="woocommerce-loop-category__title">Digital Cameras </h2>
+						<h2 class="woocommerce-loop-category__title">دوربین های دیجیتال </h2>
 					</a>
 				</div>
 				<div class="product-category product">
 					<a href="index.php?page=product-category">
 						<img width="224" height="197" alt="" src="assets/images/category/sm-7.png"> 
-						<h2 class="woocommerce-loop-category__title">Games &amp; Consoles </h2>
+						<h2 class="woocommerce-loop-category__title">بازی ها &amp; کنسول ها </h2>
 					</a>
 				</div>
 				<div class="product-category product">
 					<a href="index.php?page=product-category">
 						<img width="224" height="197" alt="" src="assets/images/category/sm-5.png"> 
-						<h2 class="woocommerce-loop-category__title">Headphones </h2>
+						<h2 class="woocommerce-loop-category__title">هدفون </h2>
 					</a>
 				</div>
 				<div class="product-category product">
 					<a href="index.php?page=product-category">
 						<img width="224" height="197" alt="" src="assets/images/category/sm-1.png"> 
-						<h2 class="woocommerce-loop-category__title">Home Entertainment </h2>
+						<h2 class="woocommerce-loop-category__title">تفریحات خانگی </h2>
 					</a>
 				</div>
 				<div class="product-category product">
 					<a href="index.php?page=product-category">
 						<img width="224" height="197" alt="" src="assets/images/category/sm-3.png"> 
-						<h2 class="woocommerce-loop-category__title">Home Theater &amp; Audio </h2>
+						<h2 class="woocommerce-loop-category__title">سینمای خانگی &amp; سمعی </h2>
 					</a>
 				</div>
 			</div><!-- .products-->

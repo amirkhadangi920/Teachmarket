@@ -28,12 +28,12 @@
 <section class="section-hot-new-arrivals section-landscape-products-card-carousel-tabs section-products-carousel-tabs">
 	<div class="section-products-carousel-tabs-wrap">
 		<header class="section-header">
-			<h2 class="section-title">Tv & Visual Entertainment</h2>
+			<h2 class="section-title">تلویزیون و سرگرمی های ویژوال</h2>
 			<ul role="tablist" class="nav justify-content-end">
-				<li class="nav-item"><a class="nav-link active" href="#top-201" data-toggle="tab">Top 20</a></li>
-				<li class="nav-item"><a class="nav-link " href="#4k-ultra-hd" data-toggle="tab">4K Ultra HD</a></li>
-				<li class="nav-item"><a class="nav-link " href="#qled-tvs" data-toggle="tab">QLED Tvs</a></li>
-				<li class="nav-item"><a class="nav-link " href="#suhd-tvs" data-toggle="tab">SUHD Tvs</a></li>
+				<li class="nav-item"><a class="nav-link active" href="#top-201" data-toggle="tab">بالا 20</a></li>
+				<li class="nav-item"><a class="nav-link " href="#4k-ultra-hd" data-toggle="tab">4K فوق العاده HD</a></li>
+				<li class="nav-item"><a class="nav-link " href="#qled-tvs" data-toggle="tab">تلویزیونهای QLED</a></li>
+				<li class="nav-item"><a class="nav-link " href="#suhd-tvs" data-toggle="tab">SUHD تلویزیون</a></li>
 			</ul>
 		</header><!-- .section-header -->
 

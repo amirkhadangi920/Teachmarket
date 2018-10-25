@@ -43,7 +43,7 @@
 
 <section class="rating-product section-products-carousel" id="section-products-carousel-5">
 	<header class="section-header">
-		<h2 class="section-title">Recommended For You</h2>
+		<h2 class="section-title">توصیه شده برای شما</h2>
 		<nav class="custom-slick-nav"></nav>
 	</header><!-- .section-header -->
 

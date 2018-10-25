@@ -73,7 +73,7 @@
 	<div class="landscape-product-card product">
 		<div class="media">
 			<div class="yith-wcwl-add-to-wishlist">
-				<a href="index.php?page=wishlist" rel="nofollow" class="add_to_wishlist"> Add to Wishlist</a>
+				<a href="index.php?page=wishlist" rel="nofollow" class="add_to_wishlist"> افزودن به لیست دلخواه</a>
 			</div>
 
 			<a class="woocommerce-LoopProduct-link" href="index.php?page=single-product-fullwidth">
@@ -84,8 +84,8 @@
 				<a class="woocommerce-LoopProduct-link " href="index.php?page=single-product-fullwidth">
 
 					<span class="price">
-	                    <ins><span class="amount"> $939.99</span></ins>
-	                    <del><span class="amount">$627.99</span></del>
+	                    <ins><span class="amount"> تومان939.99</span></ins>
+	                    <del><span class="amount">تومان627.99</span></del>
 	            	</span><!-- .price -->
 
 					<h2 class="woocommerce-loop-product__title"><?php echo $productName[$i]['product_name'] ?></h2>
@@ -102,8 +102,8 @@
 				</a>
 
 				<div class="hover-area">
-					<a class="button add_to_cart_button" href="index.php?page=cart" >Add to cart</a>
-					<a href="index.php?page=compare" class="add-to-compare-link">Add to compare</a>
+					<a class="button add_to_cart_button" href="index.php?page=cart" >افزودن به سبد خرید</a>
+					<a href="index.php?page=compare" class="add-to-compare-link">افزودن برای مقایسه</a>
 				</div><!-- .hover-area -->
 			</div><!-- .media-body -->
 		</div><!-- .media -->

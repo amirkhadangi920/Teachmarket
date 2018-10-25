@@ -56,7 +56,7 @@
 <section class="section-products-carousel-tabs techmarket-tabs">
 	<div class="section-products-carousel-tabs-wrap">
 		<header class="section-header">
-			<h2 class="section-title">Digital Cameras For You</h2>
+			<h2 class="section-title">دوربین های دیجیتال برای شما</h2>
 
 			<ul role="tablist" class="nav justify-content-end">
 
