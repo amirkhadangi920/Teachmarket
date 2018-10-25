@@ -2,10 +2,10 @@
 	<div class="col-full">
 		<div class="row">
 			<nav class="woocommerce-breadcrumb">
-				<a href="index.php">Home</a>
+				<a href="index.php">صفحه اصلی</a>
 				<span class="delimiter"><i class="tm tm-breadcrumbs-arrow-right"></i></span>
-				<a href="index.php?page=checkout">Checkout</a>
-				<span class="delimiter"><i class="tm tm-breadcrumbs-arrow-right"></i></span>Order received
+				<a href="index.php?page=checkout">بررسی</a>
+				<span class="delimiter"><i class="tm tm-breadcrumbs-arrow-right"></i></span>سفارشات دریافتی
 			</nav><!-- .woocommerce-breadcrumb -->
 
 			<div id="primary" class="content-area">
@@ -16,32 +16,32 @@
 							<div class="woocommerce">
 							 	<div class="woocommerce-order">
 							
-									<p class="woocommerce-notice woocommerce-notice--success woocommerce-thankyou-order-received">Thank you. Your order has been received.</p>
+									<p class="woocommerce-notice woocommerce-notice--success woocommerce-thankyou-order-received">متشکرم. سفارش شما دریافت شد.</p>
 
 									<ul class="woocommerce-order-overview woocommerce-thankyou-order-details order_details">
 
 										<li class="woocommerce-order-overview__order order">
-											Order number:<strong>3001</strong>
+											شماره سفارش :<strong>3001</strong>
 										</li>
 
 										<li class="woocommerce-order-overview__date date">
-											Date:<strong>November 6, 2017</strong>
+											تاریخ :<strong>November 6, 2017</strong>
 										</li>
 
 										
 										<li class="woocommerce-order-overview__total total">
-											Total:<strong><span class="woocommerce-Price-amount amount"><span class="woocommerce-Price-currencySymbol">$</span>1,476.99</span></strong>
+											نتیجه :<strong><span class="woocommerce-Price-amount amount"><span class="woocommerce-Price-currencySymbol">$</span>1,476.99</span></strong>
 										</li>
 
 										<li class="woocommerce-order-overview__payment-method method">
-												Payment method:	<strong>Direct bank transfer</strong>
+												روش پرداخت :	<strong>انتقال مستقیم بانک</strong>
 										</li>
 										
 									</ul><!-- .woocommerce-order-overview -->
 
 								
 									<section class="woocommerce-order-details">
-										<h2 class="woocommerce-order-details__title">Order details</h2>
+										<h2 class="woocommerce-order-details__title">جزئیات سفارش</h2>
 
 										<?php require_once 'inc/components/order-received-table.php'; ?>
 									</section><!-- .woocommerce-order-details -->
