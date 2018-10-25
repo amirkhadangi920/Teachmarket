@@ -43,7 +43,7 @@
 
 <div class="tm-related-products-carousel section-products-carousel" id="tm-related-products-carousel" data-ride="tm-slick-carousel" data-wrap=".products" data-slick="<?php echo htmlspecialchars( json_encode( $carousel_args ), ENT_QUOTES, 'UTF-8' ); ?>">
 	<section class="related">
-		<header class="section-header"><h2 class="section-title">Related products</h2>
+		<header class="section-header"><h2 class="section-title">محصولات مرتبط</h2>
 			<nav class="custom-slick-nav"></nav>
 		</header><!-- .section-header -->
 		

@@ -16,9 +16,9 @@
 							<div class="row contact-info">
 								<div class="col-md-9 left-col">
 									<div class="text-block">
-										<h2 class="contact-page-title">Leave us a Message</h2>
-										<p>Maecenas dolor elit, semper a sem sed, pulvinar molestie lacus. Aliquam dignissim, elit non mattis ultrices,<br>
-										neque odio ultricies tellus, eu porttitor nisl ipsum eu massa.</p>
+										<h2 class="contact-page-title">فرستادن پیام</h2>
+										<p>لورم ایپسوم متن ساختگی با تولید سادگی نامفهوم از صنعت چاپ و با استفاده از طراحان گرافیک است. <br>
+										لورم ایپسوم متن ساختگی با تولید سادگی نامفهوم از صنعت چاپ و با استفاده از طراحان گرافیک است. </p>
 									</div>
 
 									<?php require_once 'inc/components/contact-form.php'; ?>
@@ -26,26 +26,26 @@
 
 								<div class="col-md-3 store-info">
 									<div class="text-block">
-										<h2 class="contact-page-title">Our Store</h2>
+										<h2 class="contact-page-title">فروشگاه ما</h2>
 										<address>
-											17 Princess Road<br>
-											London, Greater London<br>
-											NW1 8JR, UK
+											خراسان رضوی<br>
+											مشهد ،پیروزی<br>
+											همین دورورا
 										</address>
 
-										<h3>Hours of Operation</h3>
+										<h3>ساعات کار</h3>
 										<ul class="list-unstyled operation-hours inner-right-md">
-											<li class="clearfix"><span class="day">Monday:</span><span class="pull-right flip hours">12-6 PM</span></li>
-											<li class="clearfix"><span class="day">Tuesday:</span><span class="pull-right flip hours">12-6 PM</span></li>
-											<li class="clearfix"><span class="day">Wednesday:</span><span class="pull-right flip hours">12-6 PM</span></li>
-											<li class="clearfix"><span class="day">Thursday:</span><span class="pull-right flip hours">12-6 PM</span></li>
-											<li class="clearfix"><span class="day">Friday:</span><span class="pull-right flip hours">12-6 PM</span></li>
-											<li class="clearfix"><span class="day">Saturday:</span><span class="pull-right flip hours">12-6 PM</span></li>
-											<li class="clearfix"><span class="day">Sunday</span><span class="pull-right flip hours">Closed</span></li>
+											<li class="clearfix"><span class="day">شنبه ها:</span><span class="pull-right flip hours">12-6 PM</span></li>
+											<li class="clearfix"><span class="day">یکشنبه ها:</span><span class="pull-right flip hours">12-6 PM</span></li>
+											<li class="clearfix"><span class="day">دوشنبه ها:</span><span class="pull-right flip hours">12-6 PM</span></li>
+											<li class="clearfix"><span class="day">سه شنبه ها:</span><span class="pull-right flip hours">12-6 PM</span></li>
+											<li class="clearfix"><span class="day">چهار شنبه ها:</span><span class="pull-right flip hours">12-6 PM</span></li>
+											<li class="clearfix"><span class="day">پنج شنبه ها:</span><span class="pull-right flip hours">12-6 PM</span></li>
+											<li class="clearfix"><span class="day">جمعه ها</span><span class="pull-right flip hours">Closed</span></li>
 										</ul>
 
-										<h3>Careers</h3>
-										<p class="inner-right-md">If you’re interested in employment opportunities at Techmarket, please email us: <a href="mailto:contact@yourstore.com">contact@yourstore.com</a></p>
+										<h3>شغل ها</h3>
+										<p class="inner-right-md">اگر شما علاقه مند به فرصت های شغلی در Techmarket هستید، لطفا به ما ایمیل بزنید: <a href="mailto:contact@yourstore.com">contact@yourstore.com</a></p>
 									</div><!-- .text-block -->
 								</div><!-- .col -->
 							</div><!-- .contact-info -->

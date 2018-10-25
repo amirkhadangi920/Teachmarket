@@ -3,8 +3,8 @@
 		<div class="row">
 
 			<nav class="woocommerce-breadcrumb">
-				<a href="index.php">Home</a>
-				<span class="delimiter"><i class="tm tm-breadcrumbs-arrow-right"></i></span>Error 404
+				<a href="index.php">خانه</a>
+				<span class="delimiter"><i class="tm tm-breadcrumbs-arrow-right"></i></span>ارور 404
 			</nav>
 
 			<div id="primary" class="content-area">
@@ -12,14 +12,14 @@
 					<div class="error404">
 						<div class="info-404">
                         	<h2 class="title">404!</h2>
-                        	<p class="lead error-text">Oops! That page can’t be found.</p>
-                        	<p class="lead">Nothing was found at this location. Try searching, or check out the links below.</p>
+                        	<p class="lead error-text">مشکلی پیش آمده ،صفحه ی مورد نظر پیدا نشد</p>
+                        	<p class="lead">هیچ چیز در این مکان یافت نشد سعی کنید جستجو کنید یا از لینک زیر دیدن کنید.</p>
                         
                         	<div class="sub-form-row">
 	                            <div class="widget woocommerce widget_product_search">
 	                                <form class="search-form"> 
 										<input type="text" placeholder="Search products...">
-										<button class="button" type="button">Search</button>
+										<button class="button" type="button">جستجو</button>
 									</form>
 	                            </div>
                            	</div>  
