@@ -19,6 +19,18 @@
 					<div class="kc-col-container">
 						<div class="kc_text_block">
 							<ul>
+								<li class="nav-title">لوازم تحریر و اداری</li>
+								<li><a href="index.php?page=shop">لوازم تحریر</a></li>
+								<li><a href="index.php?page=shop">خودکاری و ابزار نوشتاری</a></li>
+							</ul>
+						</div><!-- .kc_text_block -->
+					</div><!-- .kc-col-container -->
+				</div><!-- .kc_column -->
+
+				<div class="col-md-6 col-sm-12">
+					<div class="kc-col-container">
+						<div class="kc_text_block">
+							<ul>
 								<li class="nav-title">کامپیوتر و لوازم جانبی</li>
 								<li><a href="index.php?page=shop">تمام لوازم جانبی های کامپیوتر</a></li>
 								<li><a href="index.php?page=shop">لپتاپ ، مانیتور و ...</a></li>
@@ -36,17 +48,6 @@
 					</div><!-- .kc-col-container -->
 				</div><!-- .kc_column -->
 
-				<div class="col-md-6 col-sm-12">
-					<div class="kc-col-container">
-						<div class="kc_text_block">
-							<ul>
-								<li class="nav-title">لوازم تحریر و اداری</li>
-								<li><a href="index.php?page=shop">لوازم تحریر</a></li>
-								<li><a href="index.php?page=shop">خودکاری و ابزار نوشتاری</a></li>
-							</ul>
-						</div><!-- .kc_text_block -->
-					</div><!-- .kc-col-container -->
-				</div><!-- .kc_column -->
 					
 			</div><!-- .kc_row -->
 		</div><!-- .yamm-content -->
