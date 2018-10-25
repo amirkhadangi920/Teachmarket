@@ -11,7 +11,7 @@
 
 					<section class="product-categories-list">
 						<header class="section-header">
-							<h2 class="section-title">Top Categories this Week</h2>
+							<h2 class="section-title">دسته بندی های بالا این هفته</h2>
 						</header>
 						<?php require_once 'inc/blocks/homepage/product-categories-list.php'; ?>
 					</section>
