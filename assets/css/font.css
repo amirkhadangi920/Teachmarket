@@ -96,7 +96,7 @@ h1, h2, h3, h4, h5, h6, th{
     font-family: Roya !important;
 }
 
-form, input, textarea, button, input[type="button"], a {
+form, input, textarea, button, input[type="button"], a, select {
 
     font-family: Yekan !important;
 }
