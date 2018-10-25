@@ -87,11 +87,11 @@
 
 	<div class="products-carousel-with-vertical-tabs row">
 		<ul role="tablist" class="nav">
-			<li class="nav-item"><a class="nav-link active" href="#desktop-pc" data-toggle="tab"><span class="category-title"><i class="tm tm-desktop-pc"></i> Desktop PCs</span><i class="tm tm-arrow-right"></i></a></li>
-			<li class="nav-item"><a class="nav-link" href="#ultrabooks" data-toggle="tab"><span class="category-title"><i class="tm tm-laptop"></i> Ultrabooks</span><i class="tm tm-arrow-right"></i></a></li>
-			<li class="nav-item"><a class="nav-link" href="#smartphones" data-toggle="tab"><span class="category-title"><i class="tm tm-smartphone"></i> Smartphones</span><i class="tm tm-arrow-right"></i></a></li>
-			<li class="nav-item"><a class="nav-link" href="#internet-cams" data-toggle="tab"><span class="category-title"><i class="tm tm-digital-camera"></i> Internet Cams</span><i class="tm tm-arrow-right"></i></a></li>
-			<li class="nav-item"><a class="nav-link" href="#accessories" data-toggle="tab"><span class="category-title"><i class="tm tm-accesories"></i> Accessories</span><i class="tm tm-arrow-right"></i></a></li>
+			<li class="nav-item"><a class="nav-link active" href="#desktop-pc" data-toggle="tab"><span class="category-title"><i class="tm tm-desktop-pc"></i> کامپیوتر های رو میزی</span><i class="tm tm-arrow-right"></i></a></li>
+			<li class="nav-item"><a class="nav-link" href="#ultrabooks" data-toggle="tab"><span class="category-title"><i class="tm tm-laptop"></i> اولترابوک ها</span><i class="tm tm-arrow-right"></i></a></li>
+			<li class="nav-item"><a class="nav-link" href="#smartphones" data-toggle="tab"><span class="category-title"><i class="tm tm-smartphone"></i> تلفن هوشمند</span><i class="tm tm-arrow-right"></i></a></li>
+			<li class="nav-item"><a class="nav-link" href="#internet-cams" data-toggle="tab"><span class="category-title"><i class="tm tm-digital-camera"></i> کدهای اینترنت</span><i class="tm tm-arrow-right"></i></a></li>
+			<li class="nav-item"><a class="nav-link" href="#accessories" data-toggle="tab"><span class="category-title"><i class="tm tm-accesories"></i> اکسسوری</span><i class="tm tm-arrow-right"></i></a></li>
 		</ul>
 
 		<div style="background-size: cover; background-position: center center; background-image: url( assets/images/banner/vertical-bg.png ); height: 552px;" class="tab-content">
