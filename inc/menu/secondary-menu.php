@@ -1,7 +1,7 @@
 <nav id="secondary-navigation" class="secondary-navigation" aria-label="Secondary Navigation" data-nav="flex-menu">
 	<ul id="menu-secondary-menu" class="nav">
 		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2802 animate-dropdown">
-			<a title="Track Your Order" href="index.php?page=track-your-order"><i class="tm tm-order-tracking"></i>Track Your Order</a>
+			<a title="Track Your Order" href="index.php?page=track-your-order"><i class="tm tm-order-tracking"></i>سفارشتان را پیگیری کنید</a>
 		</li>
 
 		<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-487 animate-dropdown dropdown">
@@ -29,7 +29,7 @@
 		</li>
 		
 		<li class="menu-item">
-			<a title="My Account" href="index.php?page=login-and-register"><i class="tm tm-login-register"></i>Register or Sign in</a>
+			<a title="My Account" href="index.php?page=login-and-register"><i class="tm tm-login-register"></i>ثبت نام - ورود به سیستم</a>
 		</li>
 
 		<li class="techmarket-flex-more-menu-item dropdown">
