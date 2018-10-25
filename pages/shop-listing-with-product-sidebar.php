@@ -2,10 +2,10 @@
 	<div class="col-full">
 		<div class="row">
 			<nav class="woocommerce-breadcrumb">
-				<a href="index.php">Home</a>
+				<a href="index.php">صفحه اصلی</a>
 				<span class="delimiter"><i class="tm tm-breadcrumbs-arrow-right"></i></span>
-				<a href="index.php?page=shop">Shop</a><span class="delimiter">
-				<i class="tm tm-breadcrumbs-arrow-right"></i></span>Page 1
+				<a href="index.php?page=shop">فروشگاه</a><span class="delimiter">
+				<i class="tm tm-breadcrumbs-arrow-right"></i></span>صفحه 1
 			</nav><!-- .woocommerce-breadcrumb -->
 
 			<div id="primary" class="content-area">
@@ -42,7 +42,7 @@
 			<div id="secondary" class="widget-area shop-sidebar" role="complementary">
 				<?php require_once 'inc/components/sidebar/product-categories-widget.php'; ?>
 				<div id="techmarket_products_filter-3" class="widget widget_techmarket_products_filter">
-					<span class="gamma widget-title">Filters</span>
+					<span class="gamma widget-title">فیلتر</span>
 					<?php require_once 'inc/components/sidebar/price-fliter.php'; ?>
 					<?php require_once 'inc/components/sidebar/product-filters-sidebar.php'; ?>
 				</div>
