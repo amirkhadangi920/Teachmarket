@@ -23,19 +23,19 @@
 						<div class="media">
 							<div class="media-body">	
 								<header class="section-header">
-									<h4 class="pretitle">Featured Product</h4>
-									<h2 class="section-title"><strong>The features you want,</strong><br>all in one place</h2>
+									<h4 class="pretitle">محصولات ویژه</h4>
+									<h2 class="section-title"><strong>ویژگی های مورد نظر شما,</strong><br>همه در یک جا</h2>
 								</header><!-- /.section-header -->
 
 								<a href="index.php?page=single-product-fullwidth" class="woocommerce-LoopProduct-link woocommerce-loop-product__link" tabindex="0">
 									<div class="ribbon green-label"><span>A++</span></div>
-									<span class="price"><ins><span class="woocommerce-Price-amount amount"><span class="woocommerce-Price-currencySymbol">$</span>3,499.99</span></ins> <del><span class="woocommerce-Price-amount amount"><span class="woocommerce-Price-currencySymbol">$</span>4,129.99</span></del></span>
-									<h2 class="woocommerce-loop-product__title">Organic Fruit Strips, Strawberry</h2>
+									<span class="price"><ins><span class="woocommerce-Price-amount amount"><span class="woocommerce-Price-currencySymbol">هزار تومان</span>300</span></ins> <del><span class="woocommerce-Price-amount amount"><span class="woocommerce-Price-currencySymbol">هزار تومان</span>500</span></del></span>
+									<h2 class="woocommerce-loop-product__title">نوار میوه ای آلی، توت فرنگی</h2>
 									<div class="techmarket-product-rating">
-										<div class="star-rating" title="Rated 0 out of 5"><span style="width:0%"><strong class="rating">0</strong> out of 5</span></div> <span class="review-count">(0)</span>
+										<div class="star-rating" title="Rated 0 out of 5"><span style="width:0%"><strong class="rating">0</strong> از 5</span></div> <span class="review-count">(0)</span>
 									</div>
 								</a>
-								<a rel="nofollow" href="index.php?page=single-product-fullwidth"  class="button product_type_simple ajax_add_to_cart" tabindex="0">Read more</a>
+								<a rel="nofollow" href="index.php?page=single-product-fullwidth"  class="button product_type_simple ajax_add_to_cart" tabindex="0">بیشتر</a>
 							</div><!-- /.media-body -->
 
 							<div class="product-images-wrapper">		
@@ -89,19 +89,19 @@
 						<div class="media">
 							<div class="media-body">	
 								<header class="section-header">
-									<h4 class="pretitle">Featured Product</h4>
-									<h2 class="section-title"><strong>The features you want,</strong><br>all in one place</h2>
+									<h4 class="pretitle">محصولات ویژه</h4>
+									<h2 class="section-title"><strong>ویژگی هایی که می خواهید</strong><br>همه در یک مکان</h2>
 								</header><!-- /.section-header -->
 
 								<a href="index.php?page=single-product-fullwidth" class="woocommerce-LoopProduct-link woocommerce-loop-product__link" tabindex="0">
 									<div class="ribbon green-label"><span>A++</span></div>
-									<span class="price"><ins><span class="woocommerce-Price-amount amount"><span class="woocommerce-Price-currencySymbol">$</span>3,499.99</span></ins> <del><span class="woocommerce-Price-amount amount"><span class="woocommerce-Price-currencySymbol">$</span>4,129.99</span></del></span>
-									<h2 class="woocommerce-loop-product__title">Organic Fruit Strips, Strawberry</h2>
+									<span class="price"><ins><span class="woocommerce-Price-amount amount"><span class="woocommerce-Price-currencySymbol">هزار تومان</span>500</span></ins> <del><span class="woocommerce-Price-amount amount"><span class="woocommerce-Price-currencySymbol">هزار تومان</span>400</span></del></span>
+									<h2 class="woocommerce-loop-product__title">نوار میوه ای آلی، توت فرنگی</h2>
 									<div class="techmarket-product-rating">
-										<div class="star-rating" title="Rated 0 out of 5"><span style="width:0%"><strong class="rating">0</strong> out of 5</span></div> <span class="review-count">(0)</span>
+										<div class="star-rating" title="Rated 0 out of 5"><span style="width:0%"><strong class="rating">0</strong> از 5</span></div> <span class="review-count">(0)</span>
 									</div>
 								</a>
-								<a rel="nofollow" href="index.php?page=single-product-fullwidth"  class="button product_type_simple ajax_add_to_cart" tabindex="0">Read more</a>
+								<a rel="nofollow" href="index.php?page=single-product-fullwidth"  class="button product_type_simple ajax_add_to_cart" tabindex="0">بیشتر</a>
 							</div><!-- /.media-body -->
 
 							<div class="product-images-wrapper">		
@@ -155,20 +155,21 @@
 						<div class="media">
 							<div class="media-body">	
 								<header class="section-header">
-									<h4 class="pretitle">Featured Product</h4>
-									<h2 class="section-title"><strong>The features you want,</strong><br>all in one place</h2>
+									<h4 class="pretitle">محصولات ویژه</h4>
+									<h2 class="section-title"><strong>ویژگی هایی که می خواهید</strong><br>همه در یک مکان</h2>
 								</header><!-- /.section-header -->
 
 								<a href="index.php?page=single-product-fullwidth" class="woocommerce-LoopProduct-link woocommerce-loop-product__link" tabindex="0">
 									<div class="ribbon green-label"><span>A++</span></div>
-									<span class="price"><ins><span class="woocommerce-Price-amount amount"><span class="woocommerce-Price-currencySymbol">$</span>3,499.99</span></ins> <del><span class="woocommerce-Price-amount amount"><span class="woocommerce-Price-currencySymbol">$</span>4,129.99</span></del></span>
-									<h2 class="woocommerce-loop-product__title">Organic Fruit Strips, Strawberry</h2>
+									<span class="price"><ins><span class="woocommerce-Price-amount amount"><span class="woocommerce-Price-currencySymbol">هزار تومان</span>800</span></ins> <del><span class="woocommerce-Price-amount amount"><span class="woocommerce-Price-currencySymbol">$</span>4,129.99</span></del></span>
+									<h2 class="woocommerce-loop-product__title">نوار میوه ای آلی، توت فرنگی</h2>
 									<div class="techmarket-product-rating">
-										<div class="star-rating" title="Rated 0 out of 5"><span style="width:0%"><strong class="rating">0</strong> out of 5</span></div> <span class="review-count">(0)</span>
+										<div class="star-rating" title="Rated 0 out of 5"><span style="width:0%"><strong class="rating">0</strong>از 5</span></div> <span class="review-count">(0)</span>
 									</div>
 								</a>
-								<a rel="nofollow" href="index.php?page=single-product-fullwidth"  class="button product_type_simple ajax_add_to_cart" tabindex="0">Read more</a>
+								<a rel="nofollow" href="index.php?page=single-product-fullwidth"  class="button product_type_simple ajax_add_to_cart" tabindex="0">بیشتر</a>
 							</div><!-- /.media-body -->
+
 
 							<div class="product-images-wrapper">		
 								<div class="card-gallery techmarket-product-gallery techmarket-product-gallery--with-images techmarket-product-gallery--columns-4 images" data-columns="4">
