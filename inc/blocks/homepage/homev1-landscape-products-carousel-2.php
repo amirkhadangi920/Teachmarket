@@ -28,7 +28,7 @@
 ?>
 <section class="section-landscape-products-carousel 4-column-landscape-carousel" id="landscape-products-carousel" >
 	<header class="section-header">
-		<h2 class="section-title">Video Cameras & Photography</h2>
+		<h2 class="section-title">دوربین های فیلمبرداری و عکاسی</h2>
 		<nav class="custom-slick-nav"></nav>
 	</header>
 

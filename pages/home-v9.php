@@ -8,7 +8,7 @@
 					<section class="section-products-tabs">
 						<div class="section-products-tabs-wrap">
 							<header class="section-header">
-								<h2 class="section-title">Featured Products</h2>
+								<h2 class="section-title">محصولات ویژه</h2>
 								<ul role="tablist" class="nav justify-content-center">
 									<?php 
 									$tab_title = array(
@@ -36,7 +36,7 @@
 								
 								<?php } ?>
 							</div><!-- .tab-content -->
-							<a href="index.php?page=shop" class="button"><i class="tm tm-free-return"></i>See More Products</a>
+							<a href="index.php?page=shop" class="button"><i class="tm tm-free-return"></i>محصولات بیش تر ...</a>
 						</div><!-- .section-products-tabs-wrap -->
 					</section><!-- .section-products-tabs -->
 

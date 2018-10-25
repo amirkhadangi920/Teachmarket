@@ -31,7 +31,7 @@
 	<div class="col-full">
 		<header class="section-header">
 			<h2 class="section-title">
-				<strong>Power Audio &amp; Visual </strong>entertainment
+				<strong>قدرت صدا و دیدن </strong>سرگرمی
 			</h2>
 		</header><!-- .section-header -->
 

@@ -2,9 +2,9 @@
 	<div class="col-full">
 		<div class="row">
 			<nav class="woocommerce-breadcrumb">
-				<a href="index.php">Home</a>
+				<a href="index.php">صفحه اصلی</a>
 				<span class="delimiter"><i class="tm tm-breadcrumbs-arrow-right"></i></span>
-				Cart
+				سبد خرید
 			</nav><!-- .woocommerce-breadcrumb -->
 
 			<div id="primary" class="content-area">

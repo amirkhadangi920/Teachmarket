@@ -24,10 +24,10 @@
 							<div style="background-size: cover; background-position: center center; background-image: url( assets/images/garden/big-ban1.jpg ); height: 236px;" class="banner-bg">
 								<div class="caption">
 									<div class="banner-info">
-										<h3 class="title"><strong>Give Mom Her Day</strong><br> with Beautiful Blooms. </h3>
+										<h3 class="title"><strong>به مادر خود روزی با</strong><br>شکوفه های زیبا بده. </h3>
 										
 									</div>
-									<span class="banner-action button">Browse now<i class="feature-icon d-flex ml-4 tm tm-long-arrow-right"></i></span>
+									<span class="banner-action button">مرور کن<i class="feature-icon d-flex ml-4 tm tm-long-arrow-right"></i></span>
 								</div><!-- /.caption -->
 							</div><!-- /.banner-b -->
 						</a><!-- /.section-header -->
