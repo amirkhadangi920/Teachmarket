@@ -1,12 +1,12 @@
 <div class="cart-collaterals">
 	<div class="cart_totals">
-		<h2>Cart totals</h2>
+		<h2>سبد خرید</h2>
 
 		<table class="shop_table shop_table_responsive">
 
 			<tbody>
 				<tr class="cart-subtotal">
-					<th>Subtotal</th>
+					<th>کل حجم</th>
 					<td data-title="Subtotal">
 						<span class="woocommerce-Price-amount amount">
 						<span class="woocommerce-Price-currencySymbol">£</span>963.94</span>
@@ -15,7 +15,7 @@
 
 				<tr class="shipping">
 					<th>Shipping</th>
-					<td data-title="Shipping">Flat rate</td>
+					<td data-title="Shipping">نرخ ثابت</td>
 				</tr>
 
 				<tr class="order-total">
@@ -35,7 +35,7 @@
 		<div class="wc-proceed-to-checkout">
 			<form class="woocommerce-shipping-calculator" method="post" action="#">
 				<p>
-					<a class="shipping-calculator-button" data-toggle="collapse" href="#shipping-form" aria-expanded="false" aria-controls="shipping-form">Calculate shipping</a>
+					<a class="shipping-calculator-button" data-toggle="collapse" href="#shipping-form" aria-expanded="false" aria-controls="shipping-form">محاسبه حمل و نقل</a>
 				</p>
 				
 				<div class="collapse" id="shipping-form">
@@ -43,29 +43,29 @@
 
 						<p id="calc_shipping_country_field" class="form-row form-row-wide">
 							<select rel="calc_shipping_state" class="country_to_state" id="calc_shipping_country" name="calc_shipping_country">
-								<option value="">Select a country…</option>
-								<option value="AX">Åland Islands</option>
-								<option value="AF">Afghanistan</option>
-								<option value="AL">Albania</option>
-								<option value="DZ">Algeria</option>
-								<option value="AS">American Samoa</option>
-								<option value="AD">Andorra</option>
-								<option value="AO">Angola</option>
-								<option value="AI">Anguilla</option>
-								<option value="AQ">Antarctica</option>
-								<option value="AG">Antigua and Barbuda</option>
-								<option value="AR">Argentina</option>
-								<option value="AM">Armenia</option>
-								<option value="AW">Aruba</option>
-								<option value="AU">Australia</option>
-								<option value="AT">Austria</option>
-								<option value="AZ">Azerbaijan</option>
+								<option value="">یک کشورانتخاب کنید…</option>
+								<option value="AX">جزایر الند</option>
+								<option value="AF">افغانستان</option>
+								<option value="AL">آلبانی</option>
+								<option value="DZ">الجزایر</option>
+								<option value="AS">ساموای آمریکایی</option>
+								<option value="AD">آندورا</option>
+								<option value="AO">آنگولا</option>
+								<option value="AI">آنگویلا</option>
+								<option value="AQ">قطب جنوب</option>
+								<option value="AG">آنتیگوا و باربودا</option>
+								<option value="AR">آرژانتین</option>
+								<option value="AM">ارمنستان</option>
+								<option value="AW">آروبا</option>
+								<option value="AU">استرالیا</option>
+								<option value="AT">اتریش</option>
+								<option value="AZ">آذربایجان</option>
 							</select>
 						</p>
 
 						<p id="calc_shipping_state_field" class="form-row form-row-wide validate-required">
 							<span>
-								<select id="calc_shipping_state" name="calc_shipping_state"><option value="">Select an option…</option><option value="AP">Andhra Pradesh</option><option value="AR">Arunachal Pradesh</option><option value="AS">Assam</option><option value="BR">Bihar</option><option value="CT">Chhattisgarh</option><option value="GA">Goa</option><option value="GJ">Gujarat</option><option value="HR">Haryana</option><option value="HP">Himachal Pradesh</option><option value="JK">Jammu and Kashmir</option><option value="JH">Jharkhand</option><option value="KA">Karnataka</option><option value="KL">Kerala</option><option value="MP">Madhya Pradesh</option><option value="MH">Maharashtra</option><option value="MN">Manipur</option><option value="ML">Meghalaya</option><option value="MZ">Mizoram</option><option value="NL">Nagaland</option><option value="OR">Orissa</option><option value="PB">Punjab</option><option value="RJ">Rajasthan</option><option value="SK">Sikkim</option><option value="TN">Tamil Nadu</option><option value="TS">Telangana</option><option value="TR">Tripura</option><option value="UK">Uttarakhand</option><option value="UP">Uttar Pradesh</option><option value="WB">West Bengal</option><option value="AN">Andaman and Nicobar Islands</option><option value="CH">Chandigarh</option><option value="DN">Dadra and Nagar Haveli</option><option value="DD">Daman and Diu</option><option value="DL">Delhi</option><option value="LD">Lakshadeep</option><option value="PY">Pondicherry (Puducherry)</option></select>
+								<select id="calc_shipping_state" name="calc_shipping_state"><option value="">یک گزینه را انتخاب کنید ...</option><option value="AP">آندرا پرادش</option><option value="AR">آرونچال پرادش</option><option value="AS">آسام</option><option value="BR">بیهار</option><option value="CT">چاتیتسگارا</option><option value="GA">گوا</option><option value="GJ">گجرات</option><option value="HR">هاریانا</option><option value="HP">هیمکلاه پرادش</option><option value="JK">جامو و کشمیر</option><option value="JH">جارخند</option><option value="KA">کارناتاکا</option><option value="KL">کرالا</option><option value="MP">مادایا پرادش</option><option value="MH">ماهاراشترا</option><option value="MN">مانیپور</option><option value="ML">مگالایا</option><option value="MZ">میزورام</option><option value="NL">ناگالند</option><option value="OR">اوریسا</option><option value="PB">پنجاب</option><option value="RJ">راجستان</option><option value="SK">سیکیم</option><option value="TN">تامیل نادو</option><option value="TS">تلانگانا</option><option value="TR">تریپورا</option><option value="UK">اوتاراخاند</option><option value="UP">اوتار پرادش</option><option value="WB">بنگال غربی</option><option value="AN">جزایر اندام و نیکوبار</option><option value="CH">چندیگره</option><option value="DN">دادرا و نگار حوالی</option><option value="DD">دامان و دیو</option><option value="DL">دهلی</option><option value="LD">لاکشادیپ</option><option value="PY">پاندیچری</option></select>
 							</span>		
 						</p>
 
@@ -74,14 +74,14 @@
 						</p>
 
 
-						<p><button class="button" value="1" name="calc_shipping" type="submit">Update totals</button></p>
+						<p><button class="button" value="1" name="calc_shipping" type="submit">به روز رسانی کل</button></p>
 					</div>
 				</div>
 			</form><!-- .wc-proceed-to-checkout -->
 
 			<a class="checkout-button button alt wc-forward" href="index.php?page=checkout">
-				Proceed to checkout</a>
-			<a class="back-to-shopping" href="index.php?page=shop">Back to Shopping</a>	
+				به پرداخت بپردازید</a>
+			<a class="back-to-shopping" href="index.php?page=shop">بازگشت به خرید</a>	
 		</div><!-- .wc-proceed-to-checkout -->
 	</div><!-- .cart_totals -->
 </div><!-- .cart-collaterals -->
