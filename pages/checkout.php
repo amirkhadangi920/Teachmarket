@@ -2,11 +2,11 @@
 	<div class="col-full">
 		<div class="row">
 			<nav class="woocommerce-breadcrumb">
-				<a href="index.php">Home</a>
+				<a href="index.php">صفحه اصلی</a>
 				<span class="delimiter">
 					<i class="tm tm-breadcrumbs-arrow-right"></i>
 				</span>
-				Checkout
+				بررسی
 			</nav><!-- .woocommerce-breadcrumb -->
 
 			<div class="content-area" id="primary">
@@ -16,25 +16,24 @@
 						
 						<div class="entry-content">
 							<div class="woocommerce">
-								<div class="woocommerce-info" >Returning customer? <a data-toggle="collapse" href="#login-form" aria-expanded="false" aria-controls="login-form" class="showlogin">Click here to login</a>
+								<div class="woocommerce-info" >مشتری مداری <a data-toggle="collapse" href="#login-form" aria-expanded="false" aria-controls="login-form" class="showlogin">Click here to login</a>
 								</div>
 								<div class="collapse" id="login-form">
 									<form method="post" class="woocomerce-form woocommerce-form-login login">
 
 										<p class="before-login-text">
-											Vestibulum lacus magna, faucibus vitae dui eget, aliquam fringilla. 
-											In et commodo elit. Class aptent taciti sociosqu ad litora.		
+											لورم ایپسوم متن ساختگی با تولید سادگی نامفهوم از صنعت چاپ و با استفاده از طراحان گرافیک است. .		
 										</p>
 
-										<p>If you have shopped with us before, please enter your details in the boxes below. If you are a new customer, please proceed to the Billing &amp; Shipping section.</p>
+										<p>لورم ایپسوم متن ساختگی با تولید سادگی نامفهوم از صنعت چاپ و با استفاده از طراحان گرافیک است. چاپگرها و متون بلکه روزنامه و مجله در ستون و سطرآنچنان که لازم است و برای شرایط فعلی تکنولوژی مورد نیاز و کاربردهای متنوع با هدف بهبود ابزارهای کاربردی می باشد. </p>
 
 										<p class="form-row form-row-first">
-											<label for="username">Username or email <span class="required">*</span></label>
+											<label for="username">نام کاربری یا پسورد<span class="required">*</span></label>
 											<input type="text" id="username" name="username" class="input-text">
 										</p>
 
 										<p class="form-row form-row-last">
-											<label for="password">Password <span class="required">*</span></label>
+											<label for="password">پسورد <span class="required">*</span></label>
 											<input type="password" id="password" name="password" class="input-text">
 										</p>
 
@@ -46,12 +45,12 @@
 											<input type="submit" value="Login" name="login" class="button">
 											
 											<label class="woocommerce-form__label woocommerce-form__label-for-checkbox inline">
-												<input type="checkbox" value="forever" id="rememberme" name="rememberme" class="woocommerce-form__input woocommerce-form__input-checkbox"> <span>Remember me</span>
+												<input type="checkbox" value="forever" id="rememberme" name="rememberme" class="woocommerce-form__input woocommerce-form__input-checkbox"> <span>مرا به خاطر بسپار/span>
 											</label>
 										</p>
 
 										<p class="lost_password">
-											<a href="#">Lost your password?</a>
+											<a href="#">پسوردم را فراموش کردم</a>
 										</p>
 
 										<div class="clear"></div>
@@ -60,17 +59,17 @@
 									</form>
 								</div><!-- .collapse -->
 
-								<div class="woocommerce-info">Have a coupon? <a data-toggle="collapse" href="#checkoutCouponForm" aria-expanded="false" aria-controls="checkoutCouponForm" class="showlogin">Click here to enter your code</a>
+								<div class="woocommerce-info">کد تخفیف دارید ؟ <a data-toggle="collapse" href="#checkoutCouponForm" aria-expanded="false" aria-controls="checkoutCouponForm" class="showlogin">اینجا را کلیک کنید</a>
 								</div>
 								<div class="collapse" id="checkoutCouponForm">
 									<form method="post" class="checkout_coupon">
 
 											<p class="form-row form-row-first">
-												<input type="text" value="" id="coupon_code" placeholder="Coupon code" class="input-text" name="coupon_code">
+												<input type="text" value="" id="coupon_code" placeholder="کد تخفیف" class="input-text" name="coupon_code">
 											</p>
 
 											<p class="form-row form-row-last">
-												<input type="submit" value="Apply coupon" name="apply_coupon" class="button">
+												<input type="ارسال" value="Apply coupon" name="apply_coupon" class="button">
 											</p>
 
 											<div class="clear"></div>
