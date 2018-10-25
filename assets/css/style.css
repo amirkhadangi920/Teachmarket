@@ -2575,7 +2575,7 @@ body {
   border: none;
   width: auto;
   height: auto;
-  margin-left: .6em;
+  margin-right: .6em;
   content: '\f107';
   font-family: FontAwesome; }
 
@@ -4079,8 +4079,6 @@ body.can-uppercase .section-categories-carousel.section-top-categories .readmore
   .site-footer .before-footer-wrap {
     width: 100vw;
     position: relative;
-    margin-left: -50vw;
-    left: 50%;
     padding-top: 3.001em;
     padding-bottom: 2.331em;
     border-bottom: 1px solid #bebebe; }
@@ -4132,6 +4130,7 @@ body.can-uppercase .section-categories-carousel.section-top-categories .readmore
     font-weight: 500; }
   .site-footer .footer-widgets-block {
     margin-bottom: 3em;
+    text-align: right;
     padding-top: 3.133em; }
     .site-footer .footer-widgets-block .footer-contact, .site-footer .footer-widgets-block .footer-widgets .columns {
       padding-top: 1.667em; }
@@ -4190,7 +4189,7 @@ body.can-uppercase .section-categories-carousel.section-top-categories .readmore
   width: 100vw;
   position: relative;
   margin-left: -50vw;
-  left: 50%;
+  left: 5%;
   background-color: #222;
   color: #bababa;
   font-size: 0.933em;
@@ -6628,8 +6627,7 @@ button.menu-toggle {
 .top-bar {
   width: 100vw;
   position: relative;
-  margin-left: -50vw;
-  left: 50%;
+  left: 0%;
   background-color: #f9f9f9;
   font-size: 0.875em;
   line-height: 2.714em;
@@ -9525,6 +9523,7 @@ a#variations_clear:before {
   .navbar-primary .nav > li {
     line-height: 1.933em;
     padding: 0 1.6em;
+    float: right;
     display: inline-block; }
     .primary-navigation .nav > li > a,
     .navbar-primary .nav > li > a {
@@ -9536,7 +9535,7 @@ a#variations_clear:before {
       .navbar-primary .nav > li > a::after {
         position: absolute;
         top: -5px;
-        right: -16px; }
+        left: -16px; }
     .primary-navigation .nav > li:first-child,
     .navbar-primary .nav > li:first-child {
       padding-left: 0; }
@@ -9854,7 +9853,7 @@ a#variations_clear:before {
     .departments-menu button:hover, .departments-menu button:focus, .departments-menu button:active {
       box-shadow: none; }
     .departments-menu button i {
-      padding-right: 0.633em;
+      padding-left: 0.633em;
       line-height: 1.1; }
   .departments-menu.show > .dropdown-menu {
     transition: 0.2s ease-in-out; }
@@ -9912,8 +9911,8 @@ a#variations_clear:before {
     .departments-menu > .dropdown-menu .menu-item-has-children a[data-toggle="dropdown"]::after, .departments-menu > .dropdown-menu .menu-item-has-children a[data-toggle="dropdown-hover"]::after {
       font-family: 'FontAwesome';
       border-top: none;
-      content: "" /*rtl:""*/;
-      float: right;
+      content: "" /*rtl:""*/;
+      float: left;
       border-left: none;
       border-right: none;
       width: auto;
@@ -9922,6 +9921,8 @@ a#variations_clear:before {
       top: 0;
       padding: 0;
       margin: 0;
+      right: 280px;
+      text-align: right;
       font-size: 0.938em;
       border: 2px solid #eee;
       border-top-left-radius: 0;
@@ -10510,7 +10511,7 @@ a#variations_clear:before {
 
 .header-compare .value,
 .header-wishlist .value {
-  padding-left: 0.667em; }
+  padding-right: 0.667em; }
   @media (max-width: 1199px) {
     .header-compare .value,
     .header-wishlist .value {
@@ -11879,7 +11880,8 @@ article.post {
     .site-content .home-v1-slider .slider-2 .caption {
       flex: 0 0 29.1666666667%;
       max-width: 29.1666666667%;
-      left: 22.2%;
+      right: 22.2%;
+      text-align: right;
       top: 12.4%; } }
 
 @media (min-width: 1200px) and (max-width: 1399px) {
@@ -11887,14 +11889,16 @@ article.post {
   .site-content .home-v1-slider .slider-2 .caption {
     flex: 0 0 29.1666666667%;
     max-width: 29.1666666667%;
-    left: 26.2%;
+    right: 26.2%;
+    text-align: right;
     top: 18.4%; } }
   @media (min-width: 1400px) and (max-width: 1589px) {
     .site-content .home-v1-slider .slider-1 .caption,
     .site-content .home-v1-slider .slider-2 .caption {
       flex: 0 0 33.3333333333%;
       max-width: 33.3333333333%;
-      left: 25.2%;
+      right: 25.2%;
+      text-align: right;
       top: 15.4%; } }
   .site-content .home-v1-slider .slider-1 .caption .title,
   .site-content .home-v1-slider .slider-2 .caption .title {
@@ -14141,7 +14145,7 @@ form.woocommerce-checkout.checkout .col2-set .woocommerce-shipping-fields .wooco
     margin: 0;
     line-height: 2.267em; }
   .footer-widgets .columns:last-child {
-    border-left: 1px solid #bebebe; }
+    border-right: 1px solid #bebebe; }
     .footer-widgets .columns:last-child .widget {
       margin-left: 1.869em; }
   @media (min-width: 768px) {
@@ -14269,12 +14273,13 @@ form.woocommerce-checkout.checkout .col2-set .woocommerce-shipping-fields .wooco
   float: left; }
 
 .footer-newsletter .newsletter-header {
+  text-align: right;.footer-social-icons .social-icons.nav .nav-item + .nav-item
   margin-right: 3.667em; }
 
 .footer-newsletter .footer-newsletter-icon {
   font-size: 2.667em;
   color: #1f1f1f;
-  margin-right: 0.550em; }
+  margin-left: 0.550em; }
   .footer-newsletter .footer-newsletter-icon + .media-body {
     flex: 1 1 auto; }
 
@@ -14327,7 +14332,7 @@ form.woocommerce-checkout.checkout .col2-set .woocommerce-shipping-fields .wooco
 .footer-social-icons .social-icons.nav {
   margin-left: 0; }
   .footer-social-icons .social-icons.nav .nav-item + .nav-item {
-    margin-left: 1.867em; }
+    margin-right: 1.867em; }
 
 .footer-social-icons .sm-icon-label-link {
   font-size: 1em;
@@ -14354,7 +14359,7 @@ form.woocommerce-checkout.checkout .col2-set .woocommerce-shipping-fields .wooco
     max-width: 200px; }
 
 .footer-contact .footer-contact-info .icon i {
-  margin-right: 0.476em;
+  margin-left: 0.476em;
   color: #444; }
 
 .footer-contact .footer-contact-info .icon .tm {
@@ -14394,7 +14399,7 @@ form.woocommerce-checkout.checkout .col2-set .woocommerce-shipping-fields .wooco
     margin-top: 0.133em; }
 
 .footer-payment-info .icon i {
-  margin-right: 0.476em;
+  margin-left: 0.476em;
   color: #444; }
 
 .footer-payment-info .icon .tm {
@@ -26741,3 +26746,9 @@ form.track_order {
 .site-header .site-header-cart .dropdown-menu-mini-cart {
   left: auto !important;
   top: 130% !important; }
+
+
+  /* Edited Styles */
+  #menu-departments-menu {
+    text-align: right;
+  }
