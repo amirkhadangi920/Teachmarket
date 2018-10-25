@@ -159,7 +159,7 @@ $carousel_args 	= array(
 					<figure>
 						<figcaption class="text-overlay">
 							<div class="info">
-								<h4>Nespresso</h4>
+								<h4>نسپرسو</h4>
 							</div><!-- /.info -->
 						</figcaption>
 						<img width="145" height="50" class="img-responsive desaturate" alt="nespresso" src="assets/images/brands/9.png">
