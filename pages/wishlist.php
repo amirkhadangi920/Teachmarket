@@ -3,9 +3,9 @@
 		<div class="row">
 
 			<nav class="woocommerce-breadcrumb">
-				<a href="index.php">Home</a>
+				<a href="index.php">صفحه اصلی</a>
 				<span class="delimiter"><i class="tm tm-breadcrumbs-arrow-right"></i></span>
-				Wishlist
+				لیست علاقه مندی ها
 			</nav><!-- .woocommerce-breadcrumb -->
 
 			<div id="primary" class="content-area">
@@ -13,7 +13,7 @@
 					<div class="type-page hentry">
 						<header class="entry-header">
 							<div class="page-header-caption">
-								<h1 class="entry-title">Wishlist</h1>
+								<h1 class="entry-title">لیست علاقه مندی ها</h1>
 							</div>
 						</header><!-- .entry-header -->
 
