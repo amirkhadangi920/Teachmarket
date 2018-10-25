@@ -156,7 +156,7 @@
 		<meta charset="UTF-8">
 		<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1.0, user-scalable=no">
 
-		<title>Techmarket HTML</title>
+		<title>فروشگاه تچ مارکت</title>
 
 		<link rel="stylesheet" type="text/css" href="assets/css/bootstrap.min.css" media="all" />
 		<link rel="stylesheet" type="text/css" href="assets/css/font-awesome.min.css" media="all" />

@@ -19,17 +19,17 @@
 					<div class="kc-col-container">
 						<div class="kc_text_block">
 							<ul>
-								<li class="nav-title">Cameras & Photography</li>
-								<li><a href="index.php?page=shop">All Cameras & Photography</a></li>
-								<li><a href="index.php?page=shop">Point & Shoot Cameras</a></li>
-								<li><a href="index.php?page=shop">Lenses</a></li>
-								<li><a href="index.php?page=shop">Camera Accessories</a></li>
-								<li><a href="index.php?page=shop">Security & Surveillance</a></li>
-								<li><a href="index.php?page=shop">Binoculars & Telescopes</a></li>
-								<li><a href="index.php?page=shop">Camcorders</a></li>
+								<li class="nav-title">دوربین عکاسی</li>
+								<li><a href="index.php?page=shop">تمامی دوربین ها عکاسی</a></li>
+								<li><a href="index.php?page=shop">دوربین های نقطه و شوت</a></li>
+								<li><a href="index.php?page=shop">لنز ها</a></li>
+								<li><a href="index.php?page=shop">لوازم جانبی دوربین</a></li>
+								<li><a href="index.php?page=shop">امنیت و نظارت</a></li>
+								<li><a href="index.php?page=shop">دوربین دوچشمی و تلسکوپ</a></li>
+								<li><a href="index.php?page=shop">دوربین فیلمبرداری</a></li>
 								<li class="nav-divider"></li>
 								<li>
-									<a href="index.php?page=shop"><span class="nav-text">All Electronics</span><span class="nav-subtext">Discover more products</span></a>
+									<a href="index.php?page=shop"><span class="nav-text">محصولات گروه عکاسی</span><span class="nav-subtext">محصولات دیگر را بیابید</span></a>
 								</li>
 							</ul>
 						</div><!-- .kc_text_block -->
@@ -40,11 +40,11 @@
 					<div class="kc-col-container">
 						<div class="kc_text_block">
 							<ul>
-								<li class="nav-title">Audio & Video</li>
-								<li><a href="index.php?page=shop">All Audio & Video</a></li>
-								<li><a href="index.php?page=shop">Headphones & Speakers</a></li>
-								<li><a href="index.php?page=shop">Home Entertainment Systems</a></li>
-								<li><a href="index.php?page=shop">MP3 & Media Players</a></li>
+								<li class="nav-title">صدا و تصویر</li>
+								<li><a href="index.php?page=shop">تمامی محصولات صوتی</a></li>
+								<li><a href="index.php?page=shop">هدفون و اسپیکر ها</a></li>
+								<li><a href="index.php?page=shop">سیستم های صوت خانگی</a></li>
+								<li><a href="index.php?page=shop">پخش کننده موزیک</a></li>
 							</ul>
 						</div><!-- .kc_text_block -->
 					</div><!-- .kc-col-container -->

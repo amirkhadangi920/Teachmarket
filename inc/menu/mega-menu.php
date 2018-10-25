@@ -5,63 +5,63 @@
                 <div class="widget widget_nav_menu">
                     <ul class="menu">
                         <li class="nav-title menu-item">
-                            <a href="#">Home Pages</a>
+                            <a href="#">صفحات اصلی</a>
                         </li>
 
                         <li class="menu-item">
-                            <a href="index.php?page=home-v1">Home v1</a>
+                            <a href="index.php?page=home-v1">خانه v1</a>
                         </li>
 
                         <li class="menu-item">
-                            <a href="index.php?page=home-v2">Home v2</a>
+                            <a href="index.php?page=home-v2">خانه v2</a>
                         </li>
 
                         <li class="menu-item">
-                            <a href="index.php?page=home-v3">Home v3</a>
+                            <a href="index.php?page=home-v3">خانه v3</a>
                         </li>
 
                         <li class="menu-item">
-                            <a href="index.php?page=home-v4">Home v4</a>
+                            <a href="index.php?page=home-v4">خانه v4</a>
                         </li>
 
                         <li class="menu-item">
-                            <a href="index.php?page=home-v5">Home v5</a>
+                            <a href="index.php?page=home-v5">خانه v5</a>
                         </li>
 
                         <li class="menu-item">
-                            <a href="index.php?page=home-v6">Home v6</a>
+                            <a href="index.php?page=home-v6">خانه v6</a>
                         </li>
 
                         <li class="menu-item">
-                            <a href="index.php?page=home-v7">Home v7</a>
+                            <a href="index.php?page=home-v7">خانه v7</a>
                         </li>
 
                         <li class="menu-item">
-                            <a href="index.php?page=home-v8">Home v8</a>
+                            <a href="index.php?page=home-v8">خانه v8</a>
                         </li>
 
                         <li class="menu-item">
-                            <a href="index.php?page=home-v9">Home v9</a>
+                            <a href="index.php?page=home-v9">خانه v9</a>
                         </li>
 
                         <li class="menu-item">
-                            <a href="index.php?page=home-v10">Home v10</a>
+                            <a href="index.php?page=home-v10">خانه v10</a>
                         </li>
 
                         <li class="menu-item">
-                            <a href="index.php?page=home-v11">Home v11</a>
+                            <a href="index.php?page=home-v11">خانه v11</a>
                         </li>
 
                         <li class="menu-item">
-                            <a href="index.php?page=home-v12">Home v12</a>
+                            <a href="index.php?page=home-v12">خانه v12</a>
                         </li>
 
                         <li class="menu-item">
-                            <a href="index.php?page=home-v13">Home v13</a>
+                            <a href="index.php?page=home-v13">خانه v13</a>
                         </li>
 
                         <li class="menu-item">
-                            <a href="index.php?page=home-v14">Home v14</a>
+                            <a href="index.php?page=home-v14">خانه v14</a>
                         </li>
 
                         
@@ -71,50 +71,50 @@
                 <div class="widget widget_nav_menu">
                     <ul class="menu">
                         <li class="nav-title menu-item">
-                            <a href="#">Landing Pages</a>
+                            <a href="#">صفحات فرود</a>
                         </li>
 
                         <li class="menu-item">
-                            <a href="index.php?page=landing-page-v1">Landing v1</a>
+                            <a href="index.php?page=landing-page-v1">صفحه فرود v1</a>
                         </li>
 
                         <li class="menu-item">
-                            <a href="index.php?page=landing-page-v2">Landing v2</a>
+                            <a href="index.php?page=landing-page-v2">صفحه فرود v2</a>
                         </li>
                         <li class="nav-title menu-item">
-                            <a href="#">Shop Pages</a>
+                            <a href="#">صفحات فروشگاه</a>
                         </li>
 
                         <li class="menu-item">
-                            <a href="index.php?page=shop">Shop</a>
+                            <a href="index.php?page=shop">فروشگاه</a>
                         </li>
 
                         <li class="menu-item">
-                            <a href="index.php?page=shop-extended">Shop Extended</a>
+                            <a href="index.php?page=shop-extended">فروشگاه Extended</a>
                         </li>
 
                         <li class="menu-item">
-                            <a href="index.php?page=shop-listing">Shop Listing</a>
+                            <a href="index.php?page=shop-listing">فروشگاه لیستی</a>
                         </li>
 
                         <li class="menu-item">
-                            <a href="index.php?page=shop-listing-large">Shop Listing Large</a>
+                            <a href="index.php?page=shop-listing-large">فروشگاه با لیست بزرگ</a>
                         </li>
 
                         <li class="menu-item">
-                            <a href="index.php?page=shop-listing-with-product-sidebar">Shop Listing with Product Sidebar</a>
+                            <a href="index.php?page=shop-listing-with-product-sidebar">فروشگاه لیستی با سایدبار محصولات</a>
                         </li>
 
                          <li class="menu-item">
-                            <a href="index.php?page=product-category">Categories</a>
+                            <a href="index.php?page=product-category">موضوعات</a>
                         </li>
 
                         <li class="menu-item">
-                            <a href="index.php?page=shop-right-sidebar">Shop Right Sidebar</a>
+                            <a href="index.php?page=shop-right-sidebar">فروشگاه با سایدبار راست</a>
                         </li>
 
                         <li class="menu-item">
-                            <a href="index.php?page=shop-fullwidth">Shop Full Width</a>
+                            <a href="index.php?page=shop-fullwidth">فروشگاه تمام صفحه</a>
                         </li>
                     </ul><!-- .menu -->
                 </div><!-- .widget_nav_menu -->
@@ -122,51 +122,51 @@
                 <div class="widget widget_nav_menu">
                     <ul class="menu">
                         <li class="nav-title menu-item">
-                            <a href="#">Single Product Pages</a>
+                            <a href="#">صفحه تکی محصول</a>
                         </li>
 
                         <li class="menu-item menu-item-object-product">
-                            <a href="index.php?page=single-product-sidebar">Single Product Sidebar</a>
+                            <a href="index.php?page=single-product-sidebar">صفحه تک محصول با ساید بار</a>
                         </li>
 
                         <li class="menu-item menu-item-object-product">
-                            <a href="index.php?page=single-product-fullwidth">Single Product Fullwidth</a>
+                            <a href="index.php?page=single-product-fullwidth">صفحه تک محصول تمام صفحه</a>
                         </li>
 
                         <li class="menu-item menu-item-object-product">
-                            <a href="index.php?page=single-product-extended">Single Product Extended</a>
+                            <a href="index.php?page=single-product-extended">صفحه تک محصول تعمیم یافته</a>
                         </li>
 
                         <li class="nav-title menu-item">
-                            <a href="#">Ecommerce Pages</a>
+                            <a href="#">صفحات ای-کامرس</a>
                         </li>
 
                         <li class="menu-item">
-                            <a href="index.php?page=cart">Cart</a>
+                            <a href="index.php?page=cart">سبد خرید</a>
                         </li>
 
                         <li class="menu-item">
-                            <a href="index.php?page=checkout">Checkout</a>
+                            <a href="index.php?page=checkout">صورتحساب</a>
                         </li>
 
                         <li class="menu-item">
-                            <a href="index.php?page=login-and-register">My Account</a>
+                            <a href="index.php?page=login-and-register">حساب من</a>
                         </li>
 
                         <li class="menu-item">
-                            <a href="index.php?page=compare">Compare</a>
+                            <a href="index.php?page=compare">مقایسه</a>
                         </li>
 
                         <li class="menu-item">
-                            <a href="index.php?page=wishlist">Wishlist</a>
+                            <a href="index.php?page=wishlist">علاقه مندی ها</a>
                         </li>
 
                         <li class="menu-item">
-                            <a href="index.php?page=track-your-order">Track Order</a>
+                            <a href="index.php?page=track-your-order">پیگیری سفارش</a>
                         </li>
 
                         <li class="menu-item">
-                            <a href="index.php?page=terms-and-conditions">Terms and Conditions</a>
+                            <a href="index.php?page=terms-and-conditions">شرایط و ضوابط</a>
                         </li>
                     </ul><!-- .menu -->
                 </div><!-- .widget_nav_menu -->
@@ -174,51 +174,51 @@
                 <div class="widget widget_nav_menu">
                     <ul class="menu">
                         <li class="nav-title menu-item">
-                            <a href="#">Blog Pages</a>
+                            <a href="#">صفحات وبلاگ</a>
                         </li>
 
                         <li class="menu-item">
-                            <a href="index.php?page=blog-v1">Blog v1</a>
+                            <a href="index.php?page=blog-v1">بلاگ v1</a>
                         </li>
 
                         <li class="menu-item">
-                            <a href="index.php?page=blog-v2">Blog v2</a>
+                            <a href="index.php?page=blog-v2">بلاگ v2</a>
                         </li>
 
                         <li class="menu-item">
-                            <a href="index.php?page=blog-v3">Blog v3</a>
+                            <a href="index.php?page=blog-v3">بلاگ v3</a>
                         </li>
 
                         <li class="menu-item">
-                            <a href="index.php?page=blog-fullwidth">Blog Full Width</a>
+                            <a href="index.php?page=blog-fullwidth">بلاگ تمام صفحه</a>
                         </li>
 
                         <li class="menu-item">
-                            <a href="index.php?page=blog-single">Single Blog Post</a>
+                            <a href="index.php?page=blog-single">صفحه پست وبلاگ</a>
                         </li>
 
                         <li class="nav-title menu-item">
-                            <a href="#">Other Pages</a>
+                            <a href="#">دیگر صفحات</a>
                         </li>
 
                         <li class="menu-item">
-                            <a href="index.php?page=about">About Us</a>
+                            <a href="index.php?page=about">درباره ما</a>
                         </li>
 
                         <li class="menu-item">
-                            <a href="index.php?page=contact-v1">Contact v1</a>
+                            <a href="index.php?page=contact-v1">تماس با ما v1</a>
                         </li>
 
                         <li class="menu-item">
-                            <a href="index.php?page=contact-v2">Contact v2</a>
+                            <a href="index.php?page=contact-v2">تماس با ما v2</a>
                         </li>
 
                         <li class="menu-item">
-                            <a href="index.php?page=faq">FAQ</a>
+                            <a href="index.php?page=faq">پرسش و پاسش</a>
                         </li>
 
                         <li class="menu-item">
-                            <a href="index.php?page=404">404</a>
+                            <a href="index.php?page=404">خطای 404</a>
                         </li>
                     </ul><!-- .menu -->
                 </div><!-- .widget_nav_menu -->
