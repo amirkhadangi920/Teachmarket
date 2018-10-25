@@ -2,9 +2,9 @@
 	<div class="col-full">
 		<div class="row">
 			<nav class="woocommerce-breadcrumb">
-				<a href="index.php">Home</a>
-				<span class="delimiter"><i class="tm tm-breadcrumbs-arrow-right"></i></span><a href="index.php?page=product-category">TV & Video</a>
-				<span class="delimiter"><i class="tm tm-breadcrumbs-arrow-right"></i></span>60UH6150 60-Inch 4K Ultra HD Smart LED TV
+				<a href="index.php">صفحه اصلی</a>
+				<span class="delimiter"><i class="tm tm-breadcrumbs-arrow-right"></i></span><a href="index.php?page=product-category">تلویزیون و ویدئو</a>
+				<span class="delimiter"><i class="tm tm-breadcrumbs-arrow-right"></i></span>60UH6150 60 اینچ 4K فوق العاده HD هوشمند تلویزیون LED
 			</nav><!-- .woocommerce-breadcrumb -->
 			
 			<div id="primary" class="content-area">
