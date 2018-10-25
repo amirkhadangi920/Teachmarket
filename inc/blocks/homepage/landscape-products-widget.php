@@ -49,7 +49,7 @@
 
 <section class="section-landscape-products-widget-carousel type-2" id="section-products-carousel-widgets">
 	<header class="section-header">
-		<h2 class="section-title">Hand picked for you</h2>
+		<h2 class="section-title">انتخواب دستی</h2>
 		<nav class="custom-slick-nav"></nav>
 	</header><!-- .section-header -->
 

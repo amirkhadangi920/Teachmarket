@@ -41,7 +41,7 @@
 <section class="section-trending-noe section-products-carousel-tabs">
 	<div class="section-products-carousel-tabs-wrap">
 		<header class="section-header">
-			<h2 class="section-title">Trending Now</h2>
+			<h2 class="section-title">در حال اجرا</h2>
 			<ul role="tablist" class="nav justify-content-end">
 				<?php for ($i=0; $i < 4; $i++) { ?>
 

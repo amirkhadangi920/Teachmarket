@@ -49,10 +49,10 @@
 		
 					</span><!-- .price -->
 
-					<h2 class="woocommerce-loop-product__title">S100 Wireless Bluetooth  Speaker – Neon Green</h2>
+					<h2 class="woocommerce-loop-product__title">لورم ایپسوم متن ساختگی با تولید سادگی نامفهوم از.</h2>
 
 					<div class="techmarket-product-rating">
-						<div title="Rated 0 out of 5" class="star-rating"><span style="width:0%"><strong class="rating">0</strong> out of 5</span>
+						<div title="Rated 0 out of 5" class="star-rating"><span style="width:0%"><strong class="rating">0</strong> از 5</span>
 						</div> 
 						<span class="review-count">(0)</span>
 					</div><!-- .techmarket-product-rating -->

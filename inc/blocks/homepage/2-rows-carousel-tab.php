@@ -84,22 +84,22 @@
 				<ul role="tablist" class="nav justify-content-end">
 					
 						<li class="nav-item">
-							<a class="nav-link active" href="#top-20" data-toggle="tab" role="tab" aria-controls="top-20">Top 20</a>
+							<a class="nav-link active" href="#top-20" data-toggle="tab" role="tab" aria-controls="top-20">20 تا از بهترین ها</a>
 						</li>
 
 					
 						<li class="nav-item">
-							<a class="nav-link " href="#audio-video" data-toggle="tab" role="tab" aria-controls="audio-video">Audio &amp; Video</a>
+							<a class="nav-link " href="#audio-video" data-toggle="tab" role="tab" aria-controls="audio-video">Aصوتی &amp; ویدو</a>
 						</li>
 
 					
 						<li class="nav-item">
-							<a class="nav-link " href="#laptops-computers" data-toggle="tab" role="tab" aria-controls="laptops-computers">Laptops &amp; Computers</a>
+							<a class="nav-link " href="#laptops-computers" data-toggle="tab" role="tab" aria-controls="laptops-computers">لپ تاب ها &amp; کامپیوتر</a>
 						</li>
 
 					
 						<li class="nav-item">
-							<a class="nav-link " href="#video-cameras" data-toggle="tab" role="tab" aria-controls="video-cameras">Video Cameras</a>
+							<a class="nav-link " href="#video-cameras" data-toggle="tab" role="tab" aria-controls="video-cameras">دوربین های فیلمبرداری</a>
 						</li>
 
 				</ul>
@@ -161,22 +161,22 @@
 				<ul role="tablist" class="nav justify-content-end">
 					
 						<li class="nav-item">
-							<a class="nav-link active" href="#top-20-2" data-toggle="tab" role="tab" aria-controls="top-20-2">Top 20</a>
+							<a class="nav-link active" href="#top-20-2" data-toggle="tab" role="tab" aria-controls="top-20-2">20 تا از بهترین ها</a>
 						</li>
 
 					
 						<li class="nav-item">
-							<a class="nav-link " href="#audio-video-2" data-toggle="tab" role="tab" aria-controls="audio-video-2">Audio &amp; Video</a>
+							<a class="nav-link " href="#audio-video-2" data-toggle="tab" role="tab" aria-controls="audio-video-2">صوتی &amp; ویدو</a>
 						</li>
 
 					
 						<li class="nav-item">
-							<a class="nav-link " href="#laptops-computers-2" data-toggle="tab" role="tab" aria-controls="laptops-computers-2">Laptops &amp; Computers</a>
+							<a class="nav-link " href="#laptops-computers-2" data-toggle="tab" role="tab" aria-controls="laptops-computers-2">لپ تاب ها &amp; کامپیوتر ها</a>
 						</li>
 
 					
 						<li class="nav-item">
-							<a class="nav-link " href="#video-cameras-2" data-toggle="tab" role="tab" aria-controls="video-cameras-2">Video Cameras</a>
+							<a class="nav-link " href="#video-cameras-2" data-toggle="tab" role="tab" aria-controls="video-cameras-2">دوربین های فیلمبرداری</a>
 						</li>
 
 				</ul>
