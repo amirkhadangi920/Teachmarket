@@ -2,10 +2,10 @@
 	<div class="col-full">
 		<div class="row">
 			<nav class="woocommerce-breadcrumb">
-				<a href="index.php">Home</a>
+				<a href="index.php">صفحه اصلی</a>
 				<span class="delimiter"><i class="tm tm-breadcrumbs-arrow-right"></i></span>
-				<a href="index.php?page=shop">Shop</a><span class="delimiter">
-				<i class="tm tm-breadcrumbs-arrow-right"></i></span>Page 1
+				<a href="index.php?page=shop">فروشگاه</a><span class="delimiter">
+				<i class="tm tm-breadcrumbs-arrow-right"></i></span>صفحه 1
 			</nav><!-- .woocommerce-breadcrumb -->
 
 			<div id="primary" class="content-area">
@@ -17,11 +17,10 @@
 							</div>
 
 							<div class="jumbotron-caption">
-								<h3 class="jumbo-title">Virtual Reality Headsets</h3>
-								<p class="jumbo-subtitle">Nullam dignissim elit ut urna rutrum, a fermentum mi auctor. Mauris efficitur magna orci, et dignissim lacus scelerisque sit amet. Proin malesuada tincidunt nisl ac commodo. Vivamus eleifend porttitor ex sit amet suscipit. Vestibulum at ullamcorper lacus, vel facilisis arcu. Aliquam erat volutpat. <br>
-								<br>Maecenas in sodales nisl. Pellentesque ac nibh mi. Ut lobortis odio nulla, congue rhoncus risus facilisis eget.
-								Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-								<a href="#">read more <i class="tm tm-long-arrow-right"></i></a>
+								<h3 class="jumbo-title">هدست واقعیت مجازی</h3>
+								<p class="jumbo-subtitle">لورم ایپسوم متن ساختگی با تولید سادگی نامفهوم از صنعت چاپ و با استفاده از طراحان گرافیک است. چاپگرها و متون بلکه روزنامه و مجله در ستون و سطرآنچنان که لازم است و برای شرایط فعلی تکنولوژی مورد نیاز و کاربردهای متنوع با هدف بهبود ابزارهای کاربردی می باشد. کتابهای زیادی در شصت و سه درصد گذشته، حال و آینده شناخت فراوان جامعه و متخصصان را می طلبد.  <br>
+								<br>کتابهای زیادی در شصت و سه درصد گذشته، حال و آینده شناخت فراوان جامعه و متخصصان را می طلبد تا با نرم افزارها شناخت بیشتری را برای طراحان رایانه ای علی الخصوص طراحان خلاقی و فرهنگ پیشرو در زبان فارسی ایجاد کرد.
+								<a href="#">ادامه مطالب<i class="tm tm-long-arrow-right"></i></a>
 								</p>
 							</div><!-- .jumbotron-caption -->
 						</div><!-- .jumbotron -->
@@ -59,7 +58,7 @@
 			<div id="secondary" class="widget-area shop-sidebar" role="complementary">
 				<?php require_once 'inc/components/sidebar/product-categories-widget.php'; ?>
 				<div id="techmarket_products_filter-3" class="widget widget_techmarket_products_filter">
-					<span class="gamma widget-title">Filters</span>
+					<span class="gamma widget-title">فیلتر</span>
 					<?php require_once 'inc/components/sidebar/price-fliter.php'; ?>
 					<?php require_once 'inc/components/sidebar/product-filters-sidebar.php'; ?>
 				</div>
