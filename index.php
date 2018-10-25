@@ -150,7 +150,7 @@
 	}
 ?>
 <!DOCTYPE html>
-<html lang="en-US" itemscope="itemscope" itemtype="http://schema.org/WebPage">
+<html lang="fa" dir="ltr" itemscope="itemscope" itemtype="http://schema.org/WebPage">
 	<head>
 
 		<meta charset="UTF-8">

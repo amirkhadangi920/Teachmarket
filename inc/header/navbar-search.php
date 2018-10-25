@@ -1,7 +1,15 @@
 <form class="navbar-search" method="get" action="index.php">
 	<label class="sr-only screen-reader-text" for="search">Search for:</label>
 	<div class="input-group">
-		<input type="text" id="search" class="form-control search-field product-search-field" dir="ltr" value="" name="s" placeholder="نام محصول را جستجو کنید ..."/>
+
+		<div class="input-group-btn input-group-append">
+			<input type="hidden" id="search-param" name="post_type" value="product"/>
+			<button type="submit" class="btn btn-primary">
+				<i class="fa fa-search"></i>
+				<span class="search-btn">جستجو</span>
+			</button>
+		</div><!-- .input-group-btn -->
+		
 		<div class="input-group-addon search-categories popover-header">
 			<select name='product_cat' id='product_cat' class='postform resizeselect'>
 				<option value='0' selected='selected'>تمامی گروه ها</option>
@@ -26,13 +34,8 @@
 				<option class="level-0" value="pc-components">لوازم جانبی کامپیوتر</option>
 			</select>
 		</div><!-- .input-group-addon -->
-		
-		<div class="input-group-btn input-group-append">
-			<input type="hidden" id="search-param" name="post_type" value="product"/>
-			<button type="submit" class="btn btn-primary">
-				<i class="fa fa-search"></i>
-				<span class="search-btn">جستجو</span>
-			</button>
-		</div><!-- .input-group-btn -->
+
+		<input type="text" id="search" class="form-control search-field product-search-field" dir="ltr" value="" name="s" placeholder="نام محصول را جستجو کنید ..."/>
+
 	</div><!-- .input-group -->
 </form><!-- .navbar-search -->

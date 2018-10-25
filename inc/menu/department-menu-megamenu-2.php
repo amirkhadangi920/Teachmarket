@@ -19,6 +19,20 @@
 					<div class="kc-col-container">
 						<div class="kc_text_block">
 							<ul>
+								<li class="nav-title">صدا و تصویر</li>
+								<li><a href="index.php?page=shop">تمامی محصولات صوتی</a></li>
+								<li><a href="index.php?page=shop">هدفون و اسپیکر ها</a></li>
+								<li><a href="index.php?page=shop">سیستم های صوت خانگی</a></li>
+								<li><a href="index.php?page=shop">پخش کننده موزیک</a></li>
+							</ul>
+						</div><!-- .kc_text_block -->
+					</div><!-- .kc-col-container -->
+				</div><!-- .kc_column -->
+					
+				<div class="col-md-6 col-sm-12">
+					<div class="kc-col-container">
+						<div class="kc_text_block">
+							<ul>
 								<li class="nav-title">دوربین عکاسی</li>
 								<li><a href="index.php?page=shop">تمامی دوربین ها عکاسی</a></li>
 								<li><a href="index.php?page=shop">دوربین های نقطه و شوت</a></li>
@@ -36,20 +50,6 @@
 					</div><!-- .kc-col-container -->
 				</div><!-- .kc_column -->
 
-				<div class="col-md-6 col-sm-12">
-					<div class="kc-col-container">
-						<div class="kc_text_block">
-							<ul>
-								<li class="nav-title">صدا و تصویر</li>
-								<li><a href="index.php?page=shop">تمامی محصولات صوتی</a></li>
-								<li><a href="index.php?page=shop">هدفون و اسپیکر ها</a></li>
-								<li><a href="index.php?page=shop">سیستم های صوت خانگی</a></li>
-								<li><a href="index.php?page=shop">پخش کننده موزیک</a></li>
-							</ul>
-						</div><!-- .kc_text_block -->
-					</div><!-- .kc-col-container -->
-				</div><!-- .kc_column -->
-					
 			</div><!-- .kc_row -->
 		</div><!-- .yamm-content -->
 	</li>
