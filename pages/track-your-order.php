@@ -3,9 +3,9 @@
 		<div class="row">
 
 			<nav class="woocommerce-breadcrumb">
-				<a href="index.php">Home</a>
+				<a href="index.php">صفحه اصلی</a>
 				<span class="delimiter"><i class="tm tm-breadcrumbs-arrow-right"></i></span>
-				Track Order
+				پیگیری سفارش
 			</nav><!-- .woocommerce-breadcrumb -->
 
 			<div id="primary" class="content-area">
@@ -13,7 +13,7 @@
 					<div class="type-page hentry">
 						<header class="entry-header">
 							<div class="page-header-caption">
-								<h1 class="entry-title">Track Order</h1>
+								<h1 class="entry-title">پیگری سفارش</h1>
 							</div>
 						</header><!-- .entry-header -->
 
@@ -21,15 +21,15 @@
 							<div class="woocommerce">
 								<form class="track_order" method="post" action="#">
 
-									<p>To track your order please enter your Order ID in the box below and press the "Track" button. This was given to you on your receipt and in the confirmation email you should have received.</p>
+									<p>برای ردیابی سفارش خود لطفا ID سفارش خود را در کادر زیر وارد کنید و دکمه "پیگیری" را فشار دهید. این به شما در رسید شما و در ایمیل تأییدی که باید دریافت کردید، داده شد.</p>
 
 									<p class="form-row form-row-first">
-										<label for="orderid">Order ID</label> 
+										<label for="orderid">شماره سفارش</label> 
 										<input type="text" placeholder="Found in your order confirmation email." id="orderid" name="orderid" class="input-text">
 									</p>
 
 									<p class="form-row form-row-last">
-										<label for="order_email">Billing email</label> 
+										<label for="order_email">ایمیل</label> 
 										<input type="text" placeholder="Email you used during checkout." id="order_email" name="order_email" class="input-text">
 									</p>
 
