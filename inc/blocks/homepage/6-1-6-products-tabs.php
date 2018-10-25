@@ -9,7 +9,7 @@
 ?>
 	<section class="section-6-1-6-products-tabs">
 		<header class="section-header">
-			<h2 class="section-title">Daily Deals! <span>Get our best prices.</span></h2>
+			<h2 class="section-title">جزییات روزانه ! <span>بهترین قیمت ما را دریافت کنید.</span></h2>
 		</header><!-- /.section-header -->
 
 		<div class="6-1-6-products-tabs">
@@ -33,22 +33,22 @@
 												<div class="price-and-title">
 													<span class="price">
 														<ins><span class="woocommerce-Price-amount amount">
-															<span class="woocommerce-Price-currencySymbol">$</span>425.89</span>
+															<span class="woocommerce-Price-currencySymbol">تومان</span>425.89</span>
 														</ins> 
 														<del><span class="woocommerce-Price-amount amount">
-															<span class="woocommerce-Price-currencySymbol">$</span>545.89</span>
+															<span class="woocommerce-Price-currencySymbol">تومان</span>545.89</span>
 														</del>
 													</span><!-- /.price -->
 
-													<h2 class="woocommerce-loop-product__title">Tablet Red EliteBook Revolve</h2>
+													<h2 class="woocommerce-loop-product__title">تبلت قرمز</h2>
 												</div><!-- /.price-and-title -->
 
 												<div class="sale-label-outer">
 													<div class="sale-saved-label">
-														<span class="saved-label-text">Save</span>
+														<span class="saved-label-text">ذخیره </span>
 														<span class="saved-label-amount">
 															<span class="woocommerce-Price-amount amount">
-															<span class="woocommerce-Price-currencySymbol">$</span>120.00</span>
+															<span class="woocommerce-Price-currencySymbol">تومان</span>120.00</span>
 														</span>
 													</div><!-- /.sale-saved-label -->
 												</div><!-- /.sale-label-outer -->
@@ -58,8 +58,8 @@
 
 											<div class="deal-progress">
 												<div class="deal-stock">
-													<div class="stock-sold">Already Sold: <strong>0</strong></div>
-													<div class="stock-available">Available: <strong>1000</strong></div>
+													<div class="stock-sold">قبلا فروخته شده است: <strong>0</strong></div>
+													<div class="stock-available">در دسترس:<strong>1000</strong></div>
 												</div><!-- /.deal-stock -->
 
 												<div class="progress">
@@ -69,8 +69,8 @@
 
 											<div class="deal-countdown-timer">
 												<div class="marketing-text">
-													<span class="line-1">Hurry up!</span>
-													<span class="line-2">Offers ends in:</span>
+													<span class="line-1">عجله کن !</span>
+													<span class="line-2">پیشنهادات به پایان می رسد در:</span>
 												</div><!-- /.marketing-text -->
 
 												<span style="display:none;" class="deal-time-diff">29994</span>
@@ -89,23 +89,23 @@
 									<?php for ($i=1; $i <=6; $i++) { ?>
 										<div class="product"> 
 											<div class="yith-wcwl-add-to-wishlist">
-									            <a href="index.php?page=wishlist" rel="nofollow" class="add_to_wishlist"> Add to Wishlist</a>
+									            <a href="index.php?page=wishlist" rel="nofollow" class="add_to_wishlist"> اضافه کردن به سبد خرید</a>
 									        </div> 
 
 											<a href="index.php?page=single-product-fullwidth" class="woocommerce-LoopProduct-link">
 										        <img src="<?php echo $productImage[$i]['product_image'] ?>" class="wp-post-image" alt="">
 
 										        <span class="price">
-										            <ins><span class="amount"> $309.95</span></ins>
-										            <del><span class="amount">$459.99</span></del>
+										            <ins><span class="amount"> تومان 309.95</span></ins>
+										            <del><span class="amount"> تومان 459.99</span></del>
 										        </span><!-- /.price -->
 
-										        <h2 class="woocommerce-loop-product__title">Smart Watches 3 SWR50</h2>
+										        <h2 class="woocommerce-loop-product__title">ساعتهای هوشمند 3 SWR50</h2>
 										    </a>
 
 										    <div class="hover-area">
-										        <a class="button add_to_cart_button" href="index.php?page=cart" rel="nofollow">Add to cart</a>
-										        <a class="add-to-compare-link" href="index.php?page=compare">Add to compare</a>
+										        <a class="button add_to_cart_button" href="index.php?page=cart" rel="nofollow">اضافه کردن به سبد خرید</a>
+										        <a class="add-to-compare-link" href="index.php?page=compare">اضافه کردن به سبد خرید</a>
 										    </div>
 										</div><!-- /.product-outer -->
 									<?php } ?>
@@ -119,22 +119,22 @@
 									<?php for ($i=1; $i <=6; $i++) { ?>
 										<div class="product"> 
 											<div class="yith-wcwl-add-to-wishlist">
-									            <a href="index.php?page=wishlist" rel="nofollow" class="add_to_wishlist"> Add to Wishlist</a>
+									            <a href="index.php?page=wishlist" rel="nofollow" class="add_to_wishlist"> اضافه کردن به سبد خرید</a>
 									        </div>     
 											<a href="index.php?page=single-product-fullwidth" class="woocommerce-LoopProduct-link">
 										        <img src="<?php echo $productImage[$i]['product_image'] ?>" class="wp-post-image" alt="">
 
 										        <span class="price">
-										            <ins><span class="amount"> $309.95</span></ins>
-										            <del><span class="amount">$459.99</span></del>
+										            <ins><span class="amount"> تومان 309.95</span></ins>
+										            <del><span class="amount"> تومان 459.99</span></del>
 										        </span><!-- /.price -->
 
-										        <h2 class="woocommerce-loop-product__title">Smart Watches 3 SWR50</h2>
+										        <h2 class="woocommerce-loop-product__title">ساعتهای هوشمند 3 SWR50</h2>
 										    </a>
 
 										    <div class="hover-area">
-										        <a class="button add_to_cart_button" href="index.php?page=cart" rel="nofollow">Add to cart</a>
-										        <a class="add-to-compare-link" href="index.php?page=compare">Add to compare</a>
+										        <a class="button add_to_cart_button" href="index.php?page=cart" rel="nofollow">اضافه کردن به سبد خرید</a>
+										        <a class="add-to-compare-link" href="index.php?page=compare">مقایسه کردن</a>
 										    </div>
 										</div><!-- /.product-outer -->
 									<?php } ?>
@@ -156,22 +156,22 @@
 												<div class="price-and-title">
 													<span class="price">
 														<ins><span class="woocommerce-Price-amount amount">
-															<span class="woocommerce-Price-currencySymbol">$</span>425.89</span>
+															<span class="woocommerce-Price-currencySymbol">تومان</span>425.89</span>
 														</ins> 
 														<del><span class="woocommerce-Price-amount amount">
-															<span class="woocommerce-Price-currencySymbol">$</span>545.89</span>
+															<span class="woocommerce-Price-currencySymbol">تومان</span>545.89</span>
 														</del>
 													</span><!-- /.price -->
 
-													<h2 class="woocommerce-loop-product__title">Tablet Red EliteBook Revolve</h2>
+													<h2 class="woocommerce-loop-product__title">تبلت قرمز</h2>
 												</div><!-- /.price-and-title -->
 
 												<div class="sale-label-outer">
 													<div class="sale-saved-label">
-														<span class="saved-label-text">Save</span>
+														<span class="saved-label-text">ذخیره</span>
 														<span class="saved-label-amount">
 															<span class="woocommerce-Price-amount amount">
-															<span class="woocommerce-Price-currencySymbol">$</span>120.00</span>
+															<span class="woocommerce-Price-currencySymbol">تومان </span>120.00</span>
 														</span>
 													</div><!-- /.sale-saved-label -->
 												</div><!-- /.sale-label-outer -->
@@ -181,8 +181,8 @@
 
 											<div class="deal-progress">
 												<div class="deal-stock">
-													<div class="stock-sold">Already Sold: <strong>0</strong></div>
-													<div class="stock-available">Available: <strong>1000</strong></div>
+													<div class="stock-sold">قبلا فروخته شده است: <strong>0</strong></div>
+													<div class="stock-available">در دسترس: <strong>1000</strong></div>
 												</div><!-- /.deal-stock -->
 
 												<div class="progress">
@@ -192,8 +192,8 @@
 
 											<div class="deal-countdown-timer">
 												<div class="marketing-text">
-													<span class="line-1">Hurry up!</span>
-													<span class="line-2">Offers ends in:</span>
+													<span class="line-1">عجله کن !</span>
+													<span class="line-2">پیشنهادات به پایان می رسد در:</span>
 												</div><!-- /.marketing-text -->
 
 												<span style="display:none;" class="deal-time-diff">29994</span>
@@ -212,22 +212,22 @@
 									<?php for ($i=1; $i <=6; $i++) { ?>
 										<div class="product"> 
 											<div class="yith-wcwl-add-to-wishlist">
-									            <a href="index.php?page=wishlist" rel="nofollow" class="add_to_wishlist"> Add to Wishlist</a>
+									            <a href="index.php?page=wishlist" rel="nofollow" class="add_to_wishlist"> اضافه کردن به سبد خرید</a>
 									        </div>     
 											<a href="index.php?page=single-product-fullwidth" class="woocommerce-LoopProduct-link">
 										        <img src="<?php echo $productImage[$i]['product_image'] ?>" class="wp-post-image" alt="">
 
 										        <span class="price">
-										            <ins><span class="amount"> $309.95</span></ins>
-										            <del><span class="amount">$459.99</span></del>
+										            <ins><span class="amount"> تومان 309.95</span></ins>
+										            <del><span class="amount">تومان 459.99</span></del>
 										        </span><!-- /.price -->
 
-										        <h2 class="woocommerce-loop-product__title">Smart Watches 3 SWR50</h2>
+										        <h2 class="woocommerce-loop-product__title">ساعتهای هوشمند 3 SWR50</h2>
 										    </a>
 
 										    <div class="hover-area">
-										        <a class="button add_to_cart_button" href="index.php?page=cart" rel="nofollow">Add to cart</a>
-										        <a class="add-to-compare-link" href="index.php?page=compare">Add to compare</a>
+										        <a class="button add_to_cart_button" href="index.php?page=cart" rel="nofollow">اضافه کردن به سبد خرید</a>
+										        <a class="add-to-compare-link" href="index.php?page=compare">مقایسه کردن</a>
 										    </div>
 										</div><!-- /.product-outer -->
 									<?php } ?>
@@ -241,22 +241,22 @@
 									<?php for ($i=1; $i <=6; $i++) { ?>
 										<div class="product"> 
 											<div class="yith-wcwl-add-to-wishlist">
-									            <a href="index.php?page=wishlist" rel="nofollow" class="add_to_wishlist"> Add to Wishlist</a>
+									            <a href="index.php?page=wishlist" rel="nofollow" class="add_to_wishlist"> اضافه کردن به سبد خرید</a>
 									        </div>     
 											<a href="index.php?page=single-product-fullwidth" class="woocommerce-LoopProduct-link">
 										        <img src="<?php echo $productImage[$i]['product_image'] ?>" class="wp-post-image" alt="">
 
 										        <span class="price">
-										            <ins><span class="amount"> $309.95</span></ins>
-										            <del><span class="amount">$459.99</span></del>
+										            <ins><span class="amount"> تومان 309.95</span></ins>
+										            <del><span class="amount">تومان 459.99</span></del>
 										        </span><!-- /.price -->
 
-										        <h2 class="woocommerce-loop-product__title">Smart Watches 3 SWR50</h2>
+										        <h2 class="woocommerce-loop-product__title">ساعتهای هوشمند 3 SWR50</h2>
 										    </a>
 
 										    <div class="hover-area">
-										        <a class="button add_to_cart_button" href="index.php?page=cart" rel="nofollow">Add to cart</a>
-										        <a class="add-to-compare-link" href="index.php?page=compare">Add to compare</a>
+										        <a class="button add_to_cart_button" href="index.php?page=cart" rel="nofollow">اضافه کردن به سبد خرید</a>
+										        <a class="add-to-compare-link" href="index.php?page=compare">مقایسه کردن</a>
 										    </div>
 										</div><!-- /.product-outer -->
 									<?php } ?>
@@ -278,22 +278,22 @@
 												<div class="price-and-title">
 													<span class="price">
 														<ins><span class="woocommerce-Price-amount amount">
-															<span class="woocommerce-Price-currencySymbol">$</span>425.89</span>
+															<span class="woocommerce-Price-currencySymbol">تومان</span>425.89</span>
 														</ins> 
 														<del><span class="woocommerce-Price-amount amount">
-															<span class="woocommerce-Price-currencySymbol">$</span>545.89</span>
+															<span class="woocommerce-Price-currencySymbol">تومان</span>545.89</span>
 														</del>
 													</span><!-- /.price -->
 
-													<h2 class="woocommerce-loop-product__title">Tablet Red EliteBook Revolve</h2>
+													<h2 class="woocommerce-loop-product__title">تبلت قرمز</h2>
 												</div><!-- /.price-and-title -->
 
 												<div class="sale-label-outer">
 													<div class="sale-saved-label">
-														<span class="saved-label-text">Save</span>
+														<span class="saved-label-text">ذخیره</span>
 														<span class="saved-label-amount">
 															<span class="woocommerce-Price-amount amount">
-															<span class="woocommerce-Price-currencySymbol">$</span>120.00</span>
+															<span class="woocommerce-Price-currencySymbol">تومان</span>120.00</span>
 														</span>
 													</div><!-- /.sale-saved-label -->
 												</div><!-- /.sale-label-outer -->
@@ -303,8 +303,8 @@
 
 											<div class="deal-progress">
 												<div class="deal-stock">
-													<div class="stock-sold">Already Sold: <strong>0</strong></div>
-													<div class="stock-available">Available: <strong>1000</strong></div>
+													<div class="stock-sold">قبلا فروخته شده است:  <strong>0</strong></div>
+													<div class="stock-available">در دسترس: <strong>1000</strong></div>
 												</div><!-- /.deal-stock -->
 
 												<div class="progress">
@@ -314,8 +314,8 @@
 
 											<div class="deal-countdown-timer">
 												<div class="marketing-text">
-													<span class="line-1">Hurry up!</span>
-													<span class="line-2">Offers ends in:</span>
+													<span class="line-1">عجله کن !</span>
+													<span class="line-2">پیشنهادات به پایان می رسد در:</span>
 												</div><!-- /.marketing-text -->
 
 												<span style="display:none;" class="deal-time-diff">29994</span>
@@ -334,22 +334,22 @@
 									<?php for ($i=1; $i <=6; $i++) { ?>
 										<div class="product"> 
 											<div class="yith-wcwl-add-to-wishlist">
-									            <a href="index.php?page=wishlist" rel="nofollow" class="add_to_wishlist"> Add to Wishlist</a>
+									            <a href="index.php?page=wishlist" rel="nofollow" class="add_to_wishlist"> اضافه کردن به سبد خرید</a>
 									        </div>     
 											<a href="index.php?page=single-product-fullwidth" class="woocommerce-LoopProduct-link">
 										        <img src="<?php echo $productImage[$i]['product_image'] ?>" class="wp-post-image" alt="">
 
 										        <span class="price">
-										            <ins><span class="amount"> $309.95</span></ins>
-										            <del><span class="amount">$459.99</span></del>
+										            <ins><span class="amount"> تومان 309.95</span></ins>
+										            <del><span class="amount">تومان 459.99</span></del>
 										        </span><!-- /.price -->
 
-										        <h2 class="woocommerce-loop-product__title">Smart Watches 3 SWR50</h2>
+										        <h2 class="woocommerce-loop-product__title">ساعتهای هوشمند 3 SWR50</h2>
 										    </a>
 
 										    <div class="hover-area">
-										        <a class="button add_to_cart_button" href="index.php?page=cart" rel="nofollow">Add to cart</a>
-										        <a class="add-to-compare-link" href="index.php?page=compare">Add to compare</a>
+										        <a class="button add_to_cart_button" href="index.php?page=cart" rel="nofollow">اضافه کردن به سبد خرید</a>
+										        <a class="add-to-compare-link" href="index.php?page=compare">مقایسه کردن</a>
 										    </div>
 										</div><!-- /.product-outer -->
 									<?php } ?>
@@ -363,22 +363,22 @@
 									<?php for ($i=1; $i <=6; $i++) { ?>
 										<div class="product"> 
 											<div class="yith-wcwl-add-to-wishlist">
-									            <a href="index.php?page=wishlist" rel="nofollow" class="add_to_wishlist"> Add to Wishlist</a>
+									            <a href="index.php?page=wishlist" rel="nofollow" class="add_to_wishlist"> اضافه کردن به سبد خرید</a>
 									        </div>     
 											<a href="index.php?page=single-product-fullwidth" class="woocommerce-LoopProduct-link">
 										        <img src="<?php echo $productImage[$i]['product_image'] ?>" class="wp-post-image" alt="">
 
 										        <span class="price">
-										            <ins><span class="amount"> $309.95</span></ins>
-										            <del><span class="amount">$459.99</span></del>
+										            <ins><span class="amount"> تومان 309.95</span></ins>
+										            <del><span class="amount">تومان 459.99</span></del>
 										        </span><!-- /.price -->
 
-										        <h2 class="woocommerce-loop-product__title">Smart Watches 3 SWR50</h2>
+										        <h2 class="woocommerce-loop-product__title">ساعتهای هوشمند 3 SWR50</h2>
 										    </a>
 
 										    <div class="hover-area">
-										        <a class="button add_to_cart_button" href="index.php?page=cart" rel="nofollow">Add to cart</a>
-										        <a class="add-to-compare-link" href="index.php?page=compare">Add to compare</a>
+										        <a class="button add_to_cart_button" href="index.php?page=cart" rel="nofollow">اضافه کردن به سبد خرید</a>
+										        <a class="add-to-compare-link" href="index.php?page=compare">مقایسه کردن</a>
 										    </div>
 										</div><!-- /.product-outer -->
 									<?php } ?>

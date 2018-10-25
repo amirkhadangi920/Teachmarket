@@ -47,7 +47,7 @@
 		</li>
 
 		<li class="yamm-tfw menu-item menu-item-has-children animate-dropdown dropdown-submenu">
-			<a title="Accesories" data-toggle="dropdown" class="dropdown-toggle" aria-haspopup="true" href="#">لوازم جانبی <span class="caret"></span></a>
+			<a title="Accesories" data-toggle="dropdown" class="dropdown-toggle" aria-haspopup="true" href="#">اکسسوری <span class="caret"></span></a>
 			<?php require 'department-menu-megamenu-1.php'; ?>
 		</li>
 
