@@ -3,10 +3,10 @@
 		<div class="media">
 			<span class="media-left icon media-middle"> <i class="tm tm-call-us-footer"></i></span>
 			<div class="media-body"> 
-				<span class="call-us-title">Got Questions ? Call us 24/7!</span>
-				<span class="call-us-text">(800) 8001-8588, (0600) 874 548</span>
-				<address class="footer-contact-address">17 Princess Road, London, Greater London NW1 8JR, UK</address>
-				<a href="#" class="footer-address-map-link"> <i class="tm tm-map-marker"></i>Find us on map</a>
+				<span class="call-us-title">سوالی دارید ؟ با ما تماس بگیرید</span>
+				<span class="call-us-text">09105009868</span>
+				<address class="footer-contact-address">بین دستغیب 15 و 17 ، پلاک 231 ، واحد 1</address>
+				<a href="#" class="footer-address-map-link"> <i class="tm tm-map-marker"></i>ما را روی نقشه پیدا کنید</a>
 			</div><!-- .media-body -->
 		</div><!-- .media -->
 	</div><!-- .footer-contact-info -->
@@ -15,7 +15,7 @@
 		<div class="media"> 
 			<span class="media-left icon media-middle"> <i class="tm tm-safe-payments"></i></span>
 			<div class="media-body">
-				<h5 class="footer-payment-info-title">We are using safe payments</h5>
+				<h5 class="footer-payment-info-title">ما از درگاه پرداخت امن استفاده میکنیم</h5>
 				<div class="footer-payment-icons">
 					<ul class="list-payment-icons nav">
 						<li class="nav-item">
@@ -37,7 +37,7 @@
 				</div><!-- .footer-payment-icons -->
 
 				<div class="footer-secure-by-info">
-					<h6 class="footer-secured-by-title">Secured by:</h6>
+					<h6 class="footer-secured-by-title">ایمن شده توسط :</h6>
 					<ul class="footer-secured-by-icons">
 						<li class="nav-item">
 							<img class="secure-icons-image" src="assets/images/secured-by/norton.svg" alt="norton" />
