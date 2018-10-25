@@ -3,10 +3,10 @@
 		<div class="row">
 
 			<nav class="woocommerce-breadcrumb">
-				<a href="index.php">Home</a>
+				<a href="index.php">صفحه اصلی</a>
 				<span class="delimiter">
 				<i class="tm tm-breadcrumbs-arrow-right"></i></span>
-				Terms and Conditions
+				شرایط و ضوابط
 			</nav><!-- .woocommerce-breadcrumb -->
 
 			<div id="primary" class="content-area">
@@ -14,33 +14,33 @@
 					<div class="type-page hentry">
 						<header class="entry-header">
 							<div class="page-header-caption">
-								<h1 class="entry-title">Terms and Conditions</h1>
-								<p class="entry-subtitle">This Agreement was last modified on 18 February 2016.</p>
+								<h1 class="entry-title">شرایط و ضوابط</h1>
+								<p class="entry-subtitle">این توافقنامه اخیرا در 18 فوریه 2016 اصلاح شد.</p>
 							</div>
 						</header>
 
 						<div class="entry-content">
 							<section class="section terms-conditions">
-								<h2>Intellectual Propertly</h2>
+								<h2>مالکیت معنوی</h2>
 									<ol>
-										<li>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam quis diam erat. Duis velit lectus, posuere a blandit sit amet, tempor at lorem. Donec ultricies, lorem sed ultrices interdum.</li>
-										<li>Leo metus luctus sem, vel vulputate diam ipsum sed lorem. Donec tempor arcu nisl, et molestie massa scelerisque ut. Nunc at rutrum leo. Mauris metus mauris, tristique quis sapien eu, rutrum vulputate enim.</li>
-										<li>Mauris tempus erat laoreet turpis lobortis, eu tincidunt erat fermentum.</li>
-										<li>Aliquam non tincidunt urna. Integer tincidunt nec nisl vitae ullamcorper. Proin sed ultrices erat. Praesent varius ultrices massa at faucibus.</li>
-										<li>Aenean dignissim, orci sed faucibus pharetra, dui mi dignissim tortor, sit amet condimentum mi ligula sit amet augue.</li>
-										<li>Pellentesque vitae eros eget enim mollis placerat.</li>
+										<li>چاپگرها و متون بلکه روزنامه و مجله در ستون و سطرآنچنان که لازم است و برای شرایط فعلی تکنولوژی مورد نیاز و کاربردهای متنوع با هدف بهبود ابزارهای کاربردی می باشد. .</li>
+										<li>در این صورت می توان امید داشت که تمام و دشواری موجود در ارائه راهکارها و شرایط سخت تایپ به پایان رسد و زمان مورد نیاز شامل حروفچینی دستاوردهای اصلی و جوابگوی سوالات پیوسته اهل دنیای موجود طراحی اساسا مورد استفاده قرار گیرد. </li>
+										<li>لورم ایپسوم متن ساختگی با تولید سادگی نامفهوم از صنعت چاپ و با استفاده از طراحان گرافیک است. </li>
+										<li>چاپگرها و متون بلکه روزنامه و مجله در ستون و سطرآنچنان که لازم است و برای شرایط فعلی تکنولوژی مورد نیاز و کاربردهای متنوع با هدف بهبود ابزارهای کاربردی می باشد. </li>
+										<li>چاپگرها و متون بلکه روزنامه و مجله در ستون و سطرآنچنان که لازم است و برای شرایط فعلی تکنولوژی مورد نیاز و کاربردهای متنوع </li>
+										<li>لورم ایپسوم متن ساختگی با تولید سادگی نامفهوم از صنعت چاپ و با استفاده از طراحان گرافیک است. .</li>
 									</ol>
-								<h2>Termination</h2>
+								<h2>فسخ</h2>
 									<ol>
-										<li>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam quis diam erat. Duis velit lectus, posuere a blandit sit amet, tempor at lorem. Donec ultricies, lorem sed ultrices interdum.</li>
-										<li>Leo metus luctus sem, vel vulputate diam ipsum sed lorem. Donec tempor arcu nisl, et molestie massa scelerisque ut. Nunc at rutrum leo. Mauris metus mauris, tristique quis sapien eu, rutrum vulputate enim.</li>
-										<li>Mauris tempus erat laoreet turpis lobortis, eu tincidunt erat fermentum.</li>
-										<li>Aliquam non tincidunt urna. Integer tincidunt nec nisl vitae ullamcorper. Proin sed ultrices erat. Praesent varius ultrices massa at faucibus.</li>
-										<li>Aenean dignissim, orci sed faucibus pharetra, dui mi dignissim tortor, sit amet condimentum mi ligula sit amet augue.</li>
-										<li>Pellentesque vitae eros eget enim mollis placerat.</li>
+										<li>چاپگرها و متون بلکه روزنامه و مجله در ستون و سطرآنچنان که لازم است و برای شرایط فعلی تکنولوژی مورد نیاز و کاربردهای متنوع با هدف بهبود ابزارهای کاربردی می باشد. </li>
+										<li>کتابهای زیادی در شصت و سه درصد گذشته، حال و آینده شناخت فراوان جامعه و متخصصان را می طلبد تا با نرم افزارها شناخت بیشتری را برای طراحان رایانه ای علی الخصوص طراحان خلاقی و فرهنگ پیشرو در زبان فارسی ایجاد کرد. li>
+										<li>برای شرایط فعلی تکنولوژی مورد نیاز و کاربردهای متنوع با هدف بهبود ابزارهای کاربردی می باشد. </li>
+										<li>چاپگرها و متون بلکه روزنامه و مجله در ستون و سطرآنچنان که لازم است و برای شرایط فعلی تکنولوژی مورد نیاز و کاربردهای متنوع </li>
+										<li>جامعه و متخصصان را می طلبد تا با نرم افزارها شناخت بیشتری را برای طراحان رایانه ای علی الخصوص طراحان خلاقی و فرهنگ پیشرو در زبان فارسی ایجاد کرد. </li>
+										<li>لورم ایپسوم متن ساختگی با تولید سادگی نامفهوم از صنعت چاپ و با استفاده از طراحان گرافیک است. </li>
 									</ol>
-								<h2>Changes To This Agreement</h2>
-								<p>We reserve the right, at our sole discretion, to modify or replace these Terms and Conditions by posting the updated terms on the Site.<br>
+								<h2>تغییرات در این توافقنامه</h2>
+								<p>ما، با توجه به اختیارات ما، حق را با اصلاح یا جایگزینی این شرایط و ضوابط با ارسال شرایط به روز شده در سایت رزرو می کنیم.<br>
 								</p>
 							</section><!-- .terms-conditions -->
 						</div><!-- .entry-content -->
