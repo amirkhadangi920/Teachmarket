@@ -5,8 +5,8 @@
 		<img class= "img-3" src="assets/images/slider/home-v9-img-3.png" alt="">
 		<img class= "img-4" src="assets/images/slider/home-v9-img-4.jpg" alt="">
 		<div class="caption-button">
-			<div class="button-left button">SHOP <span>Women</span></div>
-			<div class="button-right button">SHOP <span>men</span></div>
+			<div class="button-left button">فروشگاه <span>بانوان</span></div>
+			<div class="button-right button">فروشگاه <span>آقایان</span></div>
 		</div>
 	</div>
 </div>
