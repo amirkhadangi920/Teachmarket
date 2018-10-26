@@ -1,7 +1,7 @@
 <div class="products-4-column-widgets">
 	<section id="section-products-carousel-1" class="section-landscape-products-widget-carousel type-3">
 		<header class="section-header">
-			<h2 class="section-title">Best Rated Products</h2>
+			<h2 class="section-title">بهترین محصولات ارزیابی شده</h2>
 		</header><!-- .section-header -->
 
 		<div class="products-carousel"> 
@@ -17,7 +17,7 @@
 
 	<section id="section-products-carousel-2" class="section-landscape-products-widget-carousel type-3">
 		<header class="section-header">
-			<h2 class="section-title">Virtual Reality Headsets</h2>
+			<h2 class="section-title">هدست واقعیت مجازی</h2>
 		</header><!-- .section-header -->
 
 		<div class="products-carousel"> 
@@ -33,7 +33,7 @@
 
 	<section id="section-products-carousel-3" class="section-landscape-products-widget-carousel type-3">
 		<header class="section-header">
-			<h2 class="section-title">Deals of the Day</h2>
+			<h2 class="section-title">تخفیف روز</h2>
 		</header><!-- .section-header -->
 
 		<div class="products-carousel"> 
@@ -49,7 +49,7 @@
 
 	<section id="section-products-carousel-4" class="section-landscape-products-widget-carousel type-3">
 		<header class="section-header">
-			<h2 class="section-title">Video Cameras</h2>
+			<h2 class="section-title">دوربین های فیلمبرداری</h2>
 		</header><!-- .section-header -->
 
 		<div class="products-carousel"> 
