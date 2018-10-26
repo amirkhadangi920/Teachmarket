@@ -45,22 +45,22 @@
                 
                 <div class="product <?php echo $classes; ?>">
                     <div class="yith-wcwl-add-to-wishlist">
-                         <a href="index.php?page=wishlist" rel="nofollow" class="add_to_wishlist"> Add to Wishlist</a>
+                         <a href="index.php?page=wishlist" rel="nofollow" class="add_to_wishlist"> افزودن به لیست دلخواه</a>
                     </div><!-- .yith-wcwl-add-to-wishlist --> 
                     
                     <a class="woocommerce-LoopProduct-link woocommerce-loop-product__link" href="index.php?page=single-product-fullwidth">
                         <img width="224" height="197" alt="" class="attachment-shop_catalog size-shop_catalog wp-post-image" src="<?php echo $productImage[$i]['product_image'] ?>">
 
                         <span class="price">
-                            <span class="woocommerce-Price-amount amount"><span class="woocommerce-Price-currencySymbol">$</span>800.00</span>
+                            <span class="woocommerce-Price-amount amount"><span class="woocommerce-Price-currencySymbol">تومان</span>800.00</span>
                         </span>
 
                         <h2 class="woocommerce-loop-product__title"><?php echo $productName[$i]['product_name'] ?></h2>
                     </a><!-- .woocommerce-LoopProduct-link -->
 
                     <div class="hover-area">
-                        <a class="button" href="index.php?page=cart">Add to cart</a>
-                        <a class="add-to-compare-link" href="index.php?page=compare">Add to compare</a>
+                        <a class="button" href="index.php?page=cart">افزودن به سبد خرید</a>
+                        <a class="add-to-compare-link" href="index.php?page=compare">افزودن به مقایسه</a>
                     </div><!-- .hover-area -->
                 </div><!-- .product -->
             <?php } ?>
