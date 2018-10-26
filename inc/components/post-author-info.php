@@ -8,7 +8,7 @@
 
 		<div class="media-body">
 			<h4 class="media-heading">
-				<a href="#">Jane Smith</a>
+				<a href="#">جین اسمیت</a>
 			</h4>
 		</div><!-- .media-body -->
 	</div><!-- .media -->

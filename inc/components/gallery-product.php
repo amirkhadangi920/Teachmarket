@@ -23,8 +23,8 @@ function display_product( $product ) {
         </a>
 
         <div class="hover-area">
-            <a class="button add_to_cart_button" href="#" rel="nofollow">Add to cart</a>
-            <a class="add-to-compare-link" href="#">Add to compare</a>
+            <a class="button add_to_cart_button" href="#" rel="nofollow">افزودن به سبد خرید</a>
+            <a class="add-to-compare-link" href="#">افزودن برای مقایسه</a>
         </div>
     </div><!-- /.product-outer -->
     <?php

@@ -148,7 +148,7 @@
 
 					<div class="coupon">
 						<label for="coupon_code">کوپن:</label> 
-						<input type="text" placeholder="Coupon code" value="" id="coupon_code" class="input-text" name="coupon_code"> 
+						<input type="text" placeholder="کد کوپن" value="" id="coupon_code" class="input-text" name="coupon_code"> 
 						<input type="submit" value="کوپن را اعمال کنید" name="apply_coupon" class="button">
 					</div>
 

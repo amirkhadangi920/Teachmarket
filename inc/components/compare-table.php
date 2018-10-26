@@ -13,7 +13,7 @@
 
                         <div class="product-info">
                             <h3 class="product-title">تلویزین 3 بعدی 5 اینچ</h3>
-                            <div class="star-rating"><span style="width:100%">امتیاز <strong class="rating">5.00</strong> out of 5</span></div>                        
+                            <div class="star-rating"><span style="width:100%">امتیاز <strong class="rating">5.00</strong> از 5</span></div>                        
                         </div>
                      </a><!-- /.product -->
                 </td>

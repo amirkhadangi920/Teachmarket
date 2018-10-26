@@ -70,7 +70,7 @@
 						</p>
 
 						<p id="calc_shipping_postcode_field" class="form-row form-row-wide validate-required">
-							<input type="text" id="calc_shipping_postcode" name="calc_shipping_postcode" placeholder="Postcode / ZIP" value="" class="input-text">
+							<input type="text" id="calc_shipping_postcode" name="calc_shipping_postcode" placeholder="کد پستی / ZIP" value="" class="input-text">
 						</p>
 
 
