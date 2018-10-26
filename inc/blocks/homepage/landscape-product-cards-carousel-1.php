@@ -25,7 +25,7 @@
 	<div class="col-full">
 		<header class="section-header">
 			<h2 class="section-title">
-				<strong>Snacks</strong> - way better energy  calories
+				<strong>اسنک</strong> - راه کالری انرژی بهتر است
 			</h2>
 		</header><!-- .section-header -->
 
