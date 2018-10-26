@@ -43,8 +43,8 @@
 
 										<div class="media-body">
 											<span class="price">
-												<ins><span class="amount"> تومان 50.99</span></ins>
-												<del><span class="amount"> تومان 26.99</span></del>
+												<ins><span class="amount">50هزار تومان</span></ins>
+												<del><span class="amount"> 60 هزار تومان </span></del>
 								
 											</span><!-- .price -->
 
