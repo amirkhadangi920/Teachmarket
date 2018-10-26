@@ -9,7 +9,7 @@
 		<a style="font-size: 8pt;" class="tag-cloud-link" href="#">الکترونیک</a>
 		<a style="font-size: 22pt;" class="tag-cloud-link" href="#">موضوع</a>
 		<a style="font-size: 8pt;" class="tag-cloud-link" href="#">فرمت پست ویدئو</a>
-		<a style="font-size: 22pt;" class="tag-cloud-link" href="#">woocommerce</a>
+		<a style="font-size: 22pt;" class="tag-cloud-link" href="#">لورم ایپسوم</a>
 		<a style="font-size: 22pt;" class="tag-cloud-link" href="#">wordpress</a>
 	</div><!-- .tagcloud -->
 </div><!-- .widget_tag_cloud -->

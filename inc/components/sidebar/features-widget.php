@@ -4,7 +4,7 @@
 			<div class="feature">
 				<div class="media">
 					<i class="feature-icon d-flex mr-3 tm tm-free-delivery"></i>
-					<div class="media-body feature-text"><strong>تحویل رایگان</strong>از $50</div>
+					<div class="media-body feature-text"><strong>تحویل رایگان</strong>از 50 هزار تومان</div>
 				</div><!-- .media -->
 			</div><!-- .feature -->
 

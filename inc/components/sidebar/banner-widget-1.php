@@ -20,7 +20,7 @@
 			<div style="background-size: cover; background-position: center center; background-image: url( assets/images/garden/banner-2.jpg ); height: 207px;" class="banner-bg">
 				<div class="caption">
 					<div class="banner-info">
-						<h3 class="title">تازه رسیده ها<br> در<strong> اکسسوری</strong><br>با بهترین قیمت</h3>
+						<h3 class="title">تازه رسیده ها<br> در<strong> لورم ایپسوم</strong><br>با بهترین قیمت</h3>
 					</div><!-- .banner-info -->
 					<span class="banner-action button">نمایش همه</span>
 				</div><!-- .caption -->
