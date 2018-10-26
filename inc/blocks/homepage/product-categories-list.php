@@ -8,16 +8,16 @@
 			<div class="media-body">
 				<div class="head-and-list">
 					<h4 class="media-heading">
-					<a href="index.php?page=product-category">Mens</a></h4>
+					<a href="index.php?page=product-category">آقایان</a></h4>
 					<ul class="sub-categories list-unstyled"> 
-						<li class="cat-item cat-item-20"><a href="index.php?page=product-category">Footwear</a></li>
-						<li class="cat-item cat-item-19"><a href="index.php?page=product-category">Inner &amp; Protection Wears</a></li>
-						<li class="cat-item cat-item-18"><a href="index.php?page=product-category">Outerwears</a></li>
-						<li class="cat-item cat-item-16"><a href="index.php?page=product-category">Shorts &amp; 3/4th</a></li>
-						<li class="cat-item cat-item-17"><a href="index.php?page=product-category">Trackwears</a></li>
+						<li class="cat-item cat-item-20"><a href="index.php?page=product-category">کفش</a></li>
+						<li class="cat-item cat-item-19"><a href="index.php?page=product-category">داخلی &amp; حفاظت می کند</a></li>
+						<li class="cat-item cat-item-18"><a href="index.php?page=product-category">لورم ایپسوم</a></li>
+						<li class="cat-item cat-item-16"><a href="index.php?page=product-category">شورت &amp; 3/4th</a></li>
+						<li class="cat-item cat-item-17"><a href="index.php?page=product-category">لورم ایپسوم</a></li>
 					</ul><!-- .sub-categories --> 
 				</div><!-- .head-and-list -->
-				<a href="index.php?page=product-category" class="view-all">View All</a>
+				<a href="index.php?page=product-category" class="view-all">نمایش همه</a>
 			</div><!-- .media-body -->
 		</div><!-- .media -->
 	</li><!-- .category -->
@@ -30,16 +30,16 @@
 
 			<div class="media-body">
 				<div class="head-and-list">
-					<h4 class="media-heading"><a href="index.php?page=product-category">Womens</a></h4>
+					<h4 class="media-heading"><a href="index.php?page=product-category">بانوان</a></h4>
 					<ul class="sub-categories list-unstyled"> 
-						<li class="cat-item cat-item-29"><a href="index.php?page=product-category">Capris, Shorts &amp; Skirts</a></li>
-						<li class="cat-item cat-item-31"><a href="index.php?page=product-category">Outwear</a></li>
-						<li class="cat-item cat-item-30"><a href="index.php?page=product-category">Sports bras</a></li>
-						<li class="cat-item cat-item-27"><a href="index.php?page=product-category">Tees &amp; tanks</a></li>
-						<li class="cat-item cat-item-28"><a href="index.php?page=product-category">Tights</a></li>
+						<li class="cat-item cat-item-29"><a href="index.php?page=product-category">کاپریس، شلوارک &amp; دامن</a></li>
+						<li class="cat-item cat-item-31"><a href="index.php?page=product-category">لباس</a></li>
+						<li class="cat-item cat-item-30"><a href="index.php?page=product-category">لباس های ورزشی</a></li>
+						<li class="cat-item cat-item-27"><a href="index.php?page=product-category">تیز &amp; مخازن</a></li>
+						<li class="cat-item cat-item-28"><a href="index.php?page=product-category">لباس تنگ</a></li>
 					</ul><!-- .sub-categories --> 
 				</div><!-- .head-and-list --> 
-				<a href="index.php?page=product-category" class="view-all">View All</a>
+				<a href="index.php?page=product-category" class="view-all">نمایش همه</a>
 			</div><!-- .media-body --> 
 		</div><!-- .media --> 
 	</li><!-- .category --> 
@@ -52,15 +52,15 @@
 			<div class="media-body">
 				<div class="head-and-list">
 					<h4 class="media-heading">
-					<a href="index.php?page=product-category">Soccer</a></h4>
+					<a href="index.php?page=product-category">فوتبال</a></h4>
 					<ul class="sub-categories list-unstyled"> 
-						<li class="cat-item cat-item-42"><a href="index.php?page=product-category">Boots</a></li>
-						<li class="cat-item cat-item-41"><a href="index.php?page=product-category">Footballs</a></li>
-						<li class="cat-item cat-item-40"><a href="index.php?page=product-category">Keepers Kit</a></li>
-						<li class="cat-item cat-item-39"><a href="index.php?page=product-category">Training Wear</a></li>
+						<li class="cat-item cat-item-42"><a href="index.php?page=product-category">کفش ها</a></li>
+						<li class="cat-item cat-item-41"><a href="index.php?page=product-category">فوتبال ها</a></li>
+						<li class="cat-item cat-item-40"><a href="index.php?page=product-category">نگهبان کیت</a></li>
+						<li class="cat-item cat-item-39"><a href="index.php?page=product-category">آموزش پوشیدن</a></li>
 					</ul><!-- .sub-categories --> 
 				</div><!-- .head-and-list --> 
-				<a href="index.php?page=product-category" class="view-all">View All</a>
+				<a href="index.php?page=product-category" class="view-all">نمایش همه</a>
 			</div><!-- .media-body --> 
 		</div><!-- .media --> 
 	</li><!-- .category --> 
@@ -73,16 +73,16 @@
 			<div class="media-body">
 				<div class="head-and-list">
 					<h4 class="media-heading">
-					<a href="index.php?page=product-category">Basketball</a></h4>
+					<a href="index.php?page=product-category">بسکتبال</a></h4>
 					<ul class="sub-categories list-unstyled"> 
-						<li class="cat-item cat-item-49"><a href="index.php?page=product-category">Activity Trackers</a></li>
-						<li class="cat-item cat-item-50"><a href="index.php?page=product-category">Fitbit</a></li>
-						<li class="cat-item cat-item-51"><a href="index.php?page=product-category">Pedometers</a></li>
-						<li class="cat-item cat-item-53"><a href="index.php?page=product-category">Smartwatches</a></li>
-						<li class="cat-item cat-item-52"><a href="index.php?page=product-category">Virtual Reality</a></li>
+						<li class="cat-item cat-item-49"><a href="index.php?page=product-category">ردیابهای فعالیت</a></li>
+						<li class="cat-item cat-item-50"><a href="index.php?page=product-category">لورم ایپسوم</a></li>
+						<li class="cat-item cat-item-51"><a href="index.php?page=product-category">گام شمار</a></li>
+						<li class="cat-item cat-item-53"><a href="index.php?page=product-category">ساعتهای هوشمند</a></li>
+						<li class="cat-item cat-item-52"><a href="index.php?page=product-category">واقعیت مجازی</a></li>
 					</ul><!-- .sub-categories -->  
 				</div><!-- .head-and-list --> 
-				<a href="index.php?page=product-category" class="view-all">View All</a>
+				<a href="index.php?page=product-category" class="view-all">نمایش همه</a>
 			</div><!-- .media-body --> 
 		</div><!-- .media --> 
 	</li><!-- .category --> 
@@ -95,15 +95,15 @@
 			<div class="media-body">
 				<div class="head-and-list">
 					<h4 class="media-heading">
-					<a href="index.php?page=product-category">Running</a></h4>
+					<a href="index.php?page=product-category">بارانی</a></h4>
 					<ul class="sub-categories list-unstyled"> 
-						<li class="cat-item cat-item-25"><a href="index.php?page=product-category">Accessories</a></li>
-						<li class="cat-item cat-item-22"><a href="index.php?page=product-category">Ladies Shoes</a></li>
-						<li class="cat-item cat-item-24"><a href="index.php?page=product-category">Mens Running</a></li>
-						<li class="cat-item cat-item-23"><a href="index.php?page=product-category">Running Electronics</a></li>
+						<li class="cat-item cat-item-25"><a href="index.php?page=product-category">تجهیزات جانبی</a></li>
+						<li class="cat-item cat-item-22"><a href="index.php?page=product-category">کفش های زنانه</a></li>
+						<li class="cat-item cat-item-24"><a href="index.php?page=product-category">دوندگان</a></li>
+						<li class="cat-item cat-item-23"><a href="index.php?page=product-category">الکترونیک </a></li>
 					</ul><!-- .sub-categories --> 
 				</div><!-- .head-and-list -->
-				<a href="index.php?page=product-category" class="view-all">View All</a>
+				<a href="index.php?page=product-category" class="view-all">نمایش همه</a>
 			</div><!-- .media-body -->
 		</div><!-- .media -->
 	</li><!-- .category -->
@@ -116,16 +116,16 @@
 			<div class="media-body">
 				<div class="head-and-list">
 					<h4 class="media-heading">
-					<a href="index.php?page=product-category">Kids &amp; Young</a></h4>
+					<a href="index.php?page=product-category">بچه ها &amp; جوانان</a></h4>
 					<ul class="sub-categories list-unstyled"> 
-						<li class="cat-item cat-item-34"><a href="index.php?page=product-category">Boys Sportswear</a></li>
-						<li class="cat-item cat-item-33"><a href="index.php?page=product-category">Clotching Youth</a></li>
-						<li class="cat-item cat-item-37"><a href="index.php?page=product-category">Electronics</a></li>
-						<li class="cat-item cat-item-36"><a href="index.php?page=product-category">Footwear</a></li>
-						<li class="cat-item cat-item-35"><a href="index.php?page=product-category">Ladies Outerwear</a></li>
+						<li class="cat-item cat-item-34"><a href="index.php?page=product-category">لباس ورزشی</a></li>
+						<li class="cat-item cat-item-33"><a href="index.php?page=product-category">لباس جوانان</a></li>
+						<li class="cat-item cat-item-37"><a href="index.php?page=product-category">الکترونیک</a></li>
+						<li class="cat-item cat-item-36"><a href="index.php?page=product-category">کفش</a></li>
+						<li class="cat-item cat-item-35"><a href="index.php?page=product-category">پیراهن خانم</a></li>
 					</ul><!-- .sub-categories -->  
 				</div><!-- .head-and-list --> 
-				<a href="index.php?page=product-category" class="view-all">View All</a>
+				<a href="index.php?page=product-category" class="view-all">نمایش همه</a>
 			</div><!-- .media-body --> 
 		</div><!-- .media --> 
 	</li><!-- .category --> 
@@ -140,15 +140,15 @@
 			<div class="media-body">
 				<div class="head-and-list">
 					<h4 class="media-heading">
-					<a href="index.php?page=product-category">Bags</a></h4>
+					<a href="index.php?page=product-category">تیپ بگ</a></h4>
 					<ul class="sub-categories list-unstyled"> 
-						<li class="cat-item cat-item-44"><a href="index.php?page=product-category">Backpacks</a></li>
-						<li class="cat-item cat-item-46"><a href="index.php?page=product-category">Gym bags</a></li>
-						<li class="cat-item cat-item-47"><a href="index.php?page=product-category">Messengers</a></li>
-						<li class="cat-item cat-item-45"><a href="index.php?page=product-category">Sports bag</a></li>
+						<li class="cat-item cat-item-44"><a href="index.php?page=product-category">کوله پشتی</a></li>
+						<li class="cat-item cat-item-46"><a href="index.php?page=product-category">کوله پشتی</a></li>
+						<li class="cat-item cat-item-47"><a href="index.php?page=product-category">پیام رسان ها</a></li>
+						<li class="cat-item cat-item-45"><a href="index.php?page=product-category">کیف ورزشی</a></li>
 					</ul><!-- .sub-categories --> 
 				</div><!-- .head-and-list --> 
-				<a href="index.php?page=product-category" class="view-all">View All</a>
+				<a href="index.php?page=product-category" class="view-all">نمایش همه</a>
 			</div><!-- .media-body --> 
 		</div><!-- .media --> 
 	</li><!-- .category --> 
@@ -161,16 +161,16 @@
 			<div class="media-body">
 				<div class="head-and-list">
 					<h4 class="media-heading">
-					<a href="index.php?page=product-category">Sale</a></h4>
+					<a href="index.php?page=product-category">فروش</a></h4>
 					<ul class="sub-categories list-unstyled"> 
-						<li class="cat-item cat-item-55"><a href="index.php?page=product-category">Energy and Lighting</a></li>
-						<li class="cat-item cat-item-56"><a href="index.php?page=product-category">Home Safety and Security</a></li>
-						<li class="cat-item cat-item-57"><a href="index.php?page=product-category">Smart Appliances</a></li>
-						<li class="cat-item cat-item-58"><a href="index.php?page=product-category">Smart Health and Fitness</a></li>
-						<li class="cat-item cat-item-59"><a href="index.php?page=product-category">Smart Home Kits and Hubs</a></li>
+						<li class="cat-item cat-item-55"><a href="index.php?page=product-category">انرژی و روشنایی</a></li>
+						<li class="cat-item cat-item-56"><a href="index.php?page=product-category">ایمنی و امنیت خانه</a></li>
+						<li class="cat-item cat-item-57"><a href="index.php?page=product-category">لوازم هوشمند</a></li>
+						<li class="cat-item cat-item-58"><a href="index.php?page=product-category">بهداشت و تناسب اندام</a></li>
+						<li class="cat-item cat-item-59"><a href="index.php?page=product-category">کیت هوشمند خانه و هاب ها</a></li>
 					</ul><!-- .sub-categories --> 
 				</div><!-- .head-and-list -->
-				<a href="index.php?page=product-category" class="view-all">View All</a>
+				<a href="index.php?page=product-category" class="view-all">نمایش همه</a>
 			</div><!-- .media-body -->
 		</div><!-- .media -->
 	</li><!-- .category -->
