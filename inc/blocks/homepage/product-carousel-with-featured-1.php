@@ -48,12 +48,12 @@
 
 <section class="full-width section-products-carousel-tabs section-product-carousel-with-featured-product carousel-with-featured-1">
 	<header class="section-header">
-		<h2 class="section-title">Sports & Fitness</h2>
+		<h2 class="section-title">ورزش و تناسب اندام</h2>
 		<ul role="tablist" class="nav justify-content-center">
-			<li class="nav-item"><a class="nav-link active" href="#top-20-1" data-toggle="tab">Top 20</a></li>
-			<li class="nav-item"><a class="nav-link" href="#protein" data-toggle="tab">Protein</a></li>
-			<li class="nav-item"><a class="nav-link" href="#acid" data-toggle="tab">Amino Acids</a></li>
-			<li class="nav-item"><a class="nav-link" href="#energy" data-toggle="tab">Energy & Endurance</a></li>
+			<li class="nav-item"><a class="nav-link active" href="#top-20-1" data-toggle="tab">20 بهترین</a></li>
+			<li class="nav-item"><a class="nav-link" href="#protein" data-toggle="tab">پروتئین</a></li>
+			<li class="nav-item"><a class="nav-link" href="#acid" data-toggle="tab">اسیدهای آمینه</a></li>
+			<li class="nav-item"><a class="nav-link" href="#energy" data-toggle="tab">انرژی و استقامت</a></li>
 		</ul>
 	</header>
 
@@ -80,13 +80,13 @@
 										<ins><span class="woocommerce-Price-amount amount"><span class="woocommerce-Price-currencySymbol">$</span>179.99</span></ins>
 										<del><span class="woocommerce-Price-amount amount"><span class="woocommerce-Price-currencySymbol">$</span>239.99</span></del>
 									</span>
-									<h2 class="woocommerce-loop-product__title">Ultima Replenisher Electrolyte Powder, New Formula Orange</h2>
+									<h2 class="woocommerce-loop-product__title">پودر الکترولیتی Ultima Replenisher، فرمول جدید نارنجی</h2>
 								</a>
 								<div class="techmarket-product-rating">
-									<div title="Rated 0 out of 5" class="star-rating"><span style="width:0%"><strong class="rating">0</strong> out of 5</span></div>
+									<div title="Rated 0 out of 5" class="star-rating"><span style="width:0%"><strong class="rating">0</strong> از 5</span></div>
 									<span class="review-count">(0)</span>
 								</div>
-								<a class="button add_to_cart_button" href="index.php?page=cart">Add to cart</a>
+								<a class="button add_to_cart_button" href="index.php?page=cart">افزودن به سبد خرید</a>
 							</div>
 						</div>
 					</div>
@@ -116,13 +116,13 @@
 										<ins><span class="woocommerce-Price-amount amount"><span class="woocommerce-Price-currencySymbol">$</span>179.99</span></ins>
 										<del><span class="woocommerce-Price-amount amount"><span class="woocommerce-Price-currencySymbol">$</span>239.99</span></del>
 									</span>
-									<h2 class="woocommerce-loop-product__title">Coconut Lemon Bath and Shower Gel</h2>
+									<h2 class="woocommerce-loop-product__title">ژل حمام و دوش لیمو نارگیل</h2>
 								</a>
 								<div class="techmarket-product-rating">
 									<div title="Rated 0 out of 5" class="star-rating"><span style="width:0%"><strong class="rating">0</strong> out of 5</span></div>
 									<span class="review-count">(0)</span>
 								</div>
-								<a class="button add_to_cart_button" href="index.php?page=cart">Add to cart</a>
+								<a class="button add_to_cart_button" href="index.php?page=cart">افزودن به سبد خرید</a>
 							</div>
 						</div>
 					</div>
@@ -152,13 +152,13 @@
 										<ins><span class="woocommerce-Price-amount amount"><span class="woocommerce-Price-currencySymbol">$</span>179.99</span></ins>
 										<del><span class="woocommerce-Price-amount amount"><span class="woocommerce-Price-currencySymbol">$</span>239.99</span></del>
 									</span>
-									<h2 class="woocommerce-loop-product__title">Avocado Oil Mayo</h2>
+									<h2 class="woocommerce-loop-product__title">آووکادو روغن مایو</h2>
 								</a>
 								<div class="techmarket-product-rating">
 									<div title="Rated 0 out of 5" class="star-rating"><span style="width:0%"><strong class="rating">0</strong> out of 5</span></div>
 									<span class="review-count">(0)</span>
 								</div>
-								<a class="button add_to_cart_button" href="index.php?page=cart">Add to cart</a>
+								<a class="button add_to_cart_button" href="index.php?page=cart">افزودن به سبد خرید</a>
 							</div>
 						</div>
 					</div>
@@ -188,13 +188,13 @@
 										<ins><span class="woocommerce-Price-amount amount"><span class="woocommerce-Price-currencySymbol">$</span>179.99</span></ins>
 										<del><span class="woocommerce-Price-amount amount"><span class="woocommerce-Price-currencySymbol">$</span>239.99</span></del>
 									</span>
-									<h2 class="woocommerce-loop-product__title">Sea Salt Seaweed Snack</h2>
+									<h2 class="woocommerce-loop-product__title">اسنک دریایی نمک دریایی</h2>
 								</a>
 								<div class="techmarket-product-rating">
 									<div title="Rated 0 out of 5" class="star-rating"><span style="width:0%"><strong class="rating">0</strong> out of 5</span></div>
 									<span class="review-count">(0)</span>
 								</div>
-								<a class="button add_to_cart_button" href="index.php?page=cart">Add to cart</a>
+								<a class="button add_to_cart_button" href="index.php?page=cart">افزودن به سبد خرید</a>
 							</div>
 						</div>
 					</div>

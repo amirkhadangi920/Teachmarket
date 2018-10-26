@@ -1,7 +1,10 @@
 <div class="shop-control-bar-bottom">
 	<form class="form-techmarket-wc-ppp" method="POST">
 		<select class="techmarket-wc-wppp-select c-select" onchange="this.form.submit()" name="ppp">
-		<option value="20">نمایش 20</option>
+<<<<<<< HEAD
+			<option value="20">نمایش 20</option>
+=======
+
 			<option value="40">نمایش 40</option>
 			<option value="-1">نمایش همه</option>
 		</select>
@@ -11,7 +14,11 @@
 	</form><!-- .form-techmarket-wc-ppp -->
 
 	<p class="woocommerce-result-count">
+<<<<<<< HEAD
+نمایش 1 و ndash؛ 15 از 73 نتیجه
+=======
 	نمایش 115 از 73 نتیجه	
+>>>>>>> 45009bebadc289596e5051465fa6af50cbf9178a
 	</p><!-- .woocommerce-result-count -->
 	
 	<nav class="woocommerce-pagination">

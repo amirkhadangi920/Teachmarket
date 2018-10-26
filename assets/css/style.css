@@ -5586,8 +5586,11 @@ button.menu-toggle {
       font-size: 2em; }
 
 .banner.text-in-left .banner-bg {
-  padding-left: 2.188em;
-  justify-content: flex-start; }
+  padding-right: 2.188em;
+  justify-content: flex-start;
+  direction:rtl;
+  text-align:right;
+  }
 
 .banner.text-in-right .banner-bg {
   padding-right: 4.375em;
@@ -13671,15 +13674,15 @@ article.post {
   text-indent: -99999px;
   display: block;
   position: absolute;
-  right: 0;
+  right: 700px;
   top: 0; }
   .single-product .single-product-header .add-to-wishlist:before {
     color: #444;
     font-family: techmarket-icons;
     font-size: 1.429em;
     position: absolute;
-    right: 24px;
-    top: 0;
+    right: 42px;
+    top: -3px;
     text-indent: 0;
     content: "\6b"; }
 
@@ -19788,7 +19791,8 @@ table.shop_table_responsive.my_account_orders .order-actions {
         padding: 30px 0 !important;
         text-transform: uppercase; }
         @media (min-width: 768px) {
-          .single-product .woocommerce-tabs .wc-tabs li a,
+          .single-produc
+		  t .woocommerce-tabs .wc-tabs li a,
           .single-product .woocommerce-tabs .tm-tabs li a,
           .single-product .techmarket-tabs .wc-tabs li a,
           .single-product .techmarket-tabs .tm-tabs li a {
@@ -19942,10 +19946,12 @@ table.shop_table_responsive.my_account_orders .order-actions {
   color: #444;
   font-weight: 500;
   line-height: 0.913em;
-  margin-right: 40px; }
+  margin-right: 40px; 
+  text-align:right;}
   @media (max-width: 1199px) {
     .single-product .product_title {
-      line-height: 1.3em; } }
+      line-height: 1.3em;
+	  } }
 
 @media (min-width: 1200px) and (max-width: 1399px) {
   .single-product .product_title {
@@ -20011,11 +20017,13 @@ table.shop_table_responsive.my_account_orders .order-actions {
   font-size: 1em;
   line-height: 1.563em;
   font-weight: 400;
-  letter-spacing: -0.01em; }
+  letter-spacing: -0.01em; 
+  direction:rtl;}
   .single-product div[itemprop="description"] ul,
   .single-product .woocommerce-product-details__short-description ul {
     padding-left: 1.1em;
-    margin-left: 0; }
+    margin-left: 0;
+	text-align:right;}
 
 @media (min-width: 1200px) and (max-width: 1399px) {
   .single-product div[itemprop="description"],
@@ -26634,9 +26642,13 @@ form.track_order {
   color: #444444;
   font-weight: 300;
   margin-top: 0.667em; 
+<<<<<<< HEAD
   text-align: right;
   direction: rtl;
   }
+=======
+  text-align:center;}
+>>>>>>> 2fdd3f19f692d7a2a202169b5b324023bbb0d05a
   .woocommerce-breadcrumb a {
     color: #444444; }
   .woocommerce-breadcrumb .delimiter {

@@ -15,7 +15,7 @@
 <section class="column-1 deals-carousel" id="sale-with-timer-carousel">
 	<div class="deals-carousel-inner-block">
 		<header class="section-header">
-			<h2 class="section-title"><strong>Deals</strong> of the week</h2>
+			<h2 class="section-title"><strong>معاملات</strong>این هفته</h2>
 			<nav class="custom-slick-nav"></nav>
 		</header><!-- /.section-header -->
 
@@ -43,7 +43,7 @@
 
 											<div class="sale-label-outer">
 												<div class="sale-saved-label">
-													<span class="saved-label-text">Save</span>
+													<span class="saved-label-text">پذیرفتن</span>
 													<span class="saved-label-amount">
 														<span class="woocommerce-Price-amount amount">
 														<span class="woocommerce-Price-currencySymbol">$</span>120.00</span>
@@ -56,8 +56,8 @@
 
 										<div class="deal-progress">
 											<div class="deal-stock">
-												<div class="stock-sold">Already Sold: <strong>0</strong></div>
-												<div class="stock-available">Available: <strong>1000</strong></div>
+												<div class="stock-sold">قبلا فروخته شده است: <strong>0</strong></div>
+												<div class="stock-available">در دسترس: <strong>1000</strong></div>
 											</div><!-- /.deal-stock -->
 
 											<div class="progress">
@@ -67,8 +67,8 @@
 
 										<div class="deal-countdown-timer">
 											<div class="marketing-text">
-												<span class="line-1">Hurry up!</span>
-												<span class="line-2">Offers ends in:</span>
+												<span class="line-1">عجله کنید!</span>
+												<span class="line-2">پیشنهادات به پایان می رسد :</span>
 											</div><!-- /.marketing-text -->
 
 											<span class="deal-time-diff" style="display:none;">28800</span>
@@ -86,8 +86,8 @@
 
 		<footer class="section-footer">
 			<nav class="custom-slick-pagination">
-				<a class="slider-prev left" href="#" data-target="#sale-with-timer-carousel .products"><i class="tm tm-arrow-left"></i>Previous deal</a>
-				<a class="slider-next right" href="#" data-target="#sale-with-timer-carousel .products">Next deal<i class="tm tm-arrow-right"></i></a>
+				<a class="slider-prev left" href="#" data-target="#sale-with-timer-carousel .products"><i class="tm tm-arrow-left"></i>معامله قبلی</a>
+				<a class="slider-next right" href="#" data-target="#sale-with-timer-carousel .products">معامله بعدی<i class="tm tm-arrow-right"></i></a>
 			</nav>
 		</footer><!-- /.section-footer -->
 	</div><!-- /.deals-carousel-inner-block -->

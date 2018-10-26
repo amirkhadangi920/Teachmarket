@@ -44,7 +44,6 @@
 				<ul role="tablist" class="nav justify-content-center">
 					<li class="nav-item"><a class="nav-link" href="#cameras" data-toggle="tab">دوربین ها</a></li>
 					<li class="nav-item"><a class="nav-link" href="#audio" data-toggle="tab">صوتی</a></li>
-					<li class="nav-item"><a class="nav-link" href="#gps" data-toggle="tab">GPS &amp; نوبار</a></li>
 					<li class="nav-item"><a class="nav-link active" href="#tv-video" data-toggle="tab">Tتلویزیون &amp; فیلم</a></li>
 					<li class="nav-item"><a class="nav-link" href="#cell-phones" data-toggle="tab">تلفن همراه</a></li>
 					<li class="nav-item"><a class="nav-link" href="#computers" data-toggle="tab">کامپیوتر</a></li>
