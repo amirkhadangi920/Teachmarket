@@ -7,7 +7,14 @@
 				<span class="delimiter"><i class="tm tm-breadcrumbs-arrow-right"></i></span><a href="index.php?page=product-category">TVs</a>
 				<span class="delimiter"><i class="tm tm-breadcrumbs-arrow-right"></i></span>60UH6150 60 اینچ 4K فوق العاده HD هوشمند تلویزیون LED
 			</nav><!-- .woocommerce-breadcrumb -->
+			
+			<div id="secondary" class="widget-area shop-sidebar" role="complementary">
+				<?php require_once 'inc/components/sidebar/single-product/product-categories-widget.php'; ?>
 
+				<?php require_once 'inc/components/sidebar/single-product/products-carousel-widget.php'; ?>
+				
+			</div>
+			
 			<div id="primary" class="content-area">
 				<main id="main" class="site-main">
 					<div class="product product-type-simple">
@@ -24,12 +31,7 @@
 				</main><!-- #main -->
 			</div><!-- #primary -->
 
-			<div id="secondary" class="widget-area shop-sidebar" role="complementary">
-				<?php require_once 'inc/components/sidebar/single-product/product-categories-widget.php'; ?>
 
-				<?php require_once 'inc/components/sidebar/single-product/products-carousel-widget.php'; ?>
-				
-			</div>
 		</div><!-- .row -->
 	</div><!-- .col-full -->
 </div><!-- #content -->

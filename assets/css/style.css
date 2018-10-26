@@ -26410,7 +26410,9 @@ form.track_order {
   margin-bottom: 3.750em; }
   .section-landscape-products-carousel .section-header {
     margin-bottom: 2.875em;
-    padding-bottom: 0.813em; }
+    padding-bottom: 0.813em; 
+	direction: rtl;
+	}
   .section-landscape-products-carousel .section-title {
     margin-bottom: 0; }
   .section-landscape-products-carousel .products-carousel .woocommerce {
@@ -26631,7 +26633,10 @@ form.track_order {
   font-size: 0.938em;
   color: #444444;
   font-weight: 300;
-  margin-top: 0.667em; }
+  margin-top: 0.667em; 
+  text-align: right;
+  direction: rtl;
+  }
   .woocommerce-breadcrumb a {
     color: #444444; }
   .woocommerce-breadcrumb .delimiter {
