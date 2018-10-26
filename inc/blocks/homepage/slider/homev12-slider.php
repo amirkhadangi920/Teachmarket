@@ -1,5 +1,5 @@
 <div class="home-v12-slider home-slider" >
-	<div class="slider-1" style="background-image: url(assets/images/slider/home-v12-background.jpg);">
+	<div class="slider-1" style="background-image: url(assets/images/slider/home-v12-background.jpg);" id="pkh-home-v12-slider-header">
 		<div class="caption">
 			<div class="pre-title">انبار</div>
 			<div class="title">حذف کردن</div>

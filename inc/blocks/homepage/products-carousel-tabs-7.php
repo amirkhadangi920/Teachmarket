@@ -1,7 +1,7 @@
 <?php
 
 	$tab_title = array(
-		'Bestsellers' , 'Treadmills' , 'Weights' , 'Benches' , 'Exercise Bikes' , 'Yoga'
+		'بهترین فروشندگان' , 'تردمیل ها' , 'وزنه' , 'نیمکت ها' , 'ورزش دوچرخه' , 'یوگا'
 	);
 
 	$tab_carousel_args = array(
@@ -47,12 +47,13 @@
 <section class="section-products-carousel-tabs">
 	<div class="section-products-carousel-tabs-wrap">
 		<header class="section-header">
-			<h2 class="section-title">مبانی آسان برای ورزش و تناسب اندام</h2>
+			
 			<ul role="tablist" class="nav justify-content-end">
 				<?php for ($i=0; $i < 6; $i++) { ?>
 				<li class="nav-item"><a class="nav-link <?php echo $i == 0 ? 'active' : ''; ?>" href="#<?php echo $id . $i; ?>" data-toggle="tab"><?php echo $tab_title[$i]; ?></a></li>
 				<?php } ?>
 			</ul>
+			<h2 class="section-title">مبانی آسان برای ورزش و تناسب اندام</h2>
 		</header>
 
 		<div class="tab-content">
@@ -70,5 +71,8 @@
 
 			<?php } ?>
 		</div><!-- .tab-content -->
+
+
+		
 	</div>
 </section>

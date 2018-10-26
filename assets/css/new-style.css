@@ -28,3 +28,18 @@
 .section-landscape-products-carousel .section-header{
     direction: rtl;
 }
+#pkh-home-v12-slider-header{
+    direction: rtl;
+}
+#pkh-home-v12-slider-header .caption{
+    left:60%;
+}
+#homev12-carousel-1 .section-header{
+    direction: rtl;
+}
+#pkh-products-carousel-tabs-header header{
+    direction: rtl;
+}
+#section-products-carousel-8 header{
+    direction: rtl;
+}
