@@ -22,15 +22,15 @@
 <section class="section-product-cards-carousel-tabs stretch-full-width section-products-carousel-tabs">
 	<div class="section-products-carousel-tabs-wrap">
 		<header class="section-header">
-			<h2 class="section-title">Hurry up! <span>Special Offers</span></h2>
+			<h2 class="section-title">عجله کن! <span>پیشنهادهای ویژه</span></h2>
 			<ul role="tablist" class="nav justify-content-center">
-				<li class="nav-item"><a class="nav-link active" href="#cameras" data-toggle="tab">Cameras</a></li>
-				<li class="nav-item"><a class="nav-link " href="#audio" data-toggle="tab">Audio</a></li>
-				<li class="nav-item"><a class="nav-link " href="#gps-navigation" data-toggle="tab">GPS &amp; Navigation</a></li>
-				<li class="nav-item"><a class="nav-link " href="#tv-video" data-toggle="tab">TV &amp; Video</a></li>
-				<li class="nav-item"><a class="nav-link " href="#cell-phones" data-toggle="tab">Cell Phones</a></li>
-				<li class="nav-item"><a class="nav-link " href="#computers" data-toggle="tab">Computers</a></li>
-				<li class="nav-item"><a class="nav-link " href="#accessories" data-toggle="tab">Accessories</a></li>
+				<li class="nav-item"><a class="nav-link active" href="#cameras" data-toggle="tab">دوربین ها</a></li>
+				<li class="nav-item"><a class="nav-link " href="#audio" data-toggle="tab">ضبط صدا </a></li>
+				<li class="nav-item"><a class="nav-link " href="#gps-navigation" data-toggle="tab">مسیر یاب ها</a></li>
+				<li class="nav-item"><a class="nav-link " href="#tv-video" data-toggle="tab">تلوزیون و فیلم ها</a></li>
+				<li class="nav-item"><a class="nav-link " href="#cell-phones" data-toggle="tab">تلفن های همراه</a></li>
+				<li class="nav-item"><a class="nav-link " href="#computers" data-toggle="tab">کامپیوتر ها</a></li>
+				<li class="nav-item"><a class="nav-link " href="#accessories" data-toggle="tab">اکسسوری</a></li>
 			</ul>
 		</header>
 

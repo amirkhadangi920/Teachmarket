@@ -4,10 +4,10 @@
 			<div style="background-size: cover; background-position: center center; background-image: url( assets/images/banner/side-1.png ); height: 207px;" class="banner-bg">
 				<div class="caption">
 					<div class="banner-info">
-						<h3 class="title"><strong>1000 mAh</strong><br><span>Power Bank Pro</span></h3>
+						<h3 class="title"><strong>1000 mAh</strong><br><span>پاور بانک</span></h3>
 					</div><!-- .banner-info -->
-					<span class="price">$ 34.99</span>
-					<span class="banner-action button">Buy Now</span>
+					<span class="price">تومان 34.99</span>
+					<span class="banner-action button">خرید</span>
 				</div><!-- .caption -->
 			</div><!-- .banner-bg -->
 		</a>
@@ -20,9 +20,9 @@
 			<div style="background-size: cover; background-position: center center; background-image: url( assets/images/banner/side-2.png ); height: 207px;" class="banner-bg">
 				<div class="caption">
 					<div class="banner-info">
-						<h3 class="title">New Arrivals<br> in<strong> Accesories</strong><br> at Best prices</h3>
+						<h3 class="title">اجناس جدید<br> در<strong> دسترس</strong><br> با بهترین قیمت</h3>
 					</div><!-- .banner-info -->
-					<span class="banner-action button">View all</span>
+					<span class="banner-action button">دیدن همه</span>
 				</div><!-- .caption -->
 			</div><!-- .banner-bg -->
 		</a>
@@ -35,9 +35,9 @@
 			<div style="background-size: cover; background-position: center center; background-image: url( assets/images/banner/side-3.png ); height: 207px;" class="banner-bg">
 				<div class="caption">
 					<div class="banner-info">
-						<h3 class="title">Catch Best<br><strong>Deals</strong> on <br>the Curved <br>Soundbars</h3>
+						<h3 class="title">بهترین<br><strong>قرارداد</strong> در <br>لورم ایپسوم <br>لورم ایپسوم</h3>
 					</div><!-- .banner-info -->
-					<span class="banner-action button">Browse</span>
+					<span class="banner-action button">جست و جو</span>
 				</div><!-- .caption -->
 			</div><!-- .banner-bg -->
 		</a>

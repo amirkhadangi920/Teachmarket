@@ -23,7 +23,7 @@
 <div class="widget widget_techmarket_products_carousel_widget">
 	<section id="sidebar-products-carousel" class="sidebar-carousel">
 		<header class="section-header">
-			<h2 class="section-title">Latest Products</h2>
+			<h2 class="section-title">آخرین محصولات</h2>
 			<div class="custom-slick-nav"></div><!-- .custom-slick-nav -->
 		</header>
 

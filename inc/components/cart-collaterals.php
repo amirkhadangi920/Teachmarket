@@ -9,21 +9,21 @@
 					<th>کل حجم</th>
 					<td data-title="Subtotal">
 						<span class="woocommerce-Price-amount amount">
-						<span class="woocommerce-Price-currencySymbol">£</span>963.94</span>
+						<span class="woocommerce-Price-currencySymbol">تومان</span>963.94</span>
 					</td>
 				</tr>
 
 				<tr class="shipping">
-					<th>Shipping</th>
+					<th>مد</th>
 					<td data-title="Shipping">نرخ ثابت</td>
 				</tr>
 
 				<tr class="order-total">
-					<th>Total</th>
+					<th>مجموع</th>
 					<td data-title="Total">
 						<strong>
 							<span class="woocommerce-Price-amount amount">
-							<span class="woocommerce-Price-currencySymbol">£</span>963.94</span>
+							<span class="woocommerce-Price-currencySymbol">تومان</span>963.94</span>
 						</strong>
 					 </td>
 				</tr>

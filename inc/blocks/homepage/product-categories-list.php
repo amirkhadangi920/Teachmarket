@@ -8,6 +8,7 @@
 			<div class="media-body">
 				<div class="head-and-list">
 					<h4 class="media-heading">
+<<<<<<< HEAD
 					<a href="index.php?page=product-category">مردانه</a></h4>
 					<ul class="sub-categories list-unstyled"> 
 						<li class="cat-item cat-item-20"><a href="index.php?page=product-category">کفش</a></li>
@@ -15,6 +16,15 @@
 						<li class="cat-item cat-item-18"><a href="index.php?page=product-category">لباس بیرون</a></li>
 						<li class="cat-item cat-item-16"><a href="index.php?page=product-category">شورت &amp; 3/4th</a></li>
 						<li class="cat-item cat-item-17"><a href="index.php?page=product-category">لباس زیر</a></li>
+=======
+					<a href="index.php?page=product-category">آقایان</a></h4>
+					<ul class="sub-categories list-unstyled"> 
+						<li class="cat-item cat-item-20"><a href="index.php?page=product-category">کفش</a></li>
+						<li class="cat-item cat-item-19"><a href="index.php?page=product-category">داخلی &amp; حفاظت می کند</a></li>
+						<li class="cat-item cat-item-18"><a href="index.php?page=product-category">لورم ایپسوم</a></li>
+						<li class="cat-item cat-item-16"><a href="index.php?page=product-category">شورت &amp; 3/4th</a></li>
+						<li class="cat-item cat-item-17"><a href="index.php?page=product-category">لورم ایپسوم</a></li>
+>>>>>>> b14ea756ac6329963c7786e3bbab6e9406fe0556
 					</ul><!-- .sub-categories --> 
 				</div><!-- .head-and-list -->
 				<a href="index.php?page=product-category" class="view-all">نمایش همه</a>
@@ -30,11 +40,19 @@
 
 			<div class="media-body">
 				<div class="head-and-list">
+<<<<<<< HEAD
 					<h4 class="media-heading"><a href="index.php?page=product-category">زنان</a></h4>
 					<ul class="sub-categories list-unstyled"> 
 						<li class="cat-item cat-item-29"><a href="index.php?page=product-category">کاپریس, شورت &amp; دامن</a></li>
 						<li class="cat-item cat-item-31"><a href="index.php?page=product-category">لباس</a></li>
 						<li class="cat-item cat-item-30"><a href="index.php?page=product-category">لباس ورزشی</a></li>
+=======
+					<h4 class="media-heading"><a href="index.php?page=product-category">بانوان</a></h4>
+					<ul class="sub-categories list-unstyled"> 
+						<li class="cat-item cat-item-29"><a href="index.php?page=product-category">کاپریس، شلوارک &amp; دامن</a></li>
+						<li class="cat-item cat-item-31"><a href="index.php?page=product-category">لباس</a></li>
+						<li class="cat-item cat-item-30"><a href="index.php?page=product-category">لباس های ورزشی</a></li>
+>>>>>>> b14ea756ac6329963c7786e3bbab6e9406fe0556
 						<li class="cat-item cat-item-27"><a href="index.php?page=product-category">تیز &amp; مخازن</a></li>
 						<li class="cat-item cat-item-28"><a href="index.php?page=product-category">لباس تنگ</a></li>
 					</ul><!-- .sub-categories --> 
@@ -54,13 +72,18 @@
 					<h4 class="media-heading">
 					<a href="index.php?page=product-category">فوتبال</a></h4>
 					<ul class="sub-categories list-unstyled"> 
+<<<<<<< HEAD
 						<li class="cat-item cat-item-42"><a href="index.php?page=product-category">چکمه</a></li>
 						<li class="cat-item cat-item-41"><a href="index.php?page=product-category">فوتبال</a></li>
+=======
+						<li class="cat-item cat-item-42"><a href="index.php?page=product-category">کفش ها</a></li>
+						<li class="cat-item cat-item-41"><a href="index.php?page=product-category">فوتبال ها</a></li>
+>>>>>>> b14ea756ac6329963c7786e3bbab6e9406fe0556
 						<li class="cat-item cat-item-40"><a href="index.php?page=product-category">نگهبان کیت</a></li>
 						<li class="cat-item cat-item-39"><a href="index.php?page=product-category">آموزش پوشیدن</a></li>
 					</ul><!-- .sub-categories --> 
 				</div><!-- .head-and-list --> 
-				<a href="index.php?page=product-category" class="view-all">View All</a>
+				<a href="index.php?page=product-category" class="view-all">نمایش همه</a>
 			</div><!-- .media-body --> 
 		</div><!-- .media --> 
 	</li><!-- .category --> 
@@ -76,7 +99,11 @@
 					<a href="index.php?page=product-category">بسکتبال</a></h4>
 					<ul class="sub-categories list-unstyled"> 
 						<li class="cat-item cat-item-49"><a href="index.php?page=product-category">ردیابهای فعالیت</a></li>
+<<<<<<< HEAD
 						<li class="cat-item cat-item-50"><a href="index.php?page=product-category">فیت بیت</a></li>
+=======
+						<li class="cat-item cat-item-50"><a href="index.php?page=product-category">لورم ایپسوم</a></li>
+>>>>>>> b14ea756ac6329963c7786e3bbab6e9406fe0556
 						<li class="cat-item cat-item-51"><a href="index.php?page=product-category">گام شمار</a></li>
 						<li class="cat-item cat-item-53"><a href="index.php?page=product-category">ساعتهای هوشمند</a></li>
 						<li class="cat-item cat-item-52"><a href="index.php?page=product-category">واقعیت مجازی</a></li>
@@ -95,12 +122,21 @@
 			<div class="media-body">
 				<div class="head-and-list">
 					<h4 class="media-heading">
+<<<<<<< HEAD
 					<a href="index.php?page=product-category">دو</a></h4>
 					<ul class="sub-categories list-unstyled"> 
 						<li class="cat-item cat-item-25"><a href="index.php?page=product-category">اکسسوری</a></li>
 						<li class="cat-item cat-item-22"><a href="index.php?page=product-category">کفش های زنانه</a></li>
 						<li class="cat-item cat-item-24"><a href="index.php?page=product-category">کفش مردانه</a></li>
 						<li class="cat-item cat-item-23"><a href="index.php?page=product-category">الکترونیک در حال اجرا</a></li>
+=======
+					<a href="index.php?page=product-category">بارانی</a></h4>
+					<ul class="sub-categories list-unstyled"> 
+						<li class="cat-item cat-item-25"><a href="index.php?page=product-category">تجهیزات جانبی</a></li>
+						<li class="cat-item cat-item-22"><a href="index.php?page=product-category">کفش های زنانه</a></li>
+						<li class="cat-item cat-item-24"><a href="index.php?page=product-category">دوندگان</a></li>
+						<li class="cat-item cat-item-23"><a href="index.php?page=product-category">الکترونیک </a></li>
+>>>>>>> b14ea756ac6329963c7786e3bbab6e9406fe0556
 					</ul><!-- .sub-categories --> 
 				</div><!-- .head-and-list -->
 				<a href="index.php?page=product-category" class="view-all">نمایش همه</a>
@@ -116,10 +152,17 @@
 			<div class="media-body">
 				<div class="head-and-list">
 					<h4 class="media-heading">
+<<<<<<< HEAD
 					<a href="index.php?page=product-category">کودکان  &amp; جوان</a></h4>
 					<ul class="sub-categories list-unstyled"> 
 						<li class="cat-item cat-item-34"><a href="index.php?page=product-category">لباس ورزشی پسرانه</a></li>
 						<li class="cat-item cat-item-33"><a href="index.php?page=product-category">جوانه زدن</a></li>
+=======
+					<a href="index.php?page=product-category">بچه ها &amp; جوانان</a></h4>
+					<ul class="sub-categories list-unstyled"> 
+						<li class="cat-item cat-item-34"><a href="index.php?page=product-category">لباس ورزشی</a></li>
+						<li class="cat-item cat-item-33"><a href="index.php?page=product-category">لباس جوانان</a></li>
+>>>>>>> b14ea756ac6329963c7786e3bbab6e9406fe0556
 						<li class="cat-item cat-item-37"><a href="index.php?page=product-category">الکترونیک</a></li>
 						<li class="cat-item cat-item-36"><a href="index.php?page=product-category">کفش</a></li>
 						<li class="cat-item cat-item-35"><a href="index.php?page=product-category">پیراهن خانم</a></li>
@@ -140,11 +183,19 @@
 			<div class="media-body">
 				<div class="head-and-list">
 					<h4 class="media-heading">
+<<<<<<< HEAD
 					<a href="index.php?page=product-category">کیسه</a></h4>
 					<ul class="sub-categories list-unstyled"> 
 						<li class="cat-item cat-item-44"><a href="index.php?page=product-category">کوله پشتی</a></li>
 						<li class="cat-item cat-item-46"><a href="index.php?page=product-category">کوله پشتی ورزشی</a></li>
 						<li class="cat-item cat-item-47"><a href="index.php?page=product-category">پیام رسانان</a></li>
+=======
+					<a href="index.php?page=product-category">تیپ بگ</a></h4>
+					<ul class="sub-categories list-unstyled"> 
+						<li class="cat-item cat-item-44"><a href="index.php?page=product-category">کوله پشتی</a></li>
+						<li class="cat-item cat-item-46"><a href="index.php?page=product-category">کوله پشتی</a></li>
+						<li class="cat-item cat-item-47"><a href="index.php?page=product-category">پیام رسان ها</a></li>
+>>>>>>> b14ea756ac6329963c7786e3bbab6e9406fe0556
 						<li class="cat-item cat-item-45"><a href="index.php?page=product-category">کیف ورزشی</a></li>
 					</ul><!-- .sub-categories --> 
 				</div><!-- .head-and-list --> 
@@ -166,7 +217,11 @@
 						<li class="cat-item cat-item-55"><a href="index.php?page=product-category">انرژی و روشنایی</a></li>
 						<li class="cat-item cat-item-56"><a href="index.php?page=product-category">ایمنی و امنیت خانه</a></li>
 						<li class="cat-item cat-item-57"><a href="index.php?page=product-category">لوازم هوشمند</a></li>
+<<<<<<< HEAD
 						<li class="cat-item cat-item-58"><a href="index.php?page=product-category">بهداشت و تناسب اندام هوشمند</a></li>
+=======
+						<li class="cat-item cat-item-58"><a href="index.php?page=product-category">بهداشت و تناسب اندام</a></li>
+>>>>>>> b14ea756ac6329963c7786e3bbab6e9406fe0556
 						<li class="cat-item cat-item-59"><a href="index.php?page=product-category">کیت هوشمند خانه و هاب ها</a></li>
 					</ul><!-- .sub-categories --> 
 				</div><!-- .head-and-list -->

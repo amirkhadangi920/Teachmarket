@@ -5,9 +5,9 @@
 				<div style="background-size: cover; background-position: center center; background-image: url( assets/images/banner/10-6.jpg ); height: 539px;" class="banner-bg">
 					<div class="caption">
 						<div class="banner-info">
-							<h3 class="title">Be Nicer <br>For Yourself</h3>				
+							<h3 class="title">لورم ایپسوم متن ساختگی. <br>لورم ایپسوم متن ساختگی.</h3>				
 						</div><!-- .banner-info -->
-						<span class="banner-action button">Check Now<i class="tm tm-long-arrow-right"></i></span>
+						<span class="banner-action button">حالا بررسی کن<i class="tm tm-long-arrow-right"></i></span>
 					</div><!-- .caption -->
 				</div><!-- .banner-bg -->
 			</a>
