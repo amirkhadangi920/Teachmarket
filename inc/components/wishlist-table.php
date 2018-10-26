@@ -10,20 +10,20 @@
                     <th class="product-thumbnail"></th>
 
                     <th class="product-name">
-                        <span class="nobr">Product Name</span>
+                        <span class="nobr">نام محصول</span>
                     </th>
 
 
                     <th class="product-price">
                         <span class="nobr">
-                            Unit Price                    
+                        قیمت واحد                    
                         </span>
                     </th>
 
 
                     <th class="product-stock-status">
                         <span class="nobr">
-                            Stock Status                    
+                        وضعیت سهام                  
                         </span>
                     </th>
 
@@ -47,27 +47,27 @@
                     </td>
 
                     <td class="product-name">
-                        <a href="index.php?page=single-product-fullwidth">4K Action Cam with  Wi-Fi &amp; GPS</a>
+                        <a href="index.php?page=single-product-fullwidth">Cam Cam Cam 4K با GPS Wi-Fi</a>
                     </td>
 
                     <td class="product-price">
                         <ins>
                             <span class="woocommerce-Price-amount amount">
-                            <span class="woocommerce-Price-currencySymbol">£</span>199.95</span>
+                            <span class="woocommerce-Price-currencySymbol">هزار تومان</span>199</span>
                         </ins> 
 
                         <del>
                             <span class="woocommerce-Price-amount amount">
-                            <span class="woocommerce-Price-currencySymbol">£</span>229.99</span>
+                            <span class="woocommerce-Price-currencySymbol">هزار تومان</span>230</span>
                         </del>                            
                     </td>
 
                     <td class="product-stock-status">
-                        <span class="wishlist-in-stock">In Stock</span>                            
+                        <span class="wishlist-in-stock">در انبار</span>                            
                     </td>
 
                     <td class="product-add-to-cart">
-                        <a class="button add_to_cart_button button alt" href="index.php?page=cart"> Add to Cart</a>                            
+                        <a class="button add_to_cart_button button alt" href="index.php?page=cart"> افزودن به سبد خرید</a>                            
                         
                     </td>
                 </tr>
@@ -87,27 +87,27 @@
                     </td>
 
                     <td class="product-name">
-                        <a href="index.php?page=single-product-fullwidth">55EG9600 - 55-Inch 2160p Smart Curved Ultra HD 3D</a>
+                        <a href="index.php?page=single-product-fullwidth">55EG9600 - 55 اینچ 2160p هوشمند منحنی Ultra HD 3D</a>
                     </td>
 
                     <td class="product-price">
                         <ins>
                             <span class="woocommerce-Price-amount amount">
-                            <span class="woocommerce-Price-currencySymbol">£</span>199.95</span>
+                            <span class="woocommerce-Price-currencySymbol">هزار تومان</span>199</span>
                         </ins> 
 
                         <del>
                             <span class="woocommerce-Price-amount amount">
-                            <span class="woocommerce-Price-currencySymbol">£</span>229.99</span>
+                            <span class="woocommerce-Price-currencySymbol">هزار تومان</span>230</span>
                         </del>                            
                     </td>
 
                     <td class="product-stock-status">
-                        <span class="wishlist-in-stock">In Stock</span>                            
+                        <span class="wishlist-in-stock">در انبار</span>                            
                     </td>
 
                     <td class="product-add-to-cart">
-                        <a class="button add_to_cart_button button alt" href="index.php?page=cart"> Add to Cart</a>                            
+                        <a class="button add_to_cart_button button alt" href="index.php?page=cart"> افزودن به سبد خرید</a>                            
                         
                     </td>
                 </tr>
@@ -127,27 +127,27 @@
                     </td>
 
                     <td class="product-name">
-                        <a href="index.php?page=single-product-fullwidth">360° Viewing Immersive VR Headset</a>
+                        <a href="index.php?page=single-product-fullwidth">360 درجه مشاهده هدست VR Immersive</a>
                     </td>
 
                     <td class="product-price">
                         <ins>
                             <span class="woocommerce-Price-amount amount">
-                            <span class="woocommerce-Price-currencySymbol">£</span>199.95</span>
+                            <span class="woocommerce-Price-currencySymbol">هزار تومان</span>199</span>
                         </ins> 
 
                         <del>
                             <span class="woocommerce-Price-amount amount">
-                            <span class="woocommerce-Price-currencySymbol">£</span>229.99</span>
+                            <span class="woocommerce-Price-currencySymbol">هزار تومان</span>230</span>
                         </del>                            
                     </td>
 
                     <td class="product-stock-status">
-                        <span class="wishlist-in-stock">In Stock</span>                            
+                        <span class="wishlist-in-stock">در انبار</span>                            
                     </td>
 
                     <td class="product-add-to-cart">
-                        <a class="button add_to_cart_button button alt" href="index.php?page=cart"> Add to Cart</a>                            
+                        <a class="button add_to_cart_button button alt" href="index.php?page=cart"> افزودن به سبد خرید</a>                            
                         
                     </td>
                 </tr>
@@ -158,7 +158,7 @@
                 <tr>
                     <td colspan="6">
                         <div class="yith-wcwl-share">
-                            <h4 class="yith-wcwl-share-title">Share on:</h4>
+                            <h4 class="yith-wcwl-share-title">به اشتراک گذاشتن:</h4>
                             <ul>
                                 <li style="list-style-type: none; display: inline-block;">
                                     <a title="Facebook" href="https://www.facebook.com/sharer.php?s=100&amp;p%5Btitle%5D=My+wishlist+on+Tech+Market&amp;p%5Burl%5D=http%3A%2F%2Flocalhost%2F%7Efarook%2Ftechmarket%2Findex.php%2Fwishlist%2Fview%2FD5ON1PW1PYO1%2F" class="facebook" target="_blank"></a>
