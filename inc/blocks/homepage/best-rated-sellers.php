@@ -116,7 +116,7 @@
 <section class="section-landscape-products-carousel-tab section-products-carousel-tabs <?php echo $section_class; ?>">
 	<div class="section-products-carousel-tabs-wrap">
 		<header class="section-header">
-			<h2 class="section-title">Best Rated Sellers</h2>
+			<h2 class="section-title">فروشگاه های معتبر</h2>
 			<ul role="tablist" class="nav justify-content-end">
 				<?php for ($i=0; $i < 4; $i++) { ?>
 					<li class="nav-item"><a class="nav-link <?php echo $i == 0 ? 'active' : ''; ?>" href="#<?php echo $id . $i; ?>" data-toggle="tab"><?php echo $tab_title[$i]; ?></a></li>

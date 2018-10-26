@@ -4,14 +4,14 @@
 			<div style="background-size: cover; background-position: center center; background-image: url( assets/images/banner/poster.jpg ); height: 703px;" class="poster-bg">
 				<div class="caption">
 					<div class="poster-info">
-						<h3 class="title"><strong>Listen in</strong> Brilliant<br> Color via</h3>									
+						<h3 class="title"><strong>گوش کن</strong> درخشان<br> در رنگ بندی متفاوت</h3>									
 						<span class="price">
-						<span>starting at</span><br>$ 34.99</span>
+						<span>شروع با</span><br>تومان 34.99</span>
 					</div><!-- .poster-info -->
 
 					<div class="poster-caption">
-						<span class="poster-action button">Start Buying</span>
-						<span class="condition">*limited time <br>offer</span>
+						<span class="poster-action button">خرید کن</span>
+						<span class="condition">*زمان محدود<br>برای تخفیف</span>
 					</div><!-- .poster-caption -->
 				</div><!-- .caption -->
 			</div><!-- .banner-bg -->

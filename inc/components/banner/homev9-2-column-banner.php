@@ -5,9 +5,9 @@
 				<div style="background-color:#cedfe9; height:695px;" class="banner-bg">
 					<div class="caption">
 						<div class="banner-info">
-							<h3 class="title"><span>The</span> <br> <strong>Wooden Circle</strong><span>Collection</span></h3>
+							<h3 class="title"><span>لورم ایپسوم</span> <br> <strong>لورم ایپسوم</strong><span>لورم ایپسوم</span></h3>
 						</div><!-- .banner-info -->
-							<span class="banner-action button">View Collection<i class="tm tm-long-arrow-right"></i></span>
+							<span class="banner-action button">مجموعه<i class="tm tm-long-arrow-right"></i></span>
 					</div><!-- .caption -->
 				</div><!-- .banner-bg -->
 			</a>

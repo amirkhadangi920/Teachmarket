@@ -37,7 +37,7 @@
 
 				<td data-title="Price" class="product-price">
 					<span class="woocommerce-Price-amount amount">
-						<span class="woocommerce-Price-currencySymbol">£</span>627.99
+						<span class="woocommerce-Price-currencySymbol">تومان</span>627.99
 					</span>						
 				</td>
 
@@ -50,7 +50,7 @@
 
 				<td data-title="Total" class="product-subtotal">
 					<span class="woocommerce-Price-amount amount">
-						<span class="woocommerce-Price-currencySymbol">£</span>627.99
+						<span class="woocommerce-Price-currencySymbol">تومان</span>627.99
 					</span> 
 					<a title="Remove this item" class="remove" href="#">×</a>						
 				</td>
@@ -80,7 +80,7 @@
 
 				<td data-title="Price" class="product-price">
 					<span class="woocommerce-Price-amount amount">
-						<span class="woocommerce-Price-currencySymbol">£</span>627.99
+						<span class="woocommerce-Price-currencySymbol">تومان</span>627.99
 					</span>						
 				</td>
 
@@ -93,7 +93,7 @@
 
 				<td data-title="Total" class="product-subtotal">
 					<span class="woocommerce-Price-amount amount">
-						<span class="woocommerce-Price-currencySymbol">£</span>627.99
+						<span class="woocommerce-Price-currencySymbol">تومان</span>627.99
 					</span> 
 					<a title="Remove this item" class="remove" href="#">×</a>						
 				</td>
@@ -123,7 +123,7 @@
 
 				<td data-title="Price" class="product-price">
 					<span class="woocommerce-Price-amount amount">
-						<span class="woocommerce-Price-currencySymbol">£</span>627.99
+						<span class="woocommerce-Price-currencySymbol">تومان</span>627.99
 					</span>						
 				</td>
 
@@ -136,7 +136,7 @@
 
 				<td data-title="Total" class="product-subtotal">
 					<span class="woocommerce-Price-amount amount">
-						<span class="woocommerce-Price-currencySymbol">£</span>627.99
+						<span class="woocommerce-Price-currencySymbol">تومان</span>627.99
 					</span> 
 					<a title="Remove this item" class="remove" href="#">×</a>						
 				</td>

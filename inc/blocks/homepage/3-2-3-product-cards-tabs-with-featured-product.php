@@ -40,15 +40,15 @@
 <section class="section-3-2-3-product-cards-tabs-with-featured-product stretch-full-width">
 	<div class="col-full">
 		<header class="section-header">
-			<h2 class="section-title">Hurry up!<span> Special Offers</span></h2>
+			<h2 class="section-title">عجله کن !<span> پیشنهادهای ویژه</span></h2>
 				<ul role="tablist" class="nav justify-content-center">
-					<li class="nav-item"><a class="nav-link" href="#cameras" data-toggle="tab">Cameras</a></li>
-					<li class="nav-item"><a class="nav-link" href="#audio" data-toggle="tab">Audio</a></li>
-					<li class="nav-item"><a class="nav-link" href="#gps" data-toggle="tab">GPS &amp; Navigation</a></li>
-					<li class="nav-item"><a class="nav-link active" href="#tv-video" data-toggle="tab">TV &amp; Video</a></li>
-					<li class="nav-item"><a class="nav-link" href="#cell-phones" data-toggle="tab">Cell Phones</a></li>
-					<li class="nav-item"><a class="nav-link" href="#computers" data-toggle="tab">Computers</a></li>
-					<li class="nav-item"><a class="nav-link" href="#accessories" data-toggle="tab">Accessories</a></li>
+					<li class="nav-item"><a class="nav-link" href="#cameras" data-toggle="tab">دوربین ها</a></li>
+					<li class="nav-item"><a class="nav-link" href="#audio" data-toggle="tab">صوتی</a></li>
+					<li class="nav-item"><a class="nav-link" href="#gps" data-toggle="tab">GPS &amp; نوبار</a></li>
+					<li class="nav-item"><a class="nav-link active" href="#tv-video" data-toggle="tab">Tتلویزیون &amp; فیلم</a></li>
+					<li class="nav-item"><a class="nav-link" href="#cell-phones" data-toggle="tab">تلفن همراه</a></li>
+					<li class="nav-item"><a class="nav-link" href="#computers" data-toggle="tab">کامپیوتر</a></li>
+					<li class="nav-item"><a class="nav-link" href="#accessories" data-toggle="tab">لوازم جانبی</a></li>
 				</ul>
 		</header><!-- .section-header -->
 
@@ -124,23 +124,23 @@
 														<ins><span class="woocommerce-Price-amount amount"><span class="woocommerce-Price-currencySymbol">$</span>3,499.99</span></ins>
 														<del><span class="woocommerce-Price-amount amount"><span class="woocommerce-Price-currencySymbol">$</span>4,129.99</span></del>
 													</span>
-													<h2 class="woocommerce-loop-product__title">X930E Series 65” 4K Ultra Slim HD  High Dynamic Range 3D</h2>
+													<h2 class="woocommerce-loop-product__title">لورم ایپسوم متن ساختگی با تولید سادگی نامفهوم از صنعت چاپ و با استفاده از طراحان گرافیک است. </h2>
 													<div class="ribbon green-label"><span>A+</span></div>
 													<div class="techmarket-product-rating">
-														<div title="Rated 0 out of 5" class="star-rating"><span style="width:0%"><strong class="rating">0</strong> out of 5</span></div> <span class="review-count">(0)</span>
+														<div title="Rated 0 out of 5" class="star-rating"><span style="width:0%"><strong class="rating">0</strong> از 5</span></div> <span class="review-count">(0)</span>
 													</div>
 												</a>
 												<div class="woocommerce-product-details__short-description">
 													<ul>
-														<li>Picture Quality Index:1300</li>
-														<li>64.5″ screen (measured diagonally from corner to corner)</li>
-														<li>Built-in Wi-Fi Smart TV means a huge world of entertainment</li>
-														<li>LED TVs perform well in all lighting conditions</li>
-														<li>2160p resolution for breathtaking HD images</li>
+														<li>لورم ایپسوم متن ساختگی با تولید سادگی نامفهوم از.</li>
+														<li>لورم ایپسوم متن ساختگی با تولید سادگی نامفهوم از.</li>
+														<li>لورم ایپسوم متن ساختگی با تولید سادگی نامفهوم از.</li>
+														<li>لورم ایپسوم متن ساختگی با تولید سادگی نامفهوم از.</li>
+														<li>لورم ایپسوم متن ساختگی با تولید سادگی نامفهوم از.</li>
 													</ul>
 												</div>
-													<a class="button add_to_cart_button" href="index.php?page=cart">Add to cart</a>
-													<a class="add-to-compare-link" href="index.php?page=compare">Add to compare</a>
+													<a class="button add_to_cart_button" href="index.php?page=cart">اضافه کردن به لیست خرید</a>
+													<a class="add-to-compare-link" href="index.php?page=compare">مقایسه کردن</a>
 											</div>
 										</div>
 									</div>
@@ -156,8 +156,8 @@
 													<a class="woocommerce-LoopProduct-link " href="index.php?page=single-product-fullwidth">
 
 														<span class="price">
-										                    <ins><span class="amount"> $939.99</span></ins>
-										                    <del><span class="amount">$627.99</span></del>
+										                    <ins><span class="amount"> تومان 939.99</span></ins>
+										                    <del><span class="amount"> تومان 627.99</span></del>
 										            	</span><!-- .price -->
 
 														<h2 class="woocommerce-loop-product__title"><?php echo $productName[$i]['product_name'] ?></h2>
@@ -167,15 +167,15 @@
 														</div>
 
 														<div class="techmarket-product-rating">
-															<div title="Rated 0 out of 5" class="star-rating"><span style="width:0%"><strong class="rating">0</strong> out of 5</span>
+															<div title="Rated 0 out of 5" class="star-rating"><span style="width:0%"><strong class="rating">0</strong> از 5</span>
 															</div>
 															<span class="review-count">(0)</span>
 														</div><!-- .techmarket-product-rating -->
 													</a>
 
 													<div class="hover-area">
-														<a class="button add_to_cart_button" href="index.php?page=cart" >Add to cart</a>
-														<a class="add-to-compare-link" href="index.php?page=compare">Add to compare</a>
+														<a class="button add_to_cart_button" href="index.php?page=cart" >اضافه کردن به لیست خرید</a>
+														<a class="add-to-compare-link" href="index.php?page=compare">مقایسه کردن</a>
 													</div><!-- .hover-area -->
 												</div><!-- .media-body -->
 											</div><!-- .media -->
@@ -264,26 +264,26 @@
 											<div class="media-body">
 												<a class="woocommerce-LoopProduct-link woocommerce-loop-product__link" href="index.php?page=single-product-fullwidth">
 													<span class="price">
-														<ins><span class="woocommerce-Price-amount amount"><span class="woocommerce-Price-currencySymbol">$</span>3,499.99</span></ins>
-														<del><span class="woocommerce-Price-amount amount"><span class="woocommerce-Price-currencySymbol">$</span>4,129.99</span></del>
+														<ins><span class="woocommerce-Price-amount amount"><span class="woocommerce-Price-currencySymbol">تومان</span>3,499.99</span></ins>
+														<del><span class="woocommerce-Price-amount amount"><span class="woocommerce-Price-currencySymbol">تومان</span>4,129.99</span></del>
 													</span>
-													<h2 class="woocommerce-loop-product__title">X930E Series 65” 4K Ultra Slim HD  High Dynamic Range 3D</h2>
-													<div class="ribbon green-label"><span>A+</span></div>
+													<h2 class="woocommerce-loop-product__title">لورم ایپسوم متن ساختگی با تولید سادگی نامفهوم از صنعت چاپ و با استفاده از طراحان گرافیک است. </h2>
+													<div class="ribbon green-label"><span>آ+</span></div>
 													<div class="techmarket-product-rating">
-														<div title="Rated 0 out of 5" class="star-rating"><span style="width:0%"><strong class="rating">0</strong> out of 5</span></div> <span class="review-count">(0)</span>
+														<div title="Rated 0 out of 5" class="star-rating"><span style="width:0%"><strong class="rating">0</strong> از 5</span></div> <span class="review-count">(0)</span>
 													</div>
 												</a>
 												<div class="woocommerce-product-details__short-description">
 													<ul>
-														<li>Picture Quality Index:1300</li>
-														<li>64.5″ screen (measured diagonally from corner to corner)</li>
-														<li>Built-in Wi-Fi Smart TV means a huge world of entertainment</li>
-														<li>LED TVs perform well in all lighting conditions</li>
-														<li>2160p resolution for breathtaking HD images</li>
+														<li>لورم ایپسوم متن ساختگی با تولید سادگی نامفهوم از.</li>
+														<li>لورم ایپسوم متن ساختگی با تولید سادگی نامفهوم از.</li>
+														<li>لورم ایپسوم متن ساختگی با تولید سادگی نامفهوم از.</li>
+														<li>لورم ایپسوم متن ساختگی با تولید سادگی نامفهوم از.</li>
+														<li>لورم ایپسوم متن ساختگی با تولید سادگی نامفهوم از.</li>
 													</ul>
 												</div>
-													<a class="button add_to_cart_button" href="index.php?page=cart">Add to cart</a>
-													<a class="add-to-compare-link" href="index.php?page=compare">Add to compare</a>
+													<a class="button add_to_cart_button" href="index.php?page=cart">اضافه کردن به لیست خرید</a>
+													<a class="add-to-compare-link" href="index.php?page=compare">مقایسه کردن</a>
 											</div>
 										</div>
 									</div>
@@ -299,8 +299,8 @@
 													<a class="woocommerce-LoopProduct-link " href="index.php?page=single-product-fullwidth">
 
 														<span class="price">
-										                    <ins><span class="amount"> $939.99</span></ins>
-										                    <del><span class="amount">$627.99</span></del>
+										                    <ins><span class="amount"> تومان 939.99</span></ins>
+										                    <del><span class="amount"> تومان 627.99</span></del>
 										            	</span><!-- .price -->
 
 														<h2 class="woocommerce-loop-product__title"><?php echo $productName[$i]['product_name'] ?></h2>
@@ -310,15 +310,15 @@
 														</div>
 
 														<div class="techmarket-product-rating">
-															<div title="Rated 0 out of 5" class="star-rating"><span style="width:0%"><strong class="rating">0</strong> out of 5</span>
+															<div title="Rated 0 out of 5" class="star-rating"><span style="width:0%"><strong class="rating">0</strong> از 5</span>
 															</div>
 															<span class="review-count">(0)</span>
 														</div><!-- .techmarket-product-rating -->
 													</a>
 
 													<div class="hover-area">
-														<a class="button add_to_cart_button" href="index.php?page=cart" >Add to cart</a>
-														<a class="add-to-compare-link" href="index.php?page=compare">Add to compare</a>
+														<a class="button add_to_cart_button" href="index.php?page=cart" >اضافه کردن به لیست خرید</a>
+														<a class="add-to-compare-link" href="index.php?page=compare">مقایسه کردن</a>
 													</div><!-- .hover-area -->
 												</div><!-- .media-body -->
 											</div><!-- .media -->
@@ -410,23 +410,23 @@
 														<ins><span class="woocommerce-Price-amount amount"><span class="woocommerce-Price-currencySymbol">$</span>3,499.99</span></ins>
 														<del><span class="woocommerce-Price-amount amount"><span class="woocommerce-Price-currencySymbol">$</span>4,129.99</span></del>
 													</span>
-													<h2 class="woocommerce-loop-product__title">X930E Series 65” 4K Ultra Slim HD  High Dynamic Range 3D</h2>
-													<div class="ribbon green-label"><span>A+</span></div>
+													<h2 class="woocommerce-loop-product__title">لورم ایپسوم متن ساختگی با تولید سادگی نامفهوم از صنعت چاپ و با استفاده از طراحان گرافیک است. /h2>
+													<div class="ribbon green-label"><span>آ+</span></div>
 													<div class="techmarket-product-rating">
 														<div title="Rated 0 out of 5" class="star-rating"><span style="width:0%"><strong class="rating">0</strong> out of 5</span></div> <span class="review-count">(0)</span>
 													</div>
 												</a>
 												<div class="woocommerce-product-details__short-description">
 													<ul>
-														<li>Picture Quality Index:1300</li>
-														<li>64.5″ screen (measured diagonally from corner to corner)</li>
-														<li>Built-in Wi-Fi Smart TV means a huge world of entertainment</li>
-														<li>LED TVs perform well in all lighting conditions</li>
-														<li>2160p resolution for breathtaking HD images</li>
+														<li>لورم ایپسوم متن ساختگی با تولید سادگی نامفهوم از.</li>
+														<li>لورم ایپسوم متن ساختگی با تولید سادگی نامفهوم از.</li>
+														<li>لورم ایپسوم متن ساختگی با تولید سادگی نامفهوم از.</li>
+														<li>لورم ایپسوم متن ساختگی با تولید سادگی نامفهوم از.</li>
+														<li>لورم ایپسوم متن ساختگی با تولید سادگی نامفهوم از.</li>
 													</ul>
 												</div>
-													<a class="button add_to_cart_button" href="index.php?page=cart">Add to cart</a>
-													<a class="add-to-compare-link" href="index.php?page=compare">Add to compare</a>
+													<a class="button add_to_cart_button" href="index.php?page=cart">اضافه کردن به لیست خرید</a>
+													<a class="add-to-compare-link" href="index.php?page=compare">مقایسه کردن</a>
 											</div>
 										</div>
 									</div>
@@ -442,8 +442,8 @@
 													<a class="woocommerce-LoopProduct-link " href="index.php?page=single-product-fullwidth">
 
 														<span class="price">
-										                    <ins><span class="amount"> $939.99</span></ins>
-										                    <del><span class="amount">$627.99</span></del>
+										                    <ins><span class="amount"> تومان 939.99</span></ins>
+										                    <del><span class="amount"> تومان 627.99</span></del>
 										            	</span><!-- .price -->
 
 														<h2 class="woocommerce-loop-product__title"><?php echo $productName[$i]['product_name'] ?></h2>
@@ -453,15 +453,15 @@
 														</div>
 
 														<div class="techmarket-product-rating">
-															<div title="Rated 0 out of 5" class="star-rating"><span style="width:0%"><strong class="rating">0</strong> out of 5</span>
+															<div title="Rated 0 out of 5" class="star-rating"><span style="width:0%"><strong class="rating">0</strong> از 5</span>
 															</div>
 															<span class="review-count">(0)</span>
 														</div><!-- .techmarket-product-rating -->
 													</a>
 
 													<div class="hover-area">
-														<a class="button add_to_cart_button" href="index.php?page=cart" >Add to cart</a>
-														<a class="add-to-compare-link" href="index.php?page=compare">Add to compare</a>
+														<a class="button add_to_cart_button" href="index.php?page=cart" >اضافه کردن به لیست خرید</a>
+														<a class="add-to-compare-link" href="index.php?page=compare">مقایسه کردن</a>
 													</div><!-- .hover-area -->
 												</div><!-- .media-body -->
 											</div><!-- .media -->
@@ -550,26 +550,26 @@
 											<div class="media-body">
 												<a class="woocommerce-LoopProduct-link woocommerce-loop-product__link" href="index.php?page=single-product-fullwidth">
 													<span class="price">
-														<ins><span class="woocommerce-Price-amount amount"><span class="woocommerce-Price-currencySymbol">$</span>3,499.99</span></ins>
-														<del><span class="woocommerce-Price-amount amount"><span class="woocommerce-Price-currencySymbol">$</span>4,129.99</span></del>
+														<ins><span class="woocommerce-Price-amount amount"><span class="woocommerce-Price-currencySymbol">تومان</span>3,499.99</span></ins>
+														<del><span class="woocommerce-Price-amount amount"><span class="woocommerce-Price-currencySymbol">تومان</span>4,129.99</span></del>
 													</span>
-													<h2 class="woocommerce-loop-product__title">X930E Series 65” 4K Ultra Slim HD  High Dynamic Range 3D</h2>
-													<div class="ribbon green-label"><span>A+</span></div>
+													<h2 class="woocommerce-loop-product__title">لورم ایپسوم متن ساختگی با تولید سادگی نامفهوم از صنعت چاپ و با استفاده از طراحان گرافیک است. </h2>
+													<div class="ribbon green-label"><span>آ+</span></div>
 													<div class="techmarket-product-rating">
-														<div title="Rated 0 out of 5" class="star-rating"><span style="width:0%"><strong class="rating">0</strong> out of 5</span></div> <span class="review-count">(0)</span>
+														<div title="Rated 0 out of 5" class="star-rating"><span style="width:0%"><strong class="rating">0</strong> از 5</span></div> <span class="review-count">(0)</span>
 													</div>
 												</a>
 												<div class="woocommerce-product-details__short-description">
 													<ul>
-														<li>Picture Quality Index:1300</li>
-														<li>64.5″ screen (measured diagonally from corner to corner)</li>
-														<li>Built-in Wi-Fi Smart TV means a huge world of entertainment</li>
-														<li>LED TVs perform well in all lighting conditions</li>
-														<li>2160p resolution for breathtaking HD images</li>
+														<li>لورم ایپسوم متن ساختگی با تولید سادگی نامفهوم از.</li>
+														<li>لورم ایپسوم متن ساختگی با تولید سادگی نامفهوم از.</li>
+														<li>لورم ایپسوم متن ساختگی با تولید سادگی نامفهوم از.</li>
+														<li>لورم ایپسوم متن ساختگی با تولید سادگی نامفهوم از.</li>
+														<li>لورم ایپسوم متن ساختگی با تولید سادگی نامفهوم از.</li>
 													</ul>
 												</div>
-													<a class="button add_to_cart_button" href="index.php?page=cart">Add to cart</a>
-													<a class="add-to-compare-link" href="index.php?page=compare">Add to compare</a>
+													<a class="button add_to_cart_button" href="index.php?page=cart">اضافه کردن به لیست خرید</a>
+													<a class="add-to-compare-link" href="index.php?page=compare">مقایسه کردن</a>
 											</div>
 										</div>
 									</div>
@@ -585,8 +585,8 @@
 													<a class="woocommerce-LoopProduct-link " href="index.php?page=single-product-fullwidth">
 
 														<span class="price">
-										                    <ins><span class="amount"> $939.99</span></ins>
-										                    <del><span class="amount">$627.99</span></del>
+										                    <ins><span class="amount"> تومان 939.99</span></ins>
+										                    <del><span class="amount"> تومان 627.99</span></del>
 										            	</span><!-- .price -->
 
 														<h2 class="woocommerce-loop-product__title"><?php echo $productName[$i]['product_name'] ?></h2>
@@ -596,15 +596,15 @@
 														</div>
 
 														<div class="techmarket-product-rating">
-															<div title="Rated 0 out of 5" class="star-rating"><span style="width:0%"><strong class="rating">0</strong> out of 5</span>
+															<div title="Rated 0 out of 5" class="star-rating"><span style="width:0%"><strong class="rating">0</strong> از 5</span>
 															</div>
 															<span class="review-count">(0)</span>
 														</div><!-- .techmarket-product-rating -->
 													</a>
 
 													<div class="hover-area">
-														<a class="button add_to_cart_button" href="index.php?page=cart" >Add to cart</a>
-														<a class="add-to-compare-link" href="index.php?page=compare">Add to compare</a>
+														<a class="button add_to_cart_button" href="index.php?page=cart" >اضافه کردن به لیست خرید</a>
+														<a class="add-to-compare-link" href="index.php?page=compare">مقایسه کردن</a>
 													</div><!-- .hover-area -->
 												</div><!-- .media-body -->
 											</div><!-- .media -->
@@ -693,26 +693,26 @@
 											<div class="media-body">
 												<a class="woocommerce-LoopProduct-link woocommerce-loop-product__link" href="index.php?page=single-product-fullwidth">
 													<span class="price">
-														<ins><span class="woocommerce-Price-amount amount"><span class="woocommerce-Price-currencySymbol">$</span>3,499.99</span></ins>
-														<del><span class="woocommerce-Price-amount amount"><span class="woocommerce-Price-currencySymbol">$</span>4,129.99</span></del>
+														<ins><span class="woocommerce-Price-amount amount"><span class="woocommerce-Price-currencySymbol">تومان</span>3,499.99</span></ins>
+														<del><span class="woocommerce-Price-amount amount"><span class="woocommerce-Price-currencySymbol">تومان</span>4,129.99</span></del>
 													</span>
-													<h2 class="woocommerce-loop-product__title">X930E Series 65” 4K Ultra Slim HD  High Dynamic Range 3D</h2>
-													<div class="ribbon green-label"><span>A+</span></div>
+													<h2 class="woocommerce-loop-product__title">لورم ایپسوم متن ساختگی با تولید سادگی نامفهوم از صنعت چاپ و با استفاده از طراحان گرافیک است. </h2>
+													<div class="ribbon green-label"><span>آ+</span></div>
 													<div class="techmarket-product-rating">
-														<div title="Rated 0 out of 5" class="star-rating"><span style="width:0%"><strong class="rating">0</strong> out of 5</span></div> <span class="review-count">(0)</span>
+														<div title="Rated 0 out of 5" class="star-rating"><span style="width:0%"><strong class="rating">0</strong> از 5</span></div> <span class="review-count">(0)</span>
 													</div>
 												</a>
 												<div class="woocommerce-product-details__short-description">
 													<ul>
-														<li>Picture Quality Index:1300</li>
-														<li>64.5″ screen (measured diagonally from corner to corner)</li>
-														<li>Built-in Wi-Fi Smart TV means a huge world of entertainment</li>
-														<li>LED TVs perform well in all lighting conditions</li>
-														<li>2160p resolution for breathtaking HD images</li>
+														<li>لورم ایپسوم متن ساختگی با تولید سادگی نامفهوم از.</li>
+														<li>لورم ایپسوم متن ساختگی با تولید سادگی نامفهوم از.</li>
+														<li>لورم ایپسوم متن ساختگی با تولید سادگی نامفهوم از.</li>
+														<li>لورم ایپسوم متن ساختگی با تولید سادگی نامفهوم از.</li>
+														<li>لورم ایپسوم متن ساختگی با تولید سادگی نامفهوم از.</li>
 													</ul>
 												</div>
-													<a class="button add_to_cart_button" href="index.php?page=cart">Add to cart</a>
-													<a class="add-to-compare-link" href="index.php?page=compare">Add to compare</a>
+													<a class="button add_to_cart_button" href="index.php?page=cart">اضافه کردن به لیست خرید</a>
+													<a class="add-to-compare-link" href="index.php?page=compare">مقایسه کردن</a>
 											</div>
 										</div>
 									</div>
@@ -728,8 +728,8 @@
 													<a class="woocommerce-LoopProduct-link " href="index.php?page=single-product-fullwidth">
 
 														<span class="price">
-										                    <ins><span class="amount"> $939.99</span></ins>
-										                    <del><span class="amount">$627.99</span></del>
+										                    <ins><span class="amount"> تومان 939.99</span></ins>
+										                    <del><span class="amount"> تومان 627.99</span></del>
 										            	</span><!-- .price -->
 
 														<h2 class="woocommerce-loop-product__title"><?php echo $productName[$i]['product_name'] ?></h2>
@@ -739,15 +739,15 @@
 														</div>
 
 														<div class="techmarket-product-rating">
-															<div title="Rated 0 out of 5" class="star-rating"><span style="width:0%"><strong class="rating">0</strong> out of 5</span>
+															<div title="Rated 0 out of 5" class="star-rating"><span style="width:0%"><strong class="rating">0</strong> از 5</span>
 															</div>
 															<span class="review-count">(0)</span>
 														</div><!-- .techmarket-product-rating -->
 													</a>
 
 													<div class="hover-area">
-														<a class="button add_to_cart_button" href="index.php?page=cart" >Add to cart</a>
-														<a class="add-to-compare-link" href="index.php?page=compare">Add to compare</a>
+														<a class="button add_to_cart_button" href="index.php?page=cart" >اضافه کردن به لیست خرید</a>
+														<a class="add-to-compare-link" href="index.php?page=compare">مقایسه کردن</a>
 													</div><!-- .hover-area -->
 												</div><!-- .media-body -->
 											</div><!-- .media -->
@@ -836,26 +836,26 @@
 											<div class="media-body">
 												<a class="woocommerce-LoopProduct-link woocommerce-loop-product__link" href="index.php?page=single-product-fullwidth">
 													<span class="price">
-														<ins><span class="woocommerce-Price-amount amount"><span class="woocommerce-Price-currencySymbol">$</span>3,499.99</span></ins>
-														<del><span class="woocommerce-Price-amount amount"><span class="woocommerce-Price-currencySymbol">$</span>4,129.99</span></del>
+														<ins><span class="woocommerce-Price-amount amount"><span class="woocommerce-Price-currencySymbol">تومان</span>3,499.99</span></ins>
+														<del><span class="woocommerce-Price-amount amount"><span class="woocommerce-Price-currencySymbol">تومان</span>4,129.99</span></del>
 													</span>
-													<h2 class="woocommerce-loop-product__title">X930E Series 65” 4K Ultra Slim HD  High Dynamic Range 3D</h2>
+													<h2 class="woocommerce-loop-product__title">لورم ایپسوم متن ساختگی با تولید سادگی نامفهوم از صنعت چاپ و با استفاده از طراحان گرافیک است. </h2>
 													<div class="ribbon green-label"><span>A+</span></div>
 													<div class="techmarket-product-rating">
-														<div title="Rated 0 out of 5" class="star-rating"><span style="width:0%"><strong class="rating">0</strong> out of 5</span></div> <span class="review-count">(0)</span>
+														<div title="Rated 0 out of 5" class="star-rating"><span style="width:0%"><strong class="rating">0</strong> از 5</span></div> <span class="review-count">(0)</span>
 													</div>
 												</a>
 												<div class="woocommerce-product-details__short-description">
 													<ul>
-														<li>Picture Quality Index:1300</li>
-														<li>64.5″ screen (measured diagonally from corner to corner)</li>
-														<li>Built-in Wi-Fi Smart TV means a huge world of entertainment</li>
-														<li>LED TVs perform well in all lighting conditions</li>
-														<li>2160p resolution for breathtaking HD images</li>
+														<li>لورم ایپسوم متن ساختگی با تولید سادگی نامفهوم از.</li>
+														<li>لورم ایپسوم متن ساختگی با تولید سادگی نامفهوم از.</li>
+														<li>لورم ایپسوم متن ساختگی با تولید سادگی نامفهوم از.</li>
+														<li>لورم ایپسوم متن ساختگی با تولید سادگی نامفهوم از.</li>
+														<li>لورم ایپسوم متن ساختگی با تولید سادگی نامفهوم از.</li>
 													</ul>
 												</div>
-													<a class="button add_to_cart_button" href="index.php?page=cart">Add to cart</a>
-													<a class="add-to-compare-link" href="index.php?page=compare">Add to compare</a>
+													<a class="button add_to_cart_button" href="index.php?page=cart">اضافه کردن به لیست خرید</a>
+													<a class="add-to-compare-link" href="index.php?page=compare">مقایسه کردن</a>
 											</div>
 										</div>
 									</div>
@@ -871,8 +871,8 @@
 													<a class="woocommerce-LoopProduct-link " href="index.php?page=single-product-fullwidth">
 
 														<span class="price">
-										                    <ins><span class="amount"> $939.99</span></ins>
-										                    <del><span class="amount">$627.99</span></del>
+										                    <ins><span class="amount"> تومان 939.99</span></ins>
+										                    <del><span class="amount"> تومان 627.99</span></del>
 										            	</span><!-- .price -->
 
 														<h2 class="woocommerce-loop-product__title"><?php echo $productName[$i]['product_name'] ?></h2>
@@ -882,15 +882,15 @@
 														</div>
 
 														<div class="techmarket-product-rating">
-															<div title="Rated 0 out of 5" class="star-rating"><span style="width:0%"><strong class="rating">0</strong> out of 5</span>
+															<div title="Rated 0 out of 5" class="star-rating"><span style="width:0%"><strong class="rating">0</strong> از 5</span>
 															</div>
 															<span class="review-count">(0)</span>
 														</div><!-- .techmarket-product-rating -->
 													</a>
 
 													<div class="hover-area">
-														<a class="button add_to_cart_button" href="index.php?page=cart" >Add to cart</a>
-														<a class="add-to-compare-link" href="index.php?page=compare">Add to compare</a>
+														<a class="button add_to_cart_button" href="index.php?page=cart" >اضافه کردن به لیست خرید</a>
+														<a class="add-to-compare-link" href="index.php?page=compare">مقایسه کردن</a>
 													</div><!-- .hover-area -->
 												</div><!-- .media-body -->
 											</div><!-- .media -->
@@ -979,26 +979,26 @@
 											<div class="media-body">
 												<a class="woocommerce-LoopProduct-link woocommerce-loop-product__link" href="index.php?page=single-product-fullwidth">
 													<span class="price">
-														<ins><span class="woocommerce-Price-amount amount"><span class="woocommerce-Price-currencySymbol">$</span>3,499.99</span></ins>
-														<del><span class="woocommerce-Price-amount amount"><span class="woocommerce-Price-currencySymbol">$</span>4,129.99</span></del>
+														<ins><span class="woocommerce-Price-amount amount"><span class="woocommerce-Price-currencySymbol">تومان</span>3,499.99</span></ins>
+														<del><span class="woocommerce-Price-amount amount"><span class="woocommerce-Price-currencySymbol">تومان</span>4,129.99</span></del>
 													</span>
-													<h2 class="woocommerce-loop-product__title">X930E Series 65” 4K Ultra Slim HD  High Dynamic Range 3D</h2>
-													<div class="ribbon green-label"><span>A+</span></div>
+													<h2 class="woocommerce-loop-product__title">لورم ایپسوم متن ساختگی با تولید سادگی نامفهوم از صنعت چاپ و با استفاده از طراحان گرافیک است. </h2>
+													<div class="ribbon green-label"><span>آ+</span></div>
 													<div class="techmarket-product-rating">
-														<div title="Rated 0 out of 5" class="star-rating"><span style="width:0%"><strong class="rating">0</strong> out of 5</span></div> <span class="review-count">(0)</span>
+														<div title="Rated 0 out of 5" class="star-rating"><span style="width:0%"><strong class="rating">0</strong> از 5</span></div> <span class="review-count">(0)</span>
 													</div>
 												</a>
 												<div class="woocommerce-product-details__short-description">
 													<ul>
-														<li>Picture Quality Index:1300</li>
-														<li>64.5″ screen (measured diagonally from corner to corner)</li>
-														<li>Built-in Wi-Fi Smart TV means a huge world of entertainment</li>
-														<li>LED TVs perform well in all lighting conditions</li>
-														<li>2160p resolution for breathtaking HD images</li>
+														<li>لورم ایپسوم متن ساختگی با تولید سادگی نامفهوم از.</li>
+														<li>لورم ایپسوم متن ساختگی با تولید سادگی نامفهوم از.</li>
+														<li>لورم ایپسوم متن ساختگی با تولید سادگی نامفهوم از.</li>
+														<li>لورم ایپسوم متن ساختگی با تولید سادگی نامفهوم از.</li>
+														<li>لورم ایپسوم متن ساختگی با تولید سادگی نامفهوم از.</li>
 													</ul>
 												</div>
-													<a class="button add_to_cart_button" href="index.php?page=cart">Add to cart</a>
-													<a class="add-to-compare-link" href="index.php?page=compare">Add to compare</a>
+													<a class="button add_to_cart_button" href="index.php?page=cart">اضافه به لیست خرید</a>
+													<a class="add-to-compare-link" href="index.php?page=compare">مقایسه کردن</a>
 											</div>
 										</div>
 									</div>
@@ -1014,8 +1014,8 @@
 													<a class="woocommerce-LoopProduct-link " href="index.php?page=single-product-fullwidth">
 
 														<span class="price">
-										                    <ins><span class="amount"> $939.99</span></ins>
-										                    <del><span class="amount">$627.99</span></del>
+										                    <ins><span class="amount"> تومان 939.99</span></ins>
+										                    <del><span class="amount"> تومان 627.99</span></del>
 										            	</span><!-- .price -->
 
 														<h2 class="woocommerce-loop-product__title"><?php echo $productName[$i]['product_name'] ?></h2>
@@ -1025,15 +1025,15 @@
 														</div>
 
 														<div class="techmarket-product-rating">
-															<div title="Rated 0 out of 5" class="star-rating"><span style="width:0%"><strong class="rating">0</strong> out of 5</span>
+															<div title="Rated 0 out of 5" class="star-rating"><span style="width:0%"><strong class="rating">0</strong> از 5</span>
 															</div>
 															<span class="review-count">(0)</span>
 														</div><!-- .techmarket-product-rating -->
 													</a>
 
 													<div class="hover-area">
-														<a class="button add_to_cart_button" href="index.php?page=cart" >Add to cart</a>
-														<a class="add-to-compare-link" href="index.php?page=compare">Add to compare</a>
+														<a class="button add_to_cart_button" href="index.php?page=cart" >اضافه کردن به لیست خرید</a>
+														<a class="add-to-compare-link" href="index.php?page=compare">مقایسه کردن</a>
 													</div><!-- .hover-area -->
 												</div><!-- .media-body -->
 											</div><!-- .media -->
