@@ -46,7 +46,7 @@
 		$column = '8';
 		
 		$tab_title = array(
-			'Clotching' , 'Jerseys' , 'Basketballs' , 'Hats' , 'Footwear' , 'Accesories'
+			'لباس ها' , 'جلیقه' , 'بسکتبال' , 'کلاه ها' , 'کفش ها' , 'لوازم جانبی'
 		);
 
 		$section_class = '';
@@ -59,7 +59,7 @@
 		$column = '8';
 
 		$tab_title = array(
-			'Bestsellers' , 'Dresses' , 'Tops' , 'Sweaters' , 'Activewear' , 'Shorts'
+			'بهترین فروشندگان' , 'لباس' , 'بالا' , 'ژاکت' , 'Activewear' , 'شورت'
 		);
 
 		$section_class = '';
@@ -69,7 +69,7 @@
 		$section_title = 'Shop New Arrivals 2017';
 
 		$tab_title = array(
-			'All Shoes' , 'Men' , 'Women' , 'Boys' , 'Girls' , 'Teens'
+			'کفش ها' , 'مرد ها' , 'زن ها' , 'پسر ها' , 'دختر ها' , 'نوجوانان'
 		);
 
 		$section_class = 'tab-wrap carousel-tab-wrap';
@@ -125,7 +125,7 @@
 		$column = '8';
 
 		$tab_title = array(
-			'Bestsellers' , 'Android Phones' , 'IOS Phones' , 'Tablets' , 'Accessories'
+			'بهترین فروشندگان' , 'گوشی آندروید' , 'IOS Phones' , 'تبلت' , 'اکسسوری'
 		);
 
 		$tab_carousel_args = array(
@@ -170,7 +170,7 @@
 ?>
 
 <section class="section-products-carousel-tabs <?php echo $section_class; ?>">
-	<div class="section-products-carousel-tabs-wrap">
+	<div class="section-products-carousel-tabs-wrap" id="pkh-products-carousel-tabs-header">
 		<header class="section-header">
 			<h2 class="section-title"><?php echo $section_title; ?></h2>
 			<ul role="tablist" class="nav <?php echo $nav_class; ?>">
