@@ -5,7 +5,7 @@
 				<div style="background-size: cover; background-position: center center; background-image: url( assets/images/organic/organic-banner1.jpg); height: 259px;" class="banner-bg">
 					<div class="caption">
 						<div class="banner-info">
-							<h3 class="title"><strong>Buy one. Get One.</strong><br>  50% off for selected products in Fitness category.</h3>				
+							<h3 class="title"><strong>با خرید یکی .یکی رایگان دریافت کنید</strong><br>50٪ تخفیف برای محصولات انتخاب شده در بخش تناسب اندام.</h3>				
 						</div><!-- /.banner-info -->
 						<span class="banner-action button">Browse</span>
 					</div><!-- /.caption -->
@@ -18,10 +18,10 @@
 				<div style="background-size: cover; background-position: center center; background-image: url( assets/images/organic/organic-banner2.jpg ); height: 259px;" class="banner-bg">
 					<div class="caption">
 						<div class="banner-info">
-							<h3 class="title"><strong>Chocolate?</strong> <br>  Kitchen Hazelnut.</h3>				
+							<h3 class="title"><strong>شکلات?</strong> <br> فندقی اشپزخانه</h3>				
 						</div><!-- /.banner-info -->
 						<span class="price">$34.99</span>
-						<span class="banner-action button">Buy Now</span>
+						<span class="banner-action button">فروشگاه</span>
 					</div><!-- /.caption -->
 				</div><!-- /.banner-bg -->
 			</a>
