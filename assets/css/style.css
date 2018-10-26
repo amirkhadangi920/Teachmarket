@@ -14273,7 +14273,9 @@ form.woocommerce-checkout.checkout .col2-set .woocommerce-shipping-fields .wooco
   letter-spacing: -0.01em; }
 
 .footer-newsletter .newsletter-header, .footer-newsletter .newsletter-body {
-  float: left; }
+  float: left; 
+  padding-right:45px;
+	 }
 
 .footer-newsletter .newsletter-header {
   text-align: right;
