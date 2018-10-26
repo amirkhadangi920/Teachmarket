@@ -5586,8 +5586,11 @@ button.menu-toggle {
       font-size: 2em; }
 
 .banner.text-in-left .banner-bg {
-  padding-left: 2.188em;
-  justify-content: flex-start; }
+  padding-right: 2.188em;
+  justify-content: flex-start;
+  direction:rtl;
+  text-align:right;
+  }
 
 .banner.text-in-right .banner-bg {
   padding-right: 4.375em;
