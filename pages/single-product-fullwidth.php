@@ -1,4 +1,4 @@
-<div id="content" class="site-content" tabindex="-1">
+<div id="content" class="site-content" tabindex="-1">
 	<div class="col-full">
 		<div class="row">
 			<nav class="woocommerce-breadcrumb">
@@ -9,7 +9,7 @@
 			
 			<div id="primary" class="content-area">
 				<main id="main" class="site-main">
-					<div class="product product-type-simple">
+					<div class="product product-type-simple" dir="rtl">
 						<div class="single-product-wrapper">
 							<?php require_once 'inc/blocks/single-product/single-product-images.php'; ?>
 							<?php require_once 'inc/blocks/single-product/single-product-summary.php'; ?>

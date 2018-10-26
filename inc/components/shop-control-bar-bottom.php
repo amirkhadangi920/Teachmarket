@@ -4,8 +4,7 @@
 <<<<<<< HEAD
 			<option value="20">نمایش 20</option>
 =======
-		<option value="20">نمایش 20</option>
->>>>>>> 45009bebadc289596e5051465fa6af50cbf9178a
+
 			<option value="40">نمایش 40</option>
 			<option value="-1">نمایش همه</option>
 		</select>
