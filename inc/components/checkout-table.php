@@ -3,7 +3,7 @@
 	<div id="customer_details" class="col2-set">
 		<div class="col-1">
 			<div class="woocommerce-billing-fields">
-				<h3>Billing Details</h3>
+				<h3>جزئیات صورتحساب</h3>
 				<div class="woocommerce-billing-fields__field-wrapper-outer">
 					<div class="woocommerce-billing-fields__field-wrapper">
 				
@@ -56,7 +56,7 @@
 				<h3 id="ship-to-different-address">
 					<label class="collapsed woocommerce-form__label woocommerce-form__label-for-checkbox checkbox" data-toggle="collapse" data-target="#shipping-address" aria-controls="shipping-address">
 						<input id="ship-to-different-address-checkbox" class="woocommerce-form__input woocommerce-form__input-checkbox input-checkbox" type="checkbox" value="1" name="ship_to_different_address" >
-						<span>Ship to a different address?</span>
+						<span>به آدرس دیگری بفرستید؟</span>
 					</label>
 				</h3>
 
@@ -80,7 +80,7 @@
 			<div class="woocommerce-additional-fields">
 
 				<div class="woocommerce-additional-fields__field-wrapper">
-					<p id="order_comments_field" class="form-row notes"><label class="" for="order_comments">Order notes</label><textarea cols="5" rows="2" placeholder="Notes about your order, e.g. special notes for delivery." id="order_comments" class="input-text " name="order_comments"></textarea></p>					
+					<p id="order_comments_field" class="form-row notes"><label class="" for="order_comments">یادداشت ها</label><textarea cols="5" rows="2" placeholder="پیشنهاد خود را بنویسید, e.g. یادداشت های ویژه برای تحویل." id="order_comments" class="input-text " name="order_comments"></textarea></p>					
 				</div><!-- .woocommerce-additional-fields__field-wrapper-->
 
 			</div><!-- .woocommerce-additional-fields -->
@@ -89,55 +89,55 @@
 
 
 
-	<h3 id="order_review_heading">Your order</h3>
+	<h3 id="order_review_heading">پیشنهاد شما</h3>
 
 
 	<div class="woocommerce-checkout-review-order" id="order_review">
 		<div class="order-review-wrapper">
-			<h3 class="order_review_heading">Your Order</h3>
+			<h3 class="order_review_heading">پیشنهاد شما</h3>
 			<table class="shop_table woocommerce-checkout-review-order-table">
 				<thead>
 					<tr>
-						<th class="product-name">Product</th>
-						<th class="product-total">Total</th>
+						<th class="product-name">تولید - محصول</th>
+						<th class="product-total">مجموع</th>
 					</tr>
 				</thead>
 
 				<tbody>
 					<tr class="cart_item">
 						<td class="product-name">
-							<strong class="product-quantity">1 ×</strong> 55" KU6470 6 Series UHD  Crystal Colour HDR Smart TV&nbsp;																				
+							<strong class="product-quantity">1 ×</strong> لورم ایپسوم متن ساختگی با.&nbsp;																				
 						</td>
 						<td class="product-total">
-							<span class="woocommerce-Price-amount amount"><span class="woocommerce-Price-currencySymbol">£</span>627.99</span>						
+							<span class="woocommerce-Price-amount amount"><span class="woocommerce-Price-currencySymbol">تومان</span>627.99</span>						
 						</td>
 					</tr>
 
 					<tr class="cart_item">
 						<td class="product-name">
-							<strong class="product-quantity">1 ×</strong> 4K Action Cam GPS&nbsp;																				
+							<strong class="product-quantity">1 ×</strong>لورم ایپسوم&nbsp;																				
 						</td>
 
 						<td class="product-total">
-							<span class="woocommerce-Price-amount amount"><span class="woocommerce-Price-currencySymbol">£</span>219.00</span>						
+							<span class="woocommerce-Price-amount amount"><span class="woocommerce-Price-currencySymbol">تومان</span>219.00</span>						
 						</td>
 					</tr>
 
 					<tr class="cart_item">
 						<td class="product-name">
-							<strong class="product-quantity">1 ×</strong> Bluetooth on-ear PureBass Headphones&nbsp;																				
+							<strong class="product-quantity">1 ×</strong> هدفون بلوتوث در گوش&nbsp;																				
 						</td>
 						<td class="product-total">
-							<span class="woocommerce-Price-amount amount"><span class="woocommerce-Price-currencySymbol">£</span>99.95</span>						
+							<span class="woocommerce-Price-amount amount"><span class="woocommerce-Price-currencySymbol">تومان</span>99.95</span>						
 						</td>
 					</tr>
 
 					<tr class="cart_item">
 						<td class="product-name">
-							<strong class="product-quantity">1 ×</strong> Band Fitbit Flex&nbsp;																				
+							<strong class="product-quantity">1 ×</strong> باند&nbsp;																				
 						</td>
 						<td class="product-total">
-							<span class="woocommerce-Price-amount amount"><span class="woocommerce-Price-currencySymbol">£</span>17.00</span>						
+							<span class="woocommerce-Price-amount amount"><span class="woocommerce-Price-currencySymbol">تومان</span>17.00</span>						
 						</td>
 					</tr>
 				</tbody>
@@ -145,14 +145,14 @@
 				<tfoot>
 
 					<tr class="cart-subtotal">
-						<th>Subtotal</th>
-						<td><span class="woocommerce-Price-amount amount"><span class="woocommerce-Price-currencySymbol">£</span>963.94</span></td>
+						<th>کل حجم</th>
+						<td><span class="woocommerce-Price-amount amount"><span class="woocommerce-Price-currencySymbol">تومان</span>963.94</span></td>
 					</tr>
 
 
 					<tr class="order-total">
-						<th>Total</th>
-						<td><strong><span class="woocommerce-Price-amount amount"><span class="woocommerce-Price-currencySymbol">£</span>963.94</span></strong> </td>
+						<th>مجموع</th>
+						<td><strong><span class="woocommerce-Price-amount amount"><span class="woocommerce-Price-currencySymbol">تومان</span>963.94</span></strong> </td>
 					</tr>
 
 
@@ -162,23 +162,23 @@
 			<div class="woocommerce-checkout-payment" id="payment">
 				<ul class="wc_payment_methods payment_methods methods">
 					<li class="wc_payment_method payment_method_bacs">
-						<input type="radio" data-order_button_text="" checked="checked" value="bacs" name="payment_method" class="input-radio" id="payment_method_bacs">
+						<input type="radio" data-order_button_text="" checked="checked" value="لورم ایپسوم" name="payment_method" class="input-radio" id="payment_method_bacs">
 
-						<label for="payment_method_bacs">Direct bank transfer</label>
+						<label for="payment_method_bacs">انتقال مستقیم بانک</label>
 						
 					</li>
 
 					<li class="wc_payment_method payment_method_cheque">
-						<input type="radio" data-order_button_text="" value="cheque" name="payment_method" class="input-radio" id="payment_method_cheque">
+						<input type="radio" data-order_button_text="" value="بررسی" name="payment_method" class="input-radio" id="payment_method_cheque">
 
-						<label for="payment_method_cheque">Check payments 	</label>
+						<label for="payment_method_cheque">پرداخت ها را بررسی کنید 	</label>
 						
 					</li>
 
 					<li class="wc_payment_method payment_method_cod">
-						<input type="radio" data-order_button_text="" value="cod" name="payment_method" class="input-radio" id="payment_method_cod">
+						<input type="radio" data-order_button_text="" value="کد" name="payment_method" class="input-radio" id="payment_method_cod">
 
-						<label for="payment_method_cod">Cash on delivery 	</label>
+						<label for="payment_method_cod">پرداخت نقدی	</label>
 						
 					</li>
 				</ul>
@@ -186,12 +186,12 @@
 				<div class="form-row place-order">
 					<p class="form-row terms wc-terms-and-conditions woocommerce-validated">
 						<label class="woocommerce-form__label woocommerce-form__label-for-checkbox checkbox">
-							<input type="checkbox" id="terms" name="terms" class="woocommerce-form__input woocommerce-form__input-checkbox input-checkbox"> <span>I’ve read and accept the <a class="woocommerce-terms-and-conditions-link" href="index.php?page=terms-and-conditions">terms &amp; conditions</a></span> <span class="required">*</span>
+							<input type="checkbox" id="terms" name="terms" class="woocommerce-form__input woocommerce-form__input-checkbox input-checkbox"> <span>قوانین را مطالعه کردم و قبول دارم <a class="woocommerce-terms-and-conditions-link" href="index.php?page=terms-and-conditions">مقررات &amp; شرایط</a></span> <span class="required">*</span>
 						</label>
 						<input type="hidden" value="1" name="terms-field">
 					</p>
 					
-					<a href="index.php?page=order-received" class="button wc-forward text-center">Place order</a>
+					<a href="index.php?page=order-received" class="button wc-forward text-center">سفارش</a>
 				</div>
 			</div><!-- /.woocommerce-checkout-payment -->	
 
