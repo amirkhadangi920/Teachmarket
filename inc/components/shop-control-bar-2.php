@@ -1,11 +1,11 @@
 <div class="shop-control-bar">
 	<div class="handheld-sidebar-toggle">
 		<button type="button" class="btn sidebar-toggler">
-		<i class="fa fa-sliders"></i><span>Filters</span>
+		<i class="fa fa-sliders"></i><span>فیلتر</span>
 		</button>
 	</div><!-- .handheld-sidebar-toggle -->
 	
-	<h1 class="woocommerce-products-header__title page-title">Shop</h1>
+	<h1 class="woocommerce-products-header__title page-title">خرید</h1>
 	<ul role="tablist" class="shop-view-switcher nav nav-tabs">
 		<li class="nav-item">
 			<a href="#grid" title="Grid View" data-toggle="tab" class="nav-link">
@@ -40,9 +40,9 @@
 
 	<form class="form-techmarket-wc-ppp" method="POST">
 		<select class="techmarket-wc-wppp-select c-select" onchange="this.form.submit()" name="ppp">
-			<option value="20">Show 20</option>
-			<option value="40">Show 40</option>
-			<option value="-1">Show All</option>
+			<option value="20">نمایش 20</option>
+			<option value="40">نمایش 40</option>
+			<option value="-1">نمایش همه</option>
 		</select>
 		<input type="hidden" value="5" name="shop_columns">
 		<input type="hidden" value="15" name="shop_per_page">
@@ -51,11 +51,11 @@
 
 	<form method="get" class="woocommerce-ordering">
 		<select class="orderby" name="orderby">
-			<option value="popularity">Sort by popularity</option>
-			<option value="rating">Sort by average rating</option>
-			<option selected="selected" value="date">Sort by newness</option>
-			<option value="price">Sort by price: low to high</option>
-			<option value="price-desc">Sort by price: high to low</option>
+			<option value="popularity">مرتب سازی بر اساس محبوبیت</option>
+			<option value="rating">مرتب سازی بر اساس میانگین رتبه بندی</option>
+			<option selected="selected" value="date">مرتب سازی بر اساس جدید بودن</option>
+			<option value="price">مرتب سازی بر اساس قیمت: کم تا زیاد</option>
+			<option value="price-desc">مرتب سازی بر اساس قیمت: از بالا به پایین</option>
 		</select>
 		<input type="hidden" value="5" name="shop_columns">
 		<input type="hidden" value="15" name="shop_per_page">

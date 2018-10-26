@@ -1,11 +1,19 @@
 <div class="shop-control-bar">
 	<div class="handheld-sidebar-toggle">
 		<button type="button" class="btn sidebar-toggler">
+<<<<<<< HEAD
 		<i class="fa fa-sliders"></i><span>فیلترها</span>
 		</button>
 	</div><!-- .handheld-sidebar-toggle -->
 	
 	<h1 class="woocommerce-products-header__title page-title">فروشگاه</h1>
+=======
+		<i class="fa fa-sliders"></i><span>فیلتر ها</span>
+		</button>
+	</div><!-- .handheld-sidebar-toggle -->
+	
+	<h1 class="woocommerce-products-header__title page-title">خرید</h1>
+>>>>>>> 45009bebadc289596e5051465fa6af50cbf9178a
 	<ul role="tablist" class="shop-view-switcher nav nav-tabs">
 		<li class="nav-item">
 			<a href="#grid" title="Grid View" data-toggle="tab" class="nav-link">
@@ -53,7 +61,11 @@
 		<select class="orderby" name="orderby">
 			<option value="popularity">مرتب سازی بر اساس محبوبیت</option>
 			<option value="rating">مرتب سازی بر اساس میانگین رتبه بندی</option>
+<<<<<<< HEAD
 			<option selected="selected" value="date">مرتب سازی بر اساس میانگین رتبه بندی</option>
+=======
+			<option selected="selected" value="date">مرتب سازی بر اساس جدید بودن</option>
+>>>>>>> 45009bebadc289596e5051465fa6af50cbf9178a
 			<option value="price">مرتب سازی بر اساس قیمت: کم تا زیاد</option>
 			<option value="price-desc">مرتب سازی بر اساس قیمت: از بالا به پایین</option>
 		</select>

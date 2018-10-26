@@ -76,7 +76,7 @@
             <p class="comment-notes"><span id="email-notes">آدرس اینترنتی شما منتشر نخواهد شد.</span> فیلدهای اجباری مشخص شده اند <span class="required">*</span></p><p class="comment-form-comment"><label for="comment">پیام</label> <textarea required="required" maxlength="65525" rows="8" cols="45" name="comment" id="comment"></textarea></p><p class="comment-form-author"><label for="author">نام <span class="required">*</span></label> <input type="text" required="required" aria-required="true" maxlength="245" size="30" value="" name="author" id="author"></p>
             <p class="comment-form-email"><label for="email">آدرس اینترنتی <span class="required">*</span></label> <input type="email" required="required" aria-required="true" aria-describedby="email-notes" maxlength="100" size="30" value="" name="email" id="email"></p>
             <p class="comment-form-url"><label for="url">وب سایت</label> <input type="url" maxlength="200" size="30" value="" name="url" id="url"></p>
-            <p class="form-submit"><input type="submit" value="Post Comment" class="submit"></p>
+            <p class="form-submit"><input type="submit" value="ارسال نظر" class="submit"></p>
         </form>
     </div><!-- #respond -->
 
