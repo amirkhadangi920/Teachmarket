@@ -15521,7 +15521,9 @@ form.woocommerce-checkout.checkout .col2-set .woocommerce-shipping-fields .wooco
 
 .page-template-template-homepage-v2 .section-categories-carousel.section-top-categories {
   padding-bottom: 0px;
-  margin-bottom: 1.125em; }
+  margin-bottom: 1.125em;
+  direction:rtl;
+  text-align:right;}
   .page-template-template-homepage-v2 .section-categories-carousel.section-top-categories .section-header {
     padding-top: 1.750em;
     display: block;
@@ -15610,8 +15612,8 @@ form.woocommerce-checkout.checkout .col2-set .woocommerce-shipping-fields .wooco
         text-align: center; } }
     @media (min-width: 1200px) and (max-width: 1919px) {
       .section-categories-carousel.section-top-categories .section-header {
-        flex: 0 0 20.8333333333%;
-        max-width: 20.8333333333%; } }
+        flex: 0 0 15%;
+        max-width: 15%; } }
 
 @media (min-width: 768px) and (max-width: 1199px) {
   .section-categories-carousel.section-top-categories .section-header {
