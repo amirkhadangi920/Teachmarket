@@ -40,38 +40,38 @@
 	);
 
 	$tab_title = array(
-		'Top 20' , 'Audio &amp; Video' , 'Laptops &amp; Computers' , 'Video Cameras'
+		'20 فروش برتر' , 'ضبط صوت و فیلم' , 'لب تاپ و کامپیوتر' , 'دوربین های فیلمبرداری'
 	);
 
 	$page = isset($_GET['page']) ? $_GET['page'] : 'home-v1';
 	if( $page=='home-v1') {
 		$section_class = 'section-hot-new-arrivals section-products-carousel-tabs techmarket-tabs';
-		$section_title = 'Hot Best Sellers';
+		$section_title = 'بهترین فروشندگان داغ';
 		$product_item = 'inc/components/product-item.php';
   	}
 
   	else if( $page=='home-v2') {
 		$section_class = 'section-hot-new-arrivals section-products-carousel-tabs techmarket-tabs';
-		$section_title = 'Hot New Arrivals';
+		$section_title = 'ورودی جدید داغ';
 		$product_item = 'inc/components/product-item.php';
 	}	
 
 	else if( $page=='home-v4') {
 		$section_class = 'section-products-carousel-tabs';
-		$section_title = 'Hot Best Sellers';
+		$section_title = 'بهترین فروشندگان داغ';
 		$product_item = 'inc/components/product-item.php';
 	}
 	
 
 	else if( $page=='home-v6') {
 		$section_class = 'section-products-carousel-tabs techmarket-tabs';
-		$section_title = 'Wearable Gadgets 2017';
+		$section_title = 'گجت های پوشیدنی 2017';
 		$product_item = 'inc/components/product-item.php';
 	}
 
 	else if( $page=='home-v14') {
 		$section_class = 'section-products-carousel-tabs techmarket-tabs';
-		$section_title = 'Wearable Gadgets 2017';
+		$section_title = 'گجت های پوشیدنی 2017';
 		$product_item = 'inc/components/product-item-10.php';
 	}
 
