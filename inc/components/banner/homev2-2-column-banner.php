@@ -3,7 +3,7 @@
 		<a href="index.php?page=shop">
 			<div style="background-size: cover; background-position: center center; background-image: url( assets/images/banner/2-1.jpg ); height: 256px;" class="banner-bg">
 				<div class="caption">
-					<div class="banner-info"><h3 class="title"><strong>20% تخفیف</strong> <br> لورم ایپسوم <br> لپ تاب ها و تبلت ها<br>Notebooks &amp;<br>بیشتر</h3>
+					<div class="banner-info"><h3 class="title"><strong>20% تخفیف</strong> <br> لورم ایپسوم <br> لپ تاب ها و تبلت ها<br>نتبوک &amp;<br>بیشتر</h3>
 					</div><!-- .banner-info -->
 				</div><!-- .caption -->
 			</div><!-- .banner-bg -->

@@ -27,7 +27,7 @@
 										<a class="woocommerce-LoopProduct-link woocommerce-loop-product__link" href="index.php?page=shop"> 
 											<div class="deal-countdown-timer">
 												<div class="marketing-text">
-													<span class="line-1">معامله روزانه،</span>
+													<span class="line-1">پیشنهاد روزانه</span>
 													<span class="line-2">عجله کن!</span>
 												</div>
 												
@@ -35,7 +35,7 @@
 												<div class="deal-countdown countdown"></div>
 											</div><!-- .deal-countdown-timer-->  
 
-											<h2 class="woocommerce-loop-product__title">Supreme x Nike Sock Dart Red</h2>
+											<h2 class="woocommerce-loop-product__title">جوراب supreme x Nice</h2>
 
 											<span class="price">
 												<ins><span class="woocommerce-Price-amount amount"><span class="woocommerce-Price-currencySymbol">$</span>100.00</span></ins> 
@@ -46,13 +46,13 @@
 												<div title="Rated 5.00 out of 5" class="star-rating"><span style="width:100%"><strong class="rating">5.00</strong> out of 5</span></div> <span class="review-count">(1)</span>
 											</div><!-- .techmarket-product-rating -->
 										</a>
-										<a class="button product_type_simple add_to_cart_button" href="index.php?page=cart">Add to cart</a>
+										<a class="button product_type_simple add_to_cart_button" href="index.php?page=cart">اضافه کردن به سبد خرید</a>
 									</div><!-- .media-body -->  
 
 									<div class="product-images-wrapper">
 										<div class="sale-label-outer">
 											<div class="sale-saved-label">
-												<span class="saved-label-text">Save</span>
+												<span class="saved-label-text">اضافه کردن</span>
 												<span class="saved-label-amount"><span class="woocommerce-Price-amount amount">
 												<span class="woocommerce-Price-currencySymbol">$</span>60.00</span></span>
 											</div><!-- .sale-saved-label -->  
@@ -110,15 +110,15 @@
 										<a class="woocommerce-LoopProduct-link woocommerce-loop-product__link" href="index.php?page=shop"> 
 											<div class="deal-countdown-timer">
 												<div class="marketing-text">
-													<span class="line-1">Daily Deal,</span>
-													<span class="line-2">Hurry up!</span>
+													<span class="line-1">پیشنهاد روزانه</span>
+													<span class="line-2">عجله کن!</span>
 												</div>
 												
 												<span class="deal-time-diff" style="display:none;">28800</span>					
 												<div class="deal-countdown countdown"></div>
 											</div><!-- .deal-countdown-timer-->  
 
-											<h2 class="woocommerce-loop-product__title">Supreme x Nike Sock Dart Red</h2>
+											<h2 class="woocommerce-loop-product__title">جوراب supreme x Nice</h2>
 
 											<span class="price">
 												<ins><span class="woocommerce-Price-amount amount"><span class="woocommerce-Price-currencySymbol">$</span>100.00</span></ins> 
@@ -129,13 +129,13 @@
 												<div title="Rated 5.00 out of 5" class="star-rating"><span style="width:100%"><strong class="rating">5.00</strong> out of 5</span></div> <span class="review-count">(1)</span>
 											</div><!-- .techmarket-product-rating -->
 										</a>
-										<a class="button product_type_simple add_to_cart_button" href="index.php?page=cart">Add to cart</a>
+										<a class="button product_type_simple add_to_cart_button" href="index.php?page=cart">اضافه کردن به سبد خرید</a>
 									</div><!-- .media-body -->  
 
 									<div class="product-images-wrapper">
 										<div class="sale-label-outer">
 											<div class="sale-saved-label">
-												<span class="saved-label-text">Save</span>
+												<span class="saved-label-text">اضافه کردن</span>
 												<span class="saved-label-amount"><span class="woocommerce-Price-amount amount">
 												<span class="woocommerce-Price-currencySymbol">$</span>60.00</span></span>
 											</div><!-- .sale-saved-label -->  
@@ -193,15 +193,15 @@
 										<a class="woocommerce-LoopProduct-link woocommerce-loop-product__link" href="index.php?page=shop"> 
 											<div class="deal-countdown-timer">
 												<div class="marketing-text">
-													<span class="line-1">Daily Deal,</span>
-													<span class="line-2">Hurry up!</span>
+													<span class="line-1">پیشنهاد روزانه</span>
+													<span class="line-2">عجله کنید !</span>
 												</div>
 												
 												<span class="deal-time-diff" style="display:none;">28800</span>					
 												<div class="deal-countdown countdown"></div>
 											</div><!-- .deal-countdown-timer-->  
 
-											<h2 class="woocommerce-loop-product__title">Supreme x Nike Sock Dart Red</h2>
+											<h2 class="woocommerce-loop-product__title">جوراب supreme x Nice</h2>
 
 											<span class="price">
 												<ins><span class="woocommerce-Price-amount amount"><span class="woocommerce-Price-currencySymbol">$</span>100.00</span></ins> 
@@ -212,13 +212,13 @@
 												<div title="Rated 5.00 out of 5" class="star-rating"><span style="width:100%"><strong class="rating">5.00</strong> out of 5</span></div> <span class="review-count">(1)</span>
 											</div><!-- .techmarket-product-rating -->
 										</a>
-										<a class="button product_type_simple add_to_cart_button" href="index.php?page=cart">Add to cart</a>
+										<a class="button product_type_simple add_to_cart_button" href="index.php?page=cart">اضافه کردن به سبد خرید</a>
 									</div><!-- .media-body -->  
 
 									<div class="product-images-wrapper">
 										<div class="sale-label-outer">
 											<div class="sale-saved-label">
-												<span class="saved-label-text">Save</span>
+												<span class="saved-label-text">اضافه کردن</span>
 												<span class="saved-label-amount"><span class="woocommerce-Price-amount amount">
 												<span class="woocommerce-Price-currencySymbol">$</span>60.00</span></span>
 											</div><!-- .sale-saved-label -->  

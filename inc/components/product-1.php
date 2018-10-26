@@ -12,7 +12,7 @@ function display_product_1( $product ) {
             if($product['wishlist']==true) {
         ?>
             <div class="yith-wcwl-add-to-wishlist">
-                <a href="index.php?page=wishlist" rel="nofollow" class="add_to_wishlist"> Add to Wishlist</a>
+                <a href="index.php?page=wishlist" rel="nofollow" class="add_to_wishlist"> افزودن به لیست دلخواه</a>
             </div> 
          <?php } ?> 
          
@@ -20,7 +20,7 @@ function display_product_1( $product ) {
             <?php
                 if($product['onsale']==true) {
             ?>
-                <span class="onsale"><span class="woocommerce-Price-amount amount"><span class="woocommerce-Price-currencySymbol">$</span>150.04</span></span>
+                <span class="onsale"><span class="woocommerce-Price-amount amount"><span class="woocommerce-Price-currencySymbol">تومان</span>150.04</span></span>
             <?php } ?> 
 
             
@@ -44,7 +44,7 @@ function display_product_1( $product ) {
 
         <div class="techmarket-product-rating">
             <div class="star-rating" title="Rated 0 out of 5">
-                <span style="width:0%"><strong class="rating">0</strong> out of 5</span>
+                <span style="width:0%"><strong class="rating">0</strong> از 5</span>
             </div> 
             <span class="review-count">(5)</span>
         </div>
@@ -52,8 +52,8 @@ function display_product_1( $product ) {
         <?php } ?>
 
         <div class="hover-area">
-            <a class="button add_to_cart_button" href="index.php?page=cart" rel="nofollow">Add to cart</a>
-            <a class="add-to-compare-link" href="index.php?page=compare">Compare</a>
+            <a class="button add_to_cart_button" href="index.php?page=cart" rel="nofollow">افزودن به سبد خرید</a>
+            <a class="add-to-compare-link" href="index.php?page=compare">مقایسه کنید</a>
         </div>
     </div><!-- /.product-outer -->
     <?php

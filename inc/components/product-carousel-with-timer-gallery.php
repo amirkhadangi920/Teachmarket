@@ -106,20 +106,20 @@
 
 							<div class="media-body">
 
-								<span class="onsale"><span class="woocommerce-Price-amount amount"><span class="woocommerce-Price-currencySymbol">$</span>242.99</span></span>
+								<span class="onsale"><span class="woocommerce-Price-amount amount"><span class="woocommerce-Price-currencySymbol">تومان</span>242.99</span></span>
 
 								<a class="woocommerce-LoopProduct-link" href="index.php?page=single-product-fullwidth">
 									<span class="price">
-										<ins><span class="woocommerce-Price-amount amount"><span class="woocommerce-Price-currencySymbol">$</span>627.99</span></ins>
-										<del><span class="woocommerce-Price-amount amount"><span class="woocommerce-Price-currencySymbol">$</span>939.99</span></del>
+										<ins><span class="woocommerce-Price-amount amount"><span class="woocommerce-Price-currencySymbol">تومان</span>627.99</span></ins>
+										<del><span class="woocommerce-Price-amount amount"><span class="woocommerce-Price-currencySymbol">تومان</span>939.99</span></del>
 									</span>
 
-									<h2 class="woocommerce-loop-product__title">55″ KU6470 6 Series UHD  Crystal Colour HDR Smart TV</h2>
+									<h2 class="woocommerce-loop-product__title">55 "KU6470 6 سری UHD کریستال رنگ HDR هوشمند تلویزیون</h2>
 
 									<div class="deal-progress">
 										<div class="deal-stock">
-											<div class="stock-sold">Already Sold: <strong>0</strong></div>
-											<div class="stock-available">Available: <strong>10</strong></div>
+											<div class="stock-sold">قبلا فروخته شده است: <strong>0</strong></div>
+											<div class="stock-available">در دسترس: <strong>10</strong></div>
 										</div>
 										<div class="progress">
 											<span style="width:0%" class="progress-bar">0</span>
@@ -127,7 +127,7 @@
 									</div>
 								</a>
 
-								<a class="button add_to_cart_button" href="index.php?page=cart">Add to cart</a>
+								<a class="button add_to_cart_button" href="index.php?page=cart">افزودن به سبد خرید</a>
 							</div><!-- /.media-body -->
 						</div><!-- /.media -->
 					</div><!-- .onsale-product-carousel-with-timer product -->

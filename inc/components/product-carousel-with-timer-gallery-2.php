@@ -62,7 +62,7 @@
 
 <section id="section-products-carousel-6" class="section-landscape-products-carousel section-landscape-products-carousel-with-thumbnails">
 	<header class="section-header">
-		<h2 class="section-title">Electronic Lawnmowers</h2>
+		<h2 class="section-title">چمنزارهای الکترونیکی</h2>
 		<nav class="custom-slick-nav"></nav><!-- .custom-slick-nav -->
 	</header><!-- .section-header -->
 
@@ -135,18 +135,18 @@
 
 	            				<div class="media-body">
 	            					<a href="index.php?page=single-product-fullwidth" class="woocommerce-LoopProduct-link">
-	            						<span class="price"><ins><span class="woocommerce-Price-amount amount"><span class="woocommerce-Price-currencySymbol">$</span>3,499.99</span></ins> <del><span class="woocommerce-Price-amount amount"><span class="woocommerce-Price-currencySymbol">$</span>4,129.99</span></del></span>
-	            						<h2 class="woocommerce-loop-product__title">X930E Series 65” 4K Ultra Slim HD  High Dynamic Range 3D</h2>
+	            						<span class="price"><ins><span class="woocommerce-Price-amount amount"><span class="woocommerce-Price-currencySymbol">تومان</span>3,499.99</span></ins> <del><span class="woocommerce-Price-amount amount"><span class="woocommerce-Price-currencySymbol">تومان</span>4,129.99</span></del></span>
+	            						<h2 class="woocommerce-loop-product__title">X930E سری 65 "4K Ultra Slim HD HD Dynamic Range</h2>
 	            						<div class="ribbon green-label"><span>A+</span></div>
 	            						<div class="techmarket-product-rating">
 	                						<div class="star-rating" title="Rated 0 out of 5">
-	                							<span style="width:0%"><strong class="rating">0</strong> out of 5</span>
+	                							<span style="width:0%"><strong class="rating">0</strong> از 5</span>
 	                						</div> 
 	                						<span class="review-count">(0)</span>
 	                					</div>
 	            					</a>
-	            					<a rel="nofollow" href="index.php?page=cart" class="button product_type_simple">Add to cart</a>
-	            					<a href="index.php?page=compare" class="add-to-compare-link">Add to compare</a>
+	            					<a rel="nofollow" href="index.php?page=cart" class="button product_type_simple">افزودن به سبد خرید</a>
+	            					<a href="index.php?page=compare" class="add-to-compare-link">افزودن برای مقایسه</a>
 	            				</div><!-- /.media-body -->
 		                	</div><!-- /.media -->
 		                </div><!-- /.landscape-product-card-featured -->
