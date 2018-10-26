@@ -48,7 +48,7 @@
 								
 											</span><!-- .price -->
 
-											<h2 class="woocommerce-loop-product__title">اسپیکر بلوتوث بی سیم S100 - نئون سبز</h2>
+											<h2 class="woocommerce-loop-product__title">اسپیکر بلوتوث بی سیم 100 هزار تومان - نئون سبز</h2>
 
 											<div class="techmarket-product-rating">
 												<div title="Rated 0 out of 5" class="star-rating"><span style="width:0%"><strong class="rating">0</strong> از 5</span>

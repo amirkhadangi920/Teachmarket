@@ -24,7 +24,7 @@
 		<tr class="woocommerce-table__line-item order_item">
 
 			<td class="woocommerce-table__product-name product-name">
-				<a href="index.php?page=single-product-fullwidth">XPS 13 Laptop 6GB W10 Infinity Edge Display</a>
+				<a href="index.php?page=single-product-fullwidth">لورم ایپسوم متن ساختگی با تولید سادگی نامفهوم از.</a>
 				<strong class="product-quantity">× 1</strong>	
 			</td>
 
