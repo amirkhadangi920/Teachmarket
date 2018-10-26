@@ -37,7 +37,7 @@
 			<div style="background-size: cover; background-position: center center; background-image: url( assets/images/banner/10-5.jpg ); height: 724px;" class="banner-bg">
 				<div class="caption">
 					<div class="banner-info">
-						<h3 class="title"><span>Be</span>Active</h3> 
+						<h3 class="title"><span>با </span>لورم ایپسوم </h3> 
 					</div><!-- .banner-info -->
 				</div><!-- .caption -->
 			</div><!-- .banner-bg -->
