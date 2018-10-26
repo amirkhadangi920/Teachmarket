@@ -17,13 +17,13 @@ function display_product_rating($productImageURL,$oldPrice,$newPrice,$price, $pr
 
     <div class="techmarket-product-rating">
         <div title="Rated 4.33 out of 5" class="star-rating">
-        <span style="width:86.6%"><strong class="rating">4.33</strong> out of 5</span></div> 
+        <span style="width:86.6%"><strong class="rating">4.33</strong> از 5</span></div> 
         <span class="review-count">(3)</span>
     </div>
 
     <div class="hover-area">
-        <a class="button add_to_cart_button" href="index.php?page=cart" rel="nofollow">Add to cart</a>
-        <a class="add-to-compare-link" href="index.php?page=compare">Add to compare</a>
+        <a class="button add_to_cart_button" href="index.php?page=cart" rel="nofollow">افزودن به سبد خرید</a>
+        <a class="add-to-compare-link" href="index.php?page=compare">افزودن به مقایسه</a>
     </div>
 </div><!-- /.product-outer -->
 <?php } ?>
