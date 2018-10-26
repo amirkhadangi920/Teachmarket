@@ -8,12 +8,9 @@
 							<h3 class="title">تازه رسیده ها<br> در  <strong>اکسسوری</strong> <br> با بهترین قیمت ها</h3>				
 						</div><!-- .banner-info -->
 						<span class="banner-action button">دیدن همه</span>
-<<<<<<< HEAD
-=======
 							<h3 class="title">برترین تازه ها<br> در <strong>اکسسوری</strong> <br> با بهترین قیمت</h3>				
 						</div><!-- .banner-info -->
 						<span class="banner-action button">نمایش همه</span>
->>>>>>> af6f94faa94be52f30b17043cf87e578f29ba6a0
 					</div><!-- .caption -->
 				</div><!-- .banner-bg -->
 			</a>
