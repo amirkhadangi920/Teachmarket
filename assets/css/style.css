@@ -20022,7 +20022,8 @@ table.shop_table_responsive.my_account_orders .order-actions {
   .single-product div[itemprop="description"] ul,
   .single-product .woocommerce-product-details__short-description ul {
     padding-left: 1.1em;
-    margin-left: 0; }
+    margin-left: 0;
+	text-align:right;}
 
 @media (min-width: 1200px) and (max-width: 1399px) {
   .single-product div[itemprop="description"],
