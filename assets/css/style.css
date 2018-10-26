@@ -19771,6 +19771,8 @@ table.shop_table_responsive.my_account_orders .order-actions {
         .single-product .woocommerce-tabs .tm-tabs li + li,
         .single-product .techmarket-tabs .wc-tabs li + li,
         .single-product .techmarket-tabs .tm-tabs li + li {
+			    padding-right: 25px;
+    padding-left: 20px;
           padding-left: 60px; } }
     @media (min-width: 1200px) {
       .single-product .woocommerce-tabs .wc-tabs,
@@ -19788,12 +19790,13 @@ table.shop_table_responsive.my_account_orders .order-actions {
     .single-product .woocommerce-tabs .tm-tabs li,
     .single-product .techmarket-tabs .wc-tabs li,
     .single-product .techmarket-tabs .tm-tabs li {
-      border-bottom: none; }
+      border-bottom: none; 
+	  padding-left: 25px;}
       .single-product .woocommerce-tabs .wc-tabs li a,
       .single-product .woocommerce-tabs .tm-tabs li a,
       .single-product .techmarket-tabs .wc-tabs li a,
       .single-product .techmarket-tabs .tm-tabs li a {
-        padding: 30px 0 !important;
+        
         text-transform: uppercase; }
         @media (min-width: 768px) {
           .single-produc
@@ -20264,7 +20267,9 @@ p.available-on-backorder {
   width: 100vw;
   margin-left: -50vw;
   left: 50%;
-  z-index: 99; }
+  z-index: 99;
+direction: rtl;
+    padding-right: 100px;  }
   @media (min-width: 2000px) {
     .full-width.single-product .woocommerce-tabs .wc-tabs,
     .full-width.single-product .woocommerce-tabs .tm-tabs,
@@ -25262,11 +25267,13 @@ dl.variation {
 
 .section-products-carousel .section-header,
 .section-products-carousel-tabs .section-header {
-  margin-bottom: 1.313em; }
+  margin-bottom: 1.313em;
+ direction:rtl;  }
 
 @media (max-width: 700px) {
   .section-products-carousel-tabs .section-header .section-title {
-    margin-bottom: 24px; } }
+    margin-bottom: 24px;
+   	} }
 
 @media (max-width: 767px) {
   .section-products-carousel .products-carousel > .container-fluid,
