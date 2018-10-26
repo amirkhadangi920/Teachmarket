@@ -80,19 +80,13 @@
 	}
 ?>
 
-<section class="<?php echo $section_class; ?> section-products-carousel-with-vertical-tabs">
-	<header class="section-header">
+<section class="<?php echo $section_class; ?> section-products-carousel-with-vertical-tabs" id="pkh-new-products-carousel-with-vertical-header">
+	<header class="section-header" >
 		<h2 class="section-title"><?php echo $section_title; ?></h2>
 	</header><!-- /.section-header -->
 
 	<div class="products-carousel-with-vertical-tabs row">
-		<ul role="tablist" class="nav">
-			<li class="nav-item"><a class="nav-link active" href="#desktop-pc" data-toggle="tab"><span class="category-title"><i class="tm tm-desktop-pc"></i> کامپیوتر های رو میزی</span><i class="tm tm-arrow-right"></i></a></li>
-			<li class="nav-item"><a class="nav-link" href="#ultrabooks" data-toggle="tab"><span class="category-title"><i class="tm tm-laptop"></i> اولترابوک ها</span><i class="tm tm-arrow-right"></i></a></li>
-			<li class="nav-item"><a class="nav-link" href="#smartphones" data-toggle="tab"><span class="category-title"><i class="tm tm-smartphone"></i> تلفن هوشمند</span><i class="tm tm-arrow-right"></i></a></li>
-			<li class="nav-item"><a class="nav-link" href="#internet-cams" data-toggle="tab"><span class="category-title"><i class="tm tm-digital-camera"></i> کدهای اینترنت</span><i class="tm tm-arrow-right"></i></a></li>
-			<li class="nav-item"><a class="nav-link" href="#accessories" data-toggle="tab"><span class="category-title"><i class="tm tm-accesories"></i> اکسسوری</span><i class="tm tm-arrow-right"></i></a></li>
-		</ul>
+
 
 		<div style="background-size: cover; background-position: center center; background-image: url( assets/images/banner/vertical-bg.png ); height: 552px;" class="tab-content">
 			<div id="desktop-pc" class="tab-pane active" role="tabpanel">
@@ -145,6 +139,13 @@
 				</div><!-- .products-carousel -->
 			</div><!-- .tab-pane -->
 		</div><!-- .tab-content -->
+		<ul role="tablist" class="nav">
+			<li class="nav-item"><a class="nav-link active" href="#desktop-pc" data-toggle="tab"><span class="category-title"><i class="tm tm-arrow-left"></i><i class="tm tm-desktop-pc"></i> کامپیوتر های رو میزی</span></a></li>
+			<li class="nav-item"><a class="nav-link" href="#ultrabooks" data-toggle="tab"><span class="category-title"><i class="tm tm-arrow-left"></i><i class="tm tm-laptop"></i> اولترابوک ها</span></a></li>
+			<li class="nav-item"><a class="nav-link" href="#smartphones" data-toggle="tab"><span class="category-title"><i class="tm tm-arrow-left"></i><i class="tm tm-smartphone"></i> تلفن هوشمند</span></a></li>
+			<li class="nav-item"><a class="nav-link" href="#internet-cams" data-toggle="tab"><span class="category-title"><i class="tm tm-arrow-left"></i><i class="tm tm-digital-camera"></i> کدهای اینترنت</span></a></li>
+			<li class="nav-item"><a class="nav-link" href="#accessories" data-toggle="tab"><span class="category-title"><i class="tm tm-arrow-left"></i><i class="tm tm-accesories"></i> اکسسوری</span></a></li>
+		</ul>
 	</div><!-- /.products-carousel-with-vertical-tabs -->
 </section><!-- /.section-products-carousel-with-vertical-tabs -->
 

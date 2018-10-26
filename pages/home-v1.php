@@ -8,9 +8,9 @@
 					<?php require_once 'inc/blocks/homepage/features-list.php'; ?>
 
 					<div class="section-deals-carousel-and-products-carousel-tabs row">
-						<?php require_once 'inc/blocks/homepage/deals-carousel.php'; ?>
-						
 						<?php require_once 'inc/blocks/homepage/products-carousel-tabs-1.php'; ?>
+						
+						<?php require_once 'inc/blocks/homepage/deals-carousel.php'; ?>
 					</div>
 
 					<?php require_once 'inc/blocks/homepage/fullwidth-notice.php'; ?>
