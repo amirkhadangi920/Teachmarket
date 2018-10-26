@@ -27,8 +27,8 @@
 										<a class="woocommerce-LoopProduct-link woocommerce-loop-product__link" href="index.php?page=shop"> 
 											<div class="deal-countdown-timer">
 												<div class="marketing-text">
-													<span class="line-1">Daily Deal,</span>
-													<span class="line-2">Hurry up!</span>
+													<span class="line-1">معامله روزانه،</span>
+													<span class="line-2">عجله کن!</span>
 												</div>
 												
 												<span class="deal-time-diff" style="display:none;">28800</span>					
