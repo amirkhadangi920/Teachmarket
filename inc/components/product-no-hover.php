@@ -24,12 +24,12 @@ function display_no_hover_product( $product ) {
         
         <div class="techmarket-product-rating">
             <div class="star-rating" title="Rated 0 out of 5">
-                <span style="width:0%"><strong class="rating">0</strong> out of 5</span>
+                <span style="width:0%"><strong class="rating">0</strong> از 5</span>
             </div> 
             <span class="review-count">(5)</span>
         </div>
 
-        <a class="button add_to_cart_button" href="index.php?page=cart" rel="nofollow">Add to cart</a>
+        <a class="button add_to_cart_button" href="index.php?page=cart" rel="nofollow">افزودن به سبد خرید</a>
             
     </div><!-- /.product-outer -->
     <?php
