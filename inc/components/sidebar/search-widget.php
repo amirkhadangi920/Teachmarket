@@ -4,6 +4,6 @@
 			<span class="screen-reader-text">جست و جو :</span>
 			<input type="search" name="s" value="" placeholder="Search …" class="search-field">
 		</label>
-		<input type="submit" value="Search" class="search-submit">
+		<input type="submit" value="جستجو" class="search-submit">
 	</form><!-- .search-form -->
 </div><!-- .widget_search -->
