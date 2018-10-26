@@ -22,14 +22,14 @@
                 <div class="media-body">
 	                <div class="product-info">
 	  					<div class="yith-wcwl-add-to-wishlist">
-			                <a href="index.php?page=wishlist" rel="nofollow" class="add_to_wishlist"> Add to Wishlist</a>
+			                <a href="index.php?page=wishlist" rel="nofollow" class="add_to_wishlist"> افزودن به لیست دلخواه</a>
 			            </div><!-- .yith-wcwl-add-to-wishlist --> 
 			            
 						<a class="woocommerce-LoopProduct-link woocommerce-loop-product__link" href="index.php?page=single-product-fullwidth">
-							<h2 class="woocommerce-loop-product__title">60UH6150 60-Inch 4K Ultra HD Smart LED TV</h2>
+							<h2 class="woocommerce-loop-product__title">60UH6150 60 اینچ 4K فوق العاده HD هوشمند تلویزیون LED</h2>
 							<div class="techmarket-product-rating">
 								<div title="Rated 5.00 out of 5" class="star-rating">
-									<span style="width:100%"><strong class="rating">5.00</strong> out of 5</span>
+									<span style="width:100%"><strong class="rating">5.00</strong> از 5</span>
 								</div> 
 								<span class="review-count">(1)</span>
 							</div>
@@ -42,27 +42,27 @@
 
 						<div class="woocommerce-product-details__short-description">
 							<ul>
-								<li>CUJO smart firewall brings business-level Internet security to protect all of your home devices</li>
-								<li>Internet Security: Guard your network and smart devices against hacks, malware, and cyber threats</li>
-								<li>Mobile App: Monitor your wired and wireless network activity with a sleek iPhone or Android app</li>
-								<li>CUJO connects to your wireless router with an ethernet cable. CUJO is not compatible with Luma and does not support Google Wifi Mesh. CUJO works with Eero in Bridge mode.</li>
+								<li>فایروال هوشمند CUJO امنیت اینترنت در سطح کسب و کار را برای محافظت از تمامی دستگاه های خانگی خود به ارمغان می آورد</li>
+								<li>امنیت اینترنت: شبکه و دستگاه های هوشمند خود را در برابر هک ها، بدافزارها و تهدیدات اینترنتی محافظت کنید</li>
+								<li>برنامه تلفن همراه: فعالیت شبکه سیمی و بی سیم خود را با یک برنامه آیفون و یا براق براق نظارت کنید</li>
+								<li>CUJO با روتر بی سیم خود را با کابل اترنت متصل می کند. CUJO با Luma سازگار نیست و Google Wifi Mesh را پشتیبانی نمی کند. CUJO با حالت Eero در Bridge کار می کند.</li>
 							</ul>
 						</div><!-- .woocommerce-product-details__short-description -->
 					</div><!-- .product-info -->
 					
 					<div class="product-actions">
 						<div class="availability">
-							Availability: 
-							<p class="stock in-stock">1000 in stock</p>
+							دسترسی:
+							<p class="stock in-stock">1000 در انبار</p>
 						</div>
 
 						<span class="price">
-							<span class="woocommerce-Price-amount amount"><span class="woocommerce-Price-currencySymbol">$</span>730.00</span>
+							<span class="woocommerce-Price-amount amount"><span class="woocommerce-Price-currencySymbol">تومان</span>730.00</span>
 						</span><!-- .price -->
 
-						<a class="button add_to_cart_button" href="index.php?page=cart">Add to Cart</a>
+						<a class="button add_to_cart_button" href="index.php?page=cart">افزودن به سبد خرید</a>
 						
-						<a class="add-to-compare-link" href="index.php?page=compare">Add to compare</a>
+						<a class="add-to-compare-link" href="index.php?page=compare">افزودن برای مقایسه</a>
 					</div><!-- .product-actions -->
 				</div><!-- .media-body -->
 			</div><!-- .media -->
