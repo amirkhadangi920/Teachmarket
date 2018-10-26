@@ -168,6 +168,7 @@
         <link rel="stylesheet" type="text/css" href="assets/css/slick-style.css" media="all" />
         <link rel="stylesheet" type="text/css" href="assets/css/animate.min.css" media="all" />
 		<link rel="stylesheet" type="text/css" href="assets/css/style.css" media="all" />
+		<link rel="stylesheet" type="text/css" href="assets/css/new-style.css" media="all" />
 		<link rel="stylesheet" type="text/css" href="assets/css/colors/<?php echo $color; ?>.css" media="all" />
 		
 		<!-- Adding Persian fonts to Teamplate -->
