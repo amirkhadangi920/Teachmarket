@@ -4,35 +4,35 @@
 			<div class="feature">
 				<div class="media">
 					<i class="feature-icon d-flex mr-3 tm tm-free-delivery"></i>
-					<div class="media-body feature-text"><strong>Free Delivery</strong>from $50</div>
+					<div class="media-body feature-text"><strong>تحویل رایگان</strong>از $50</div>
 				</div><!-- .media -->
 			</div><!-- .feature -->
 
 			<div class="feature">
 				<div class="media">
 					<i class="feature-icon d-flex mr-3 tm tm-feedback"></i>
-					<div class="media-body feature-text"><strong>99 % Customer</strong>Feedbacks</div>
+					<div class="media-body feature-text"><strong>99 % قیمت</strong>برگرداندن</div>
 				</div><!-- .media -->
 			</div><!-- .feature -->
 
 			<div class="feature">
 				<div class="media">
 					<i class="feature-icon d-flex mr-3 tm tm-free-return"></i>
-					<div class="media-body feature-text"><strong>365 Days </strong>for free return</div>
+					<div class="media-body feature-text"><strong>هر روز سال </strong>برای برگرداندن بصورت رایگان</div>
 				</div><!-- .media -->
 			</div><!-- .feature -->
 
 			<div class="feature">
 				<div class="media">
 					<i class="feature-icon d-flex mr-3 tm tm-safe-payments"></i>
-					<div class="media-body feature-text"><strong>Payment</strong>Secure System</div>
+					<div class="media-body feature-text"><strong>پرداخت</strong>الکترونیکی</div>
 				</div><!-- .media -->
 			</div><!-- .feature -->
 
 			<div class="feature">
 				<div class="media">
 					<i class="feature-icon d-flex mr-3 tm tm-best-brands"></i>
-					<div class="media-body feature-text"><strong>Only Best</strong>Brands</div>
+					<div class="media-body feature-text"><strong>با بهترین</strong>برند ها</div>
 				</div><!-- .media -->
 			</div><!-- .feature -->
 		</div><!-- .features -->

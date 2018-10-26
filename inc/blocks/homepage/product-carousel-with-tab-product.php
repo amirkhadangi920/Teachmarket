@@ -266,7 +266,7 @@
 	<div class="row">
 		<section class="<?php echo $section_class; ?>" id="<?php echo $section_id; ?>">
 			<header class="section-header">
-				<h2 class="section-title">Trending Now</h2>
+				<h2 class="section-title">در حال اجرا</h2>
 				<nav class="custom-slick-nav"></nav><!-- .custom-slick-nav -->
 			</header><!-- .section-header -->
 

@@ -25,7 +25,7 @@ $timer_value = '28800';
 	<div class="deals-carousel-inner-block">
 		<header class="section-header">
 			<h2 class="section-title">
-			<strong>Daily deals!</strong> Get our best prices.</h2>
+			<strong>جزییات روزانه !</strong>بهترین قیمت ها</h2>
 			<div class="deal-countdown-timer">
 				<span class="deal-time-diff" style="display:none;">28800</span>
 				<div class="deal-countdown countdown"></div>
