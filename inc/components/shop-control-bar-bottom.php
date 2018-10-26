@@ -28,7 +28,7 @@
 			<li><a href="#" class="page-numbers">3</a></li>
 			<li><a href="#" class="page-numbers">4</a></li>
 			<li><a href="#" class="page-numbers">5</a></li>
-			<li><a href="#" class="next page-numbers">→</a></li>
+			<li><a href="#" class="next page-numbers">6</a></li>
 		</ul><!-- .page-numbers -->
 	</nav><!-- .woocommerce-pagination -->
 </div><!-- .shop-control-bar-bottom -->

@@ -47,7 +47,7 @@
                     </td>
 
                     <td class="product-name">
-                        <a href="index.php?page=single-product-fullwidth">Cam Cam Cam 4K با GPS Wi-Fi</a>
+                        <a href="index.php?page=single-product-fullwidth">لورم ایپسوم متن ساختگی با تولید.</a>
                     </td>
 
                     <td class="product-price">
@@ -87,7 +87,7 @@
                     </td>
 
                     <td class="product-name">
-                        <a href="index.php?page=single-product-fullwidth">55EG9600 - 55 اینچ 2160p هوشمند منحنی Ultra HD 3D</a>
+                        <a href="index.php?page=single-product-fullwidth">لورم ایپسوم متن ساختگی با تولید.</a>
                     </td>
 
                     <td class="product-price">
@@ -127,7 +127,7 @@
                     </td>
 
                     <td class="product-name">
-                        <a href="index.php?page=single-product-fullwidth">360 درجه مشاهده هدست VR Immersive</a>
+                        <a href="index.php?page=single-product-fullwidth">لورم ایپسوم متن ساختگی با تولید.</a>
                     </td>
 
                     <td class="product-price">

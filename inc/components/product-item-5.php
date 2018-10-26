@@ -9,7 +9,7 @@
         array(
             'wishlist' => '',
             'onsale'   => '',  
-            'product_name' => 'Nereide',
+            'product_name' => 'لورم ایپسوم ',
             'productImageURL' => 'assets/images/glasses/1.jpg',
             'oldPrice' =>'459.00',
             'newPrice' =>'309.95',
@@ -19,7 +19,7 @@
         array(
             'wishlist' => '',
             'onsale'   => '',  
-            'product_name' => 'Hubble',
+            'product_name' => 'لورم ایپسوم ',
             'productImageURL' => 'assets/images/glasses/2.jpg',
             'price' =>'456.00',
             'starrating' => 'true'
@@ -27,7 +27,7 @@
         array(
             'wishlist' => '',
             'onsale'   => '', 
-            'product_name' => 'Auriga',
+            'product_name' => 'لورم ایپسوم ',
             'productImageURL' => 'assets/images/glasses/3.jpg',
             'price' =>'456.00',
             'starrating' => 'true'
@@ -35,7 +35,7 @@
         array(
             'wishlist' => '',
             'onsale'   => '', 
-            'product_name' => 'Octans',
+            'product_name' => 'لورم ایپسوم ',
             'productImageURL' => 'assets/images/glasses/4.jpg',
             'price' =>'456.00',
             'starrating' => 'true'
@@ -43,7 +43,7 @@
         array(
             'wishlist' => '',
             'onsale'   => '', 
-            'product_name' => 'Dino',
+            'product_name' => 'لورم ایپسوم ',
             'productImageURL' => 'assets/images/glasses/5.jpg',
             'price' =>'456.00',
             'starrating' => 'true'
@@ -51,7 +51,7 @@
         array(
             'wishlist' => '',
             'onsale'   => '', 
-            'product_name' => 'Barents',
+            'product_name' => 'لورم ایپسوم ',
             'productImageURL' => 'assets/images/glasses/6.jpg',
             'oldPrice' =>'999.00',
             'newPrice' =>'789.95',
@@ -60,7 +60,7 @@
         array(
             'wishlist' => '',
             'onsale'   => '', 
-            'product_name' => 'Scott',
+            'product_name' => 'لورم ایپسوم ',
             'productImageURL' => 'assets/images/glasses/7.jpg',
             'price' =>'456.00',
             'starrating' => 'true'
@@ -68,7 +68,7 @@
         array(
             'wishlist' => '',
             'onsale'   => '', 
-            'product_name' => 'Doria',
+            'product_name' => 'لورم ایپسوم ',
             'productImageURL' => 'assets/images/glasses/8.jpg',
             'price' =>'456.00',
             'starrating' => 'true'
@@ -76,7 +76,7 @@
         array(
             'wishlist' => '',
             'onsale'   => '', 
-            'product_name' => 'Ara',
+            'product_name' => 'لورم ایپسوم ',
             'productImageURL' => 'assets/images/glasses/9.jpg',
             'price' =>'456.00',
             'starrating' => 'true'
@@ -84,7 +84,7 @@
         array(
             'wishlist' => '',
             'onsale'   => '', 
-            'product_name' => 'Apus Air',
+            'product_name' => 'لورم ایپسوم ',
             'productImageURL' => 'assets/images/glasses/10.jpg',
             'price' =>'456.00',
             'starrating' => 'true'
@@ -92,7 +92,7 @@
         array(
             'wishlist' => '',
             'onsale'   => '', 
-            'product_name' => 'Canopo Wide',
+            'product_name' => 'لورم ایپسوم ',
             'productImageURL' => 'assets/images/glasses/11.jpg',
             'price' =>'456.00',
             'starrating' => 'true'
@@ -100,7 +100,7 @@
         array(
             'wishlist' => '',
             'onsale'   => '', 
-            'product_name' => 'Anselm',
+            'product_name' => 'لورم ایپسوم ',
             'productImageURL' => 'assets/images/glasses/12.jpg',
             'price' =>'456.00',
             'starrating' => 'true'

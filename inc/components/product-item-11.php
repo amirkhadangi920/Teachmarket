@@ -9,7 +9,7 @@
 		array(
 			'wishlist' => 'true',
 			'onsale'   => '',  
-			'product_name' => 'Light Weight Ikea Tunholmen Table',
+			'product_name' => 'لورم ایپسوم متن ساختگی.',
 			'productImageURL' => 'assets/images/garden/f1.jpg',
             'price' =>'456.00',
            	'starrating' => ''
@@ -17,7 +17,7 @@
 		array(
 			'wishlist' => 'true',
 			'onsale'   => 'true',
-			'product_name' => 'Tunholmen',
+			'product_name' => 'لورم ایپسوم متن ساختگی.',
 			'productImageURL' => 'assets/images/garden/f2.jpg',
             'oldPrice' =>'459.00',
             'newPrice' =>'309.95',
@@ -26,7 +26,7 @@
 		array(
 			'wishlist' => 'true',
 			'onsale'   => '',
-			'product_name' => 'Hallo Seat Back Pad Outdoor Beige',
+			'product_name' => 'لورم ایپسوم متن ساختگی.',
 			'productImageURL' => 'assets/images/garden/f3.jpg',
             'price' =>'456.00',
             'starrating' => ''
@@ -34,7 +34,7 @@
 		array(
 			'wishlist' => 'true',
 			'onsale'   => '',
-			'product_name' => 'Pale Blue Mammut Kids Children’s Chair',
+			'product_name' => 'لورم ایپسوم متن ساختگی.',
 			'productImageURL' => 'assets/images/garden/f4.jpg',
             'price' =>'456.00',
             'starrating' => ''
@@ -42,7 +42,7 @@
 		array(
 			'wishlist' => 'true',
 			'onsale'   => '',
-			'product_name' => 'White Outdoor Chair',
+			'product_name' => 'لورم ایپسوم متن ساختگی.',
 			'productImageURL' => 'assets/images/garden/f5.jpg',
             'price' =>'456.00',
             'starrating' => ''
@@ -50,7 +50,7 @@
 		array(
 			'wishlist' => 'true',
 			'onsale'   => '',
-			'product_name' => 'Falster Chair',
+			'product_name' => 'لورم ایپسوم متن ساختگی.',
 			'productImageURL' => 'assets/images/garden/f6.jpg',
 			'price' =>'456.00',
 			'starrating' => ''
@@ -59,7 +59,7 @@
 		array(
 			'wishlist' => 'true',
 			'onsale'   => 'true',
-			'product_name' => 'Falster Chair',
+			'product_name' => 'لورم ایپسوم متن ساختگی.',
 			'productImageURL' => 'assets/images/garden/f7.jpg',
 			'oldPrice' =>'999.00',
             'newPrice' =>'789.95',
@@ -69,7 +69,7 @@
 		array(
 			'wishlist' => 'true',
 			'onsale'   => '',
-			'product_name' => 'White Outdoor Chair',
+			'product_name' => 'لورم ایپسوم متن ساختگی.',
 			'productImageURL' => 'assets/images/garden/f8.jpg',
             'price' =>'456.00',
             'starrating' => ''
@@ -77,7 +77,7 @@
 		array(
 			'wishlist' => 'true',
 			'onsale'   => '',
-			'product_name' => 'Hallo Seat Back Pad Outdoor Beige',
+			'product_name' => 'لورم ایپسوم متن ساختگی.',
 			'productImageURL' => 'assets/images/garden/f3.jpg',
             'price' =>'456.00',
             'starrating' => ''
@@ -85,7 +85,7 @@
 		array(
 			'wishlist' => 'true',
 			'onsale'   => '',
-			'product_name' => 'White Outdoor Chair',
+			'product_name' => 'لورم ایپسوم متن ساختگی.',
 			'productImageURL' => 'assets/images/garden/f6.jpg',
             'price' =>'456.00',
             'starrating' => ''
@@ -93,7 +93,7 @@
 		array(
 			'wishlist' => 'true',
 			'onsale'   => '',
-			'product_name' => 'Light Weight Ikea Tunholmen Table',
+			'product_name' => 'لورم ایپسوم متن ساختگی.',
 			'productImageURL' => 'assets/images/garden/f4.jpg',
             'price' =>'456.00',
             'starrating' => ''
@@ -101,7 +101,7 @@
 		array(
 			'wishlist' => 'true',
 			'onsale'   => '',
-			'product_name' => 'One Nutritional Shake, Berry',
+			'product_name' => 'لورم ایپسوم متن ساختگی.',
 			'productImageURL' => 'assets/images/garden/f7.jpg',
             'price' =>'456.00',
             'starrating' => ''
@@ -109,7 +109,7 @@
 		array(
 			'wishlist' => 'true',
 			'onsale'   => '',
-			'product_name' => 'Natural Force – Organic Whey Unflavored – 13.76 oz',
+			'product_name' => 'لورم ایپسوم متن ساختگی.',
 			'productImageURL' => 'assets/images/garden/f1.jpg',
             'price' =>'456.00',
             'starrating' => ''
@@ -117,7 +117,7 @@
 		array(
 			'wishlist' => 'true',
 			'onsale'   => 'true',
-			'product_name' => 'Gerber, Rice Cereal, Single Grain',
+			'product_name' => 'لورم ایپسوم متن ساختگی.',
 			'productImageURL' => 'assets/images/garden/f5.jpg',
             'oldPrice' =>'399.00',
             'newPrice' =>'262.81',
@@ -126,7 +126,7 @@
 		array(
 			'wishlist' => 'true',
 			'onsale'   => '',
-			'product_name' => 'Baby Wipes, Free and Clear',
+			'product_name' => 'لورم ایپسوم متن ساختگی.',
 			'productImageURL' => 'assets/images/garden/f3.jpg',
             'price' =>'399.00',
             'starrating' => ''

@@ -66,6 +66,6 @@
 	<nav class="techmarket-advanced-pagination">
 		<form class="form-adv-pagination" method="post">
 			<input type="number" value="1" class="form-control" step="1" max="5" min="1" size="2" id="goto-page">
-		</form> of 5<a href="#" class="next page-numbers">→</a>
+		</form> از 5<a href="#" class="next page-numbers">→</a>
 	</nav><!-- .techmarket-advanced-pagination -->
 </div><!-- .shop-control-bar -->

@@ -136,7 +136,7 @@
 	            				<div class="media-body">
 	            					<a href="index.php?page=single-product-fullwidth" class="woocommerce-LoopProduct-link">
 	            						<span class="price"><ins><span class="woocommerce-Price-amount amount"><span class="woocommerce-Price-currencySymbol">تومان</span>3,499.99</span></ins> <del><span class="woocommerce-Price-amount amount"><span class="woocommerce-Price-currencySymbol">تومان</span>4,129.99</span></del></span>
-	            						<h2 class="woocommerce-loop-product__title">X930E سری 65 "4K Ultra Slim HD HD Dynamic Range</h2>
+	            						<h2 class="woocommerce-loop-product__title">لورم ایپسوم متن ساختگی با تولید سادگی نامفهوم از.</h2>
 	            						<div class="ribbon green-label"><span>A+</span></div>
 	            						<div class="techmarket-product-rating">
 	                						<div class="star-rating" title="Rated 0 out of 5">

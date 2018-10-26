@@ -9,7 +9,7 @@
 		array(
 			'wishlist' => 'true',
 			'onsale'   => '',  
-			'product_name' => 'Sea Salt Seaweed Snack',
+			'product_name' => 'لورم ایپسوم متن ساختگی.',
 			'productImageURL' => 'assets/images/garden/1.jpg',
             'price' =>'456.00',
            	'starrating' => ''
@@ -17,7 +17,7 @@
 		array(
 			'wishlist' => 'true',
 			'onsale'   => 'true',
-			'product_name' => 'Organic Corn Flakes Cereal, Fruit Juice Sweetened',
+			'product_name' => 'لورم ایپسوم متن ساختگی.',
 			'productImageURL' => 'assets/images/garden/2.jpg',
             'oldPrice' =>'459.00',
             'newPrice' =>'309.95',
@@ -26,7 +26,7 @@
 		array(
 			'wishlist' => 'true',
 			'onsale'   => '',
-			'product_name' => 'VeganEgg, 100% Plant Based',
+			'product_name' => 'لورم ایپسوم متن ساختگی.',
 			'productImageURL' => 'assets/images/garden/3.jpg',
             'price' =>'456.00',
             'starrating' => ''
@@ -34,7 +34,7 @@
 		array(
 			'wishlist' => 'true',
 			'onsale'   => '',
-			'product_name' => 'Orange Organic Dark Chocolate- 70% Cocoa',
+			'product_name' => 'لورم ایپسوم متن ساختگی.',
 			'productImageURL' => 'assets/images/garden/4.jpg',
             'price' =>'456.00',
             'starrating' => ''
@@ -42,7 +42,7 @@
 		array(
 			'wishlist' => 'true',
 			'onsale'   => '',
-			'product_name' => 'Ranch Dressing with Avocado Oil, Dairy-Free',
+			'product_name' => 'لورم ایپسوم متن ساختگی.',
 			'productImageURL' => 'assets/images/garden/5.jpg',
             'price' =>'456.00',
             'starrating' => ''
@@ -50,7 +50,7 @@
 		array(
 			'wishlist' => 'true',
 			'onsale'   => '',
-			'product_name' => 'Avocado Oil Mayo',
+			'product_name' => 'لورم ایپسوم متن ساختگی.',
 			'productImageURL' => 'assets/images/garden/6.jpg',
 			'price' =>'456.00',
 			'starrating' => ''
@@ -59,7 +59,7 @@
 		array(
 			'wishlist' => 'true',
 			'onsale'   => 'true',
-			'product_name' => 'Organic Fruit Strips, Strawberry',
+			'product_name' => 'لورم ایپسوم متن ساختگی.',
 			'productImageURL' => 'assets/images/garden/7.jpg',
 			'oldPrice' =>'999.00',
             'newPrice' =>'789.95',
@@ -69,7 +69,7 @@
 		array(
 			'wishlist' => 'true',
 			'onsale'   => '',
-			'product_name' => 'Organic Creamy Peanut Butter',
+			'product_name' => 'لورم ایپسوم متن ساختگی.',
 			'productImageURL' => 'assets/images/garden/8.jpg',
             'price' =>'456.00',
             'starrating' => ''
@@ -77,7 +77,7 @@
 		array(
 			'wishlist' => 'true',
 			'onsale'   => '',
-			'product_name' => 'Organic Extra Virgin Olive Oil',
+			'product_name' => 'لورم ایپسوم متن ساختگی.',
 			'productImageURL' => 'assets/images/garden/9.jpg',
             'price' =>'456.00',
             'starrating' => ''
@@ -85,7 +85,7 @@
 		array(
 			'wishlist' => 'true',
 			'onsale'   => '',
-			'product_name' => 'Cacao Chip Cookies, 6 count',
+			'product_name' => 'لورم ایپسوم متن ساختگی.',
 			'productImageURL' => 'assets/images/garden/10.jpg',
             'price' =>'456.00',
             'starrating' => ''
@@ -93,7 +93,7 @@
 		array(
 			'wishlist' => 'true',
 			'onsale'   => '',
-			'product_name' => '5-Day Healthy Detox Plan',
+			'product_name' => 'لورم ایپسوم متن ساختگی.',
 			'productImageURL' => 'assets/images/garden/4.jpg',
             'price' =>'456.00',
             'starrating' => ''
@@ -101,7 +101,7 @@
 		array(
 			'wishlist' => 'true',
 			'onsale'   => '',
-			'product_name' => 'One Nutritional Shake, Berry',
+			'product_name' => 'لورم ایپسوم متن ساختگی.',
 			'productImageURL' => 'assets/images/garden/7.jpg',
             'price' =>'456.00',
             'starrating' => ''
@@ -109,7 +109,7 @@
 		array(
 			'wishlist' => 'true',
 			'onsale'   => '',
-			'product_name' => 'Natural Force – Organic Whey Unflavored – 13.76 oz',
+			'product_name' => 'لورم ایپسوم متن ساختگی.',
 			'productImageURL' => 'assets/images/garden/1.jpg',
             'price' =>'456.00',
             'starrating' => ''
@@ -117,7 +117,7 @@
 		array(
 			'wishlist' => 'true',
 			'onsale'   => 'true',
-			'product_name' => 'Gerber, Rice Cereal, Single Grain',
+			'product_name' => 'لورم ایپسوم متن ساختگی.',
 			'productImageURL' => 'assets/images/garden/2.jpg',
             'oldPrice' =>'399.00',
             'newPrice' =>'262.81',
@@ -126,7 +126,7 @@
 		array(
 			'wishlist' => 'true',
 			'onsale'   => '',
-			'product_name' => 'Baby Wipes, Free and Clear',
+			'product_name' => 'لورم ایپسوم متن ساختگی.',
 			'productImageURL' => 'assets/images/garden/9.jpg',
             'price' =>'399.00',
             'starrating' => ''
@@ -134,7 +134,7 @@
 		array(
 			'wishlist' => 'true',
 			'onsale'   => '',
-			'product_name' => 'Cacao Chip Cookies, 6 count',
+			'product_name' => 'لورم ایپسوم متن ساختگی.',
 			'productImageURL' => 'assets/images/garden/10.jpg',
             'price' =>'456.00',
             'starrating' => ''

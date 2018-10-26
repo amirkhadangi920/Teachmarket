@@ -47,7 +47,7 @@
 
 					<div class="product-actions">
 						<span class="price">
-							<span class="woocommerce-Price-amount amount"><span class="woocommerce-Price-currencySymbol">$</span>730.00</span>
+							<span class="woocommerce-Price-amount amount"><span class="woocommerce-Price-currencySymbol">تومان</span>730.00</span>
 						</span><!-- .price -->
 						
 						<a class="button add_to_cart_button" href="index.php?page=cart">افزودن به سبد خرید</a>

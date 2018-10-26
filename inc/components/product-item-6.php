@@ -7,69 +7,69 @@
             'productImageURL' => 'assets/images/products/1.jpg',
             'oldPrice' =>'459.00',
             'newPrice' =>'309.95',
-            'product_name' => 'Smart Watches 3 SWR50'
+            'product_name' => 'لورم ایپسوم متن ساختگی با تولید سادگی.'
             
         ),
         array(
             'productImageURL' => 'assets/images/products/2.jpg',
             'price' =>'456.00',
-            'product_name' => 'ZenBook 3 Ultrabook 8GB 512SSD W10'
+            'product_name' => 'لورم ایپسوم متن ساختگی با تولید سادگی.'
         
         ),
         array(
             'productImageURL' => 'assets/images/products/3.jpg',
             'price' =>'456.00',
-            'product_name' => 'On-ear Wireless NXTG'
+            'product_name' => 'لورم ایپسوم متن ساختگی با تولید سادگی.'
             
         ),
         array(
             'productImageURL' => 'assets/images/products/4.jpg',
             'price' =>'456.00',
-            'product_name' => '4K Action Cam with  Wi-Fi & GPS'
+            'product_name' => 'لورم ایپسوم متن ساختگی با تولید سادگی.'
             
         ),
         array(
             'productImageURL' => 'assets/images/products/5.jpg',
             'price' =>'456.00',
-            'product_name' => 'XONE Wireless Controller'
+            'product_name' => 'لورم ایپسوم متن ساختگی با تولید سادگی.'
         
         ),
         array(
             'productImageURL' => 'assets/images/products/6.jpg',
             'oldPrice' =>'999.00',
             'newPrice' =>'789.95',
-            'product_name' => 'Gear Virtual Reality 3D with Bluetooth Glasses'
+            'product_name' => 'لورم ایپسوم متن ساختگی با تولید سادگی.'
             
             
         ),
         array(
             'productImageURL' => 'assets/images/products/7.jpg',
             'price' =>'456.00',
-            'product_name' => 'Bluetooth on-ear PureBass Headphones'
+            'product_name' => 'لورم ایپسوم متن ساختگی با تولید سادگی.'
             
         ),
         array(
             'productImageURL' => 'assets/images/products/8.jpg',
             'price' =>'456.00',
-            'product_name' => 'Video & Air Quality Monitor'
+            'product_name' => 'لورم ایپسوم متن ساختگی با تولید سادگی نامفهوم از.'
             
         ),
         array(
             'productImageURL' => 'assets/images/products/9.jpg',
             'price' =>'456.00',
-             'product_name' => 'Watch Stainless with Grey Suture Leather Strap'
+             'product_name' => 'لورم ایپسوم متن ساختگی با تولید سادگی نامفهوم از.'
             
         ),
         array(
             'productImageURL' => 'assets/images/products/10.jpg',
             'price' =>'456.00',
-            'product_name' => 'Xtreme ultimate splashproof  portable speaker'
+            'product_name' => 'لورم ایپسوم متن ساختگی با تولید سادگی نامفهوم از.'
             
         ),
         array(
             'productImageURL' => 'assets/images/products/11.jpg',
             'price' =>'456.00',
-            'product_name' => 'Xtreme ultimate splashproof  portable speaker'
+            'product_name' => 'لورم ایپسوم متن ساختگی با تولید سادگی نامفهوم از.'
             
         )
 

@@ -9,7 +9,7 @@
         array(
             'wishlist' => '',
             'onsale'   => '',  
-            'product_name' => 'Nike SB Bruin Pink',
+            'product_name' => 'لورم ایپسوم متن ساختگی با تولید سادگی نامفهوم از.',
             'productImageURL' => 'assets/images/shoes/1.jpg',
             'oldPrice' =>'459.00',
             'newPrice' =>'309.95',
@@ -19,7 +19,7 @@
         array(
             'wishlist' => '',
             'onsale'   => '', 
-            'product_name' => 'Converse',
+            'product_name' => 'لورم ایپسوم متن ساختگی با تولید سادگی نامفهوم از.',
             'productImageURL' => 'assets/images/shoes/2.jpg',
             'price' =>'456.00',
             'starrating' => 'true'
@@ -27,7 +27,7 @@
         array(
             'wishlist' => '',
             'onsale'   => '', 
-            'product_name' => 'Nike Air Max Plus TN ULTRA',
+            'product_name' => 'لورم ایپسوم متن ساختگی با تولید سادگی نامفهوم از.',
             'productImageURL' => 'assets/images/shoes/3.jpg',
             'price' =>'456.00',
             'starrating' => 'true'
@@ -35,7 +35,7 @@
         array(
             'wishlist' => '',
             'onsale'   => '', 
-            'product_name' => 'Nike Air Force',
+            'product_name' => 'لورم ایپسوم متن ساختگی با تولید سادگی نامفهوم از.',
             'productImageURL' => 'assets/images/shoes/4.jpg',
             'price' =>'456.00',
             'starrating' => 'true'
@@ -43,7 +43,7 @@
         array(
             'wishlist' => '',
             'onsale'   => '', 
-            'product_name' => 'Nike Air Max Woven Boot',
+            'product_name' => 'لورم ایپسوم متن ساختگی با تولید سادگی نامفهوم از.',
             'productImageURL' => 'assets/images/shoes/5.jpg',
             'price' =>'456.00',
             'starrating' => 'true'
@@ -51,7 +51,7 @@
         array(
             'wishlist' => '',
             'onsale'   => '', 
-            'product_name' => 'NikeLab Free Run Motion Fly Knit 2017',
+            'product_name' => 'لورم ایپسوم متن ساختگی با تولید سادگی نامفهوم از.',
             'productImageURL' => 'assets/images/shoes/6.jpg',
             'oldPrice' =>'999.00',
             'newPrice' =>'789.95',
@@ -60,7 +60,7 @@
         array(
             'wishlist' => '',
             'onsale'   => '', 
-            'product_name' => 'Jordan Trainer 1 Low',
+            'product_name' => 'لورم ایپسوم متن ساختگی با تولید سادگی نامفهوم از.',
             'productImageURL' => 'assets/images/shoes/7.jpg',
             'price' =>'456.00',
             'starrating' => 'true'

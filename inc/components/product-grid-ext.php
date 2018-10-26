@@ -58,7 +58,7 @@
                     <span class="review-count">(1)</span>
                 </div><!-- .techmarket-product-rating -->
 
-                <span class="sku_wrapper">SKU: <span class="sku">5487FB8/13</span></span>
+                <span class="sku_wrapper">لورم ایپسوم <span class="sku">26/8/1376</span></span>
 
                 <div class="woocommerce-product-details__short-description">
                     <ul>
