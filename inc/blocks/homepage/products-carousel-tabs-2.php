@@ -81,7 +81,7 @@
 <section class="<?php echo $section_class; ?>">
 
 	<div class="section-products-carousel-tabs-wrap">
-		<header class="section-header">
+		<header class="section-header" id="pkh-new-products-carousel-tabs-header">
 			<h2 class="section-title"><?php echo $section_title; ?></h2>
 
 			<ul role="tablist" class="nav justify-content-end">

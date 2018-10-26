@@ -78,7 +78,7 @@
 		<a class="readmore-link" href="#">دسته بندی کامل</a>
 	</header><!-- .section-header -->
 
-	<div class="product-categories-1 product-categories-carousel" data-ride="tm-slick-carousel" data-wrap=".products" data-slick="<?php echo htmlspecialchars( json_encode( $carousel_args ), ENT_QUOTES, 'UTF-8' ); ?>">
+	<div class="product-categories-1 product-categories-carousel" id="pkh-new-product" data-ride="tm-slick-carousel" data-wrap=".products" data-slick="<?php echo htmlspecialchars( json_encode( $carousel_args ), ENT_QUOTES, 'UTF-8' ); ?>">
 		<div class="woocommerce columns-<?php echo $column; ?>">
 			<div class="products">
 

@@ -1,0 +1,30 @@
+#new-fullwidth-notice{
+    direction: rtl!important;
+}
+#categories-carousel-1{
+    direction: rtl;
+}
+#pkh-new-product{
+    direction: ltr;
+}
+#pkh-new-header-slide{
+    direction: rtl;
+    text-align: right;
+}
+#pkh-new-products-carousel-tabs-header{
+    direction: rtl
+}
+#pkh-new-products-carousel-tabs-header ul li:first-of-type{
+    padding-left: 20px;
+}
+#landscape-products-carousel header{
+    direction: rtl;
+}
+#pkh-new-products-carousel-with-vertical-header header{
+    right:0;
+    padding-right: 0px;
+    padding-right: 4em;
+}
+.section-landscape-products-carousel .section-header{
+    direction: rtl;
+}
