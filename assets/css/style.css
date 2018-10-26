@@ -14273,7 +14273,11 @@ form.woocommerce-checkout.checkout .col2-set .woocommerce-shipping-fields .wooco
   float: left; }
 
 .footer-newsletter .newsletter-header {
-  text-align: right;.footer-social-icons .social-icons.nav .nav-item + .nav-item
+  text-align: right;
+}
+
+.footer-social-icons .social-icons.nav .nav-item + .nav-item
+{
   margin-right: 3.667em; }
 
 .footer-newsletter .footer-newsletter-icon {

@@ -52,7 +52,7 @@
 
 	<div class="section-products-carousel-tabs-wrap">
 		<header class="section-header">
-			<h2 class="section-title">Beauty &amp; Personal Care</h2>
+			<h2 class="section-title">زیبایی و ؛ مراقبت شخصی</h2>
 
 			<ul role="tablist" class="nav justify-content-end">
 

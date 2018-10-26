@@ -10,7 +10,6 @@
                                 <img width="300" height="300" alt="" class="attachment-shop_catalog size-shop_catalog wp-post-image" src="assets/images/products/1-2.jpg">                            
                             </div>
                         </div>
-
                         <div class="product-info">
                             <h3 class="product-title">تلویزین 3 بعدی 5 اینچ</h3>
                             <div class="star-rating"><span style="width:100%">امتیاز <strong class="rating">5.00</strong> از 5</span></div>                        

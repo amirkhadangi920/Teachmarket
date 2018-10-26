@@ -36,7 +36,7 @@
 ?>
 <section class="section-landscape-products-carousel 4-column-landscape-carousel" id="landscape-products-carousel" >
 	<header class="section-header">
-		<h2 class="section-title">Babies & Kids</h2>
+		<h2 class="section-title">نوزادیی و بچهگانه</h2>
 		<nav class="custom-slick-nav"></nav>
 	</header>
 

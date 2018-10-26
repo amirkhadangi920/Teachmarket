@@ -43,7 +43,7 @@
 
 <section  class="section-products-carousel" id="homev12-carousel-1">
 	<header class="section-header">
-		<h2 class="section-title">Hot New Arrivals You might Like</h2>
+		<h2 class="section-title">برترین های تازه که ممکن است دوست داشته باشید</h2>
 		<nav class="custom-slick-nav"></nav><!-- .custom-slick-nav -->
 	</header><!-- .section-header -->
 
