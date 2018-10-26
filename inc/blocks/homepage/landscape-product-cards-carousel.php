@@ -27,9 +27,9 @@
 	);
 ?>
 
-<section style="background-size: cover; background-position: center center; background-image: url( assets/images/products/card-bg.jpg ); height: 853px;" class="section-landscape-full-product-cards-carousel">
+<section style="background-size: cover; background-position: center center; background-image: url( assets/images/products/card-bg.jpg ); height: 853px;" class="section-landscape-full-product-cards-carousel" ">
 	<div class="col-full">
-		<header class="section-header">
+		<header class="section-header" id="pkh-new-header-slide">
 			<h2 class="section-title">
 				<strong>قدرت صدا و دیدن </strong>سرگرمی
 			</h2>
