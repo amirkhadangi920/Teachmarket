@@ -14,7 +14,7 @@
 ?>
 <section class="section-products-carousel">
 	<header class="section-header">
-		<h2 class="section-title">Featured Products</h2>
+		<h2 class="section-title">محصولات ویژه</h2>
 	</header>
 	<div class="products-carousel" data-ride="tm-slick-carousel" data-wrap=".products" data-slick="<?php echo htmlspecialchars( json_encode( $carousel_args ), ENT_QUOTES, 'UTF-8' ); ?>">
 		<div class="container-fluid">
