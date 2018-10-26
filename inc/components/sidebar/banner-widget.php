@@ -7,7 +7,7 @@
 						<h3 class="title"><strong>1000 mAh</strong><br><span>پاور بانک</span></h3>
 					</div><!-- .banner-info -->
 					<span class="price">تومان 34.99</span>
-					<span class="banner-action button">خرید/span>
+					<span class="banner-action button">خرید</span>
 				</div><!-- .caption -->
 			</div><!-- .banner-bg -->
 		</a>

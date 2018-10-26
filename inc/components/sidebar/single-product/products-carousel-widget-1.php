@@ -43,15 +43,15 @@
 
 										<div class="media-body">
 											<span class="price">
-												<ins><span class="amount"> 50.99</span></ins>
-												<del><span class="amount">26.99</span></del>
+												<ins><span class="amount"> تومان 50.99</span></ins>
+												<del><span class="amount"> تومان 26.99</span></del>
 								
 											</span><!-- .price -->
 
 											<h2 class="woocommerce-loop-product__title">اسپیکر بلوتوث بی سیم S100 - نئون سبز</h2>
 
 											<div class="techmarket-product-rating">
-												<div title="Rated 0 out of 5" class="star-rating"><span style="width:0%"><strong class="rating">0</strong> out of 5</span>
+												<div title="Rated 0 out of 5" class="star-rating"><span style="width:0%"><strong class="rating">0</strong> از 5</span>
 												</div> 
 												<span class="review-count">(0)</span>
 											</div><!-- .techmarket-product-rating -->
