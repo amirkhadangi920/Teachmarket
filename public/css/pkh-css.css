@@ -1,0 +1,13 @@
+.pkh-direction-ltr{
+    direction: rtl!important;
+}
+.pkh-direction-rtl{
+    direction:rtl!important;
+}
+.pkh-text-right{
+    text-align: right!important;
+}
+
+.pkh-blog{
+    left:0!important
+}

@@ -1,2 +1,0 @@
-# Teachmarket
-Teachmarket Template
